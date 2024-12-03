@@ -1,0 +1,337 @@
+# <a name="diarization-for-egyptian-dialect"></a> Diarization for Egyptian Dialect
+
+This file is a documentation for the work exerted in diarization process for Egyptian dialect, experments done, insights gained, approaches selected and results obtained so, make a cup of coffee and have fun
+
+
+## Table of Contents
+- [Diarization for Egyptian Dialect](#diarization-for-egyptian-dialect)
+  * [Introduction](#introduction)
+  * [Experiments on sample data](#experiment-sample-data)
+    + [pyAudioAnalysis](#pyAudioAnalysis-experiments)
+    + [PCA experiments](#pca-experiments)
+    + [Embedding models experiments](#embedding-models-experiments)
+    + [Window size experiments](#window-size-experiments)
+    + [Insights](#insights)
+  * [Datasets Exploration](#datasets-exploration)
+  * [Experiments on callhome test data](#experiments-callhome)
+    + [Insights](#insights)
+  * [Dataset Collection and Synthesis Trials](#dataset-collection-and-synthesis-trials)
+  * [Insights](#insights)
+  * [Contributors](#contributors)
+  * [Supervisor](#supervisor)
+  * [References](#references)
+ 
+## <a name="introduction"></a> Introduction
+Speaker Diarization is the task of segmenting and co-indexing audio recordings by speaker. in other words, diarization implies finding speaker boundaries and grouping segments that belong to the same speaker, and, as a by-product, determining the number of distinct speakers. the goal is not to identify known speakers, but to co-index segments that are attributed to the same speaker.
+
+### Current Aprroaches
+Current approaches for speaker diarization can be summarized in two main approaches: Multi-stage (pipeline) and End to End speaker diarization
+<div>
+<img src = "https://github.com/user-attachments/assets/ab612ca6-de15-4a76-a9fc-4f8a0a794e0b" width="50%">
+<img src = "https://github.com/user-attachments/assets/f7ff23d0-d29b-4fac-9362-d69c54bd903f" width="50%">
+</div>
+
+Having a scarcity in the arabic rather than the eqyptian training data and finding that the End to end approach is still not mature, we managed to go through a multi-stage (pipeline) approach 
+
+We started with an initial pipline having the following components:
+  * Whisper large model for speech activity and change detection: it outputs the starts and ends of the audio segments to extract the embedding
+  * Ecapa speech embedding model
+  * Agglomorative Clustering where the number of speakers must be known in advance
+
+## <a name="experiments-sample-data"></a> Experiments on sample data
+We constructed our first experiments on the provided sample audio with its correponding annotation.
+
+### <a name="pyAudioAnalysis-experiments"></a> PyAudioAnalysis experiments
+PyAudioAnalysis is a Python library covering a wide range of audio analysis tasks and speaker diarization is one of them. It works by extracting short-term and mid-term audio features based on zero-crossings, energy, energy entropy, spectral centroid, spread, flux, rolloff, mfcc, and chroma features. It then does K-Means clustering by trying all possible K in range of [2, 9] and finds the optimal K that has the maximum average silhouette. It also does HMM Smoothing as a post-processing step.
+
+However, the results were very bad, having a DER of 75.31%. So, we decided to use our own pipeline and try with different clustering algorithms.
+
+### <a name="pca-experiments"></a> PCA experiments
+First we conducted an experiment testing the pipeline performance on different clustering algorithms with and without PCA
+The pipeline with pca refers to doing principle component analysis (PCA) on the generated embeddings by the embedding model before doing the clustering
+
+The results in the table represents the DER value without overlap
+|       | Agglomorative     | Mean Shift      | DBscan    |
+|-------|-------------------|-----------------|-----------|
+| without PCA  | 0.265  | 0.416  | 0.416  |
+| with PCA  | 0.272  | 0.275  | 0.261  | 
+
+### <a name="embedding-models-experiments"></a> Embedding Models experiments
+We then conducted an experiment testing different embedding models performance including (speakerverification_en_titanet_large, spkrec-ecapa-voxceleb, wespeaker-voxceleb-resnet34-LM) and combinations between them
+In this experiment we used Agglomorative clustering with number of clusters computed using Automated Elbow method
+
+|    | Tita Net   | Ecapa   | ResNet34   | Tita Net and Ecapa   | Tita Net and RestNet34   |  Ecapa and ResNet34  |
+|----|------------|------------|------------|------------|------------|------------|
+| DER with Overlap | 0.252 | 0.237 | 0.271 | 0.229 | 0.251 | 0.243 |
+| DER without Overlap | 0.249 | 0.233 | 0.268 | 0.226 | 0.248 | 0.239 |
+
+Some Qualitative Results for each model:
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f50768e6-a7fa-44e8-bf9a-cd4eae682934" width="50%">
+      <p>Scatter plot for PCA of the embedding generated by Tita Net</p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/5c5edc51-d926-454d-bc35-a3c58b1e7996" width="50%">
+      <p>Scatter plot for the resulted clustering</p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a2ca1f55-0bba-40f9-8399-764837567bc1" width="50%">
+      <p>Scatter plot for PCA of the embedding generated by Ecapa</p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ed1f56ba-e217-4c8e-b7b5-8f0336383258" width="50%">
+      <p>Scatter plot for the resulted clustering</p>
+    </td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/0ca85df4-89b3-42ea-8d30-f91862fe0113" width="50%">
+      <p>Scatter plot for PCA of the embedding generated by ResNet34 Net</p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/2362407b-fabd-4a53-a500-f9eef76bc575" width="50%">
+      <p>Scatter plot for the resulted clustering</p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/9967c915-0b36-42ff-8035-8ffb5d13c183" width="50%">
+      <p>Scatter plot for PCA of the embedding generated by </p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/68e28aa8-b5db-48ec-a4de-e8cf7b829529" width="50%">
+      <p>Scatter plot for the resulted clustering</p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f88235e9-3985-4826-a182-8b1f40b008eb" width="50%">
+      <p>Scatter plot for PCA of the embedding generated by the concatenation between Tita Net and ResNet34</p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/beab2516-704c-4054-abcb-7a2b04ed414e" width="50%">
+      <p>Scatter plot for the resulted clustering</p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/8c10c5f9-f02a-4c3f-a61b-85ea3a8bd77c" width="50%">
+      <p>Scatter plot for PCA of the embedding generated by the concatenation between Ecapa and ResNet34</p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/269fd340-61a2-4cf1-b892-1cde1ab84dd0" width="50%">
+      <p>Scatter plot for the resulted clustering</p>
+    </td>
+  </tr>
+</table>
+
+### <a name="window-size-experiments"></a> Window size experiments
+We conducted another experiment trying to fix the window size and compared it to the segments generated by whisper large model.
+We used TitaNet as our embedding model
+
+
+|    | 0.5 sec   | 1 sec   | 2 sec   | 3 sec | 4 sec | whisper segments |
+|----|------------|------------|------------|------------|------------|------------|
+| DER with Overlap | 0.323 | 0.257 | 0.257 | 0.290 | 0.279 | 0.252 |
+| DER without Overlap | 0.320 | 0.254 | 0.252 | 0.285 | 0.275 | 0.249 |
+
+Some qualitative for each window size
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/c5e8018e-d8af-4fe6-b1b4-a944deb20873" width="50%">
+      <p>ws = 4 sec </p>
+    </td>
+       <td align="center">
+      <img src="https://github.com/user-attachments/assets/4d443fce-c306-4c1e-88ab-cdbde1f7358c" width="50%">
+      <p>ws = 4 sec </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/b4f52662-6e5d-4e0b-913d-a78b5e935e08" width="50%">
+      <p>ws = 3 sec</p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/d586e2df-2297-4a1e-88bd-b46332eda1a6" width="50%">
+      <p>ws = 3 sec</p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+   <td align="center">
+      <img src="https://github.com/user-attachments/assets/6cfbf280-470f-41df-948f-dbfb760e31ef" width="50%">
+      <p>ws = 2 sec</p>
+    </td>
+       <td align="center">
+      <img src="https://github.com/user-attachments/assets/724f2a59-c0ff-4f79-8b03-edc65dbc92ae" width="50%">
+      <p>ws = 2 sec</p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+   <td align="center">
+      <img src="https://github.com/user-attachments/assets/f14a75aa-842a-4941-8480-b8d5f9174034" width="50%">
+      <p>ws = 1 sec</p>
+    </td>
+       <td align="center">
+      <img src="https://github.com/user-attachments/assets/5cb4bc3e-859e-48c1-893d-503639ae3ac7" width="50%">
+      <p>ws = 1 sec</p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+      <td align="center">
+      <img src="https://github.com/user-attachments/assets/913a1c84-b4bb-48e5-bb7c-90d2d177526e" width="50%">
+      <p>ws = 0.5 sec</p>
+    </td>
+      <td align="center">
+      <img src="https://github.com/user-attachments/assets/8efdfc3f-142b-4a2d-bd54-3185188055ee" width="50%">
+      <p>ws = 0.5 sec</p>
+    </td>
+     </tr>
+</table>
+
+### <a name="insights"></a> Insights
+According to the initial experiments on the sample data we can conclude the following 
+  * Using the components generated by the PCA enhances the results of the clustering algorithm
+  * The best speaker embeddings was generated from the combination of Tita net with Ecapa
+  * Using the segments generated by whisper large model overperform using fixed size window
+
+
+## <a name="experiments-callhome"></a> Experiments on callhome test data
+We constructed different experiment on callhome testd ata to converge to the best combination and configuration for our pipeline.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/2aa54599-0d83-4692-a7ce-ff9aa9b7ab54" width="100%">
+      <p>Experiment on callhome test data review on wandb</p>
+    </td>
+  </tr>
+</table>
+
+
+
+
+### <a name="NeMo Experiments"></a> NeMo Experiments
+
+#### Experiment 1: MarbleNet VAD
+
+In this experiment, we used MarbleNet's Voice Activity Detection (VAD) with different window sizes and shift lengths to evaluate its impact on diarization performance. The default parameters led to excessive segmentation, although speaker positions were correctly identified. We adjusted the window size to address this issue, which had a default value of 0.15.
+
+##### DER Results for Different Window Sizes and Shift Lengths
+
+| Window Size | Shift Length | DER (Without Overlap) |
+|-------------|--------------|------------------------|
+| 0.15        | 0.01         | 37.73%                 |
+| 0.63        | 0.01         | 22.97%                 |
+| 0.8         | 0.05         | 23.24%                 |
+| 0.95        | 0.05         | 23.03%                 |
+| 1.2         | 0.3          | 23.05%                 |
+| 0.63        | 0.05         | 22.97%                 |
+
+
+##### Visual Results
+
+1. **Results with Excessive Segmentation:** ![segmented](https://github.com/user-attachments/assets/9fee0e7d-f922-4e6a-8b2b-0bd267d0e7d5)
+
+2. **Results After Fixing Segmentation:** ![nonsegmented](https://github.com/user-attachments/assets/11950471-ae01-458e-8a0f-3638cf7d92c3)
+
+3. **Ground Truth:** ![groundTruth](https://github.com/user-attachments/assets/63044f23-c661-4f94-8c85-91b5763de571)
+
+
+#### Experiment 2: Preprocessing with Demucs
+
+##### Demucs Overview
+
+We used the Demucs package for audio preprocessing to separate vocals from non-vocals. Demucs is a source separation model that separates audio into different components, such as vocals and accompaniment. This separation helps improve the quality of diarization by isolating the vocal components, reducing noise, and focusing on the relevant audio features.
+
+##### Impact on Diarization
+
+Applying Demucs to separate vocals from non-vocals improved diarization results by providing cleaner audio input, which facilitated more accurate speaker identification and segmentation.
+
+##### DER Comparison with and without Preprocessing on first 20 samples of CALLHOME dataset (~2 hours of speech)
+
+| Preprocessing | DER (Without Overlap) |
+|---------------|------------------------|
+| No Preprocessing | 22.09%                 |
+| With Preprocessing | 19.94%                 |
+
+#### Experiment 3: Speaker Embedding Models
+
+In this experiment, we evaluated different speaker embedding models and their impact on clustering performance. The following configurations were tested:
+
+1. **Titanet Only**
+2. **Titanet with ECAPA-TDNN (Concatenated)**
+
+##### Results on Provided Sample
+
+| Configuration | DER (Without Overlap) |
+|---------------|------------------------|
+| Titanet Only  | 23.6%                  |
+| Titanet and ECAPA-TDNN | 22.97%            |
+
+Spectral clustering was used in this experiment to perform speaker clustering. The number of clusters can be constrained using parameters such as `max_num_speakers` and `oracle_num_speakers` in NeMo diarization configuration. If the oracle number is not provided, heuristic methods and constraints guide the clustering process.
+
+### <a name="insights"></a> Insights
+* Applying a preprocessing step using demucs improved the diarization performance.
+* Using Titanet + Ecapa-TDNN formed a better speaker embedding representation that helped with clustering later.
+* The choice of window sizes and shift lengths can greatly impact performance. Smaller segments with fine granularity might be useful for precise linguistic content, while larger segments can capture full sentences more effectively. In general, aiming for larger segments that encompass full sentences proved beneficial. Optimal results were achieved using a window size of 0.63 with shift lengths of 0.01 and 0.05.
+
+## <a name="dataset-collection-and-synthesis-trials"></a> Dataset Collection and Synthesis Trials
+Due to the lack of datasets in the domain of speaker diarization, we tried to collect a dataset on our own to train and test our models on. We wrote a script that scraps podcast episodes from a YouTube channel, downloads the audio as wav files, and uses the transcripts with their timestamp to gather the data, resulting in a ~50hr English diarized dataset. The dataset can be found on [google drive](https://drive.google.com/drive/folders/1Xuy04CgO-5z3Ezm6nqWRi0ABiES0xBGP?usp=sharing).
+
+We also tried to similarly gather an Arabic dataset, but unfortunately no Arabic podcasts with a manually written transcript that can be easily scraped were found.
+  
+## Contributors
+- [Abdelrahman Elnenaey](https://github.com/AbdelrhmanElnenaey)
+- [Rana Barakat](https://github.com/ranabarakat)
+- [Louai Zahran](https://github.com/LouaiZahran)
+
+## Supervisor
+- [Ismail El-Yamany](https://github.com/IsmailElYamany)
+
+## References
+- [Improving Diarization Robustness using Diversification, Randomization and the DOVER Algorithm](https://arxiv.org/abs/1910.11691)
+- [TitaNet: Neural Model for speaker representation with 1D Depth-wise separable convolutions and global context](https://arxiv.org/abs/2110.04410)
+- [SpeechBrain: A General-Purpose Speech Toolkit](https://arxiv.org/abs/2106.04624)
+- [Modern hierarchical, agglomerative clustering algorithms](https://arxiv.org/abs/1109.2378)
+- [DBSCAN++: Towards fast and scalable density clustering](https://arxiv.org/abs/1810.13105)
+- [Robust Speech Recognition via Large-Scale Weak Supervision](https://arxiv.org/abs/2212.04356)
+- [A review of mean-shift algorithms for clustering](https://arxiv.org/abs/1503.00687)
+- [NeMo: a toolkit for building AI applications using Neural Modules](https://arxiv.org/abs/1909.09577)
+
+
+
