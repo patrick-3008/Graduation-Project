@@ -2,6 +2,12 @@ import os
 from pydub import AudioSegment
 from pydub.utils import make_chunks
 
+def sanitize_filename(filename):
+    """
+    Sanitizes a filename by removing extra spaces and invalid characters.
+    """
+    return filename.strip().replace(' ', '_').replace('.', '')
+
 def split_audio_folder(input_folder, output_folder, chunk_length_ms=10000):
     """
     Splits all audio files in a folder into chunks of specified duration.
@@ -17,29 +23,36 @@ def split_audio_folder(input_folder, output_folder, chunk_length_ms=10000):
     # Iterate through all files in the input folder
     for file_name in os.listdir(input_folder):
         file_path = os.path.join(input_folder, file_name)
-        final_file_name = file_name - '.mp3'
 
-        if final_file_name not in output_folder:
-            # Check if the file is an audio file
-            if os.path.isfile(file_path) and file_name.lower().endswith(('.wav', '.mp3', '.flac', '.ogg', '.m4a')):
-                print(f"Processing: {file_name}")
-                
-                # Load the audio file
-                audio = AudioSegment.from_file(file_path)
-                
+        # Check if the file is an audio file
+        if os.path.isfile(file_path) and file_name.lower().endswith(('.wav', '.mp3', '.flac', '.ogg', '.m4a')):
+            print(f"Processing: {file_name}")
 
-                # Create a subfolder for the chunks of this audio file
-                audio_output_folder = os.path.join(output_folder, os.path.splitext(file_name)[0])
-                os.makedirs(audio_output_folder, exist_ok=True)
+            # Sanitize file name
+            sanitized_name = sanitize_filename(os.path.splitext(file_name)[0])
 
-                # Split the audio into chunks
-                chunks = make_chunks(audio, chunk_length_ms)
-                
-                # Save each chunk to a separate file
-                for i, chunk in enumerate(chunks):
-                    chunk_name = os.path.join(audio_output_folder, f"{final_file_name}_{i+1}.wav")
-                    chunk.export(chunk_name, format="wav")
-                    print(f"Exported: {chunk_name}")
+            # Create a subfolder for the chunks of this audio file
+            audio_output_folder = os.path.join(output_folder, sanitized_name)
+            
+            # Check if the audio is already processed
+            if os.path.exists(audio_output_folder) and len(os.listdir(audio_output_folder)) > 0:
+                print(f"Skipping: {file_name} (already processed)")
+                continue  # Skip to the next file
+
+            # Ensure the subfolder exists
+            os.makedirs(audio_output_folder, exist_ok=True)
+
+            # Load the audio file
+            audio = AudioSegment.from_file(file_path)
+
+            # Split the audio into chunks
+            chunks = make_chunks(audio, chunk_length_ms)
+
+            # Save each chunk to a separate file
+            for i, chunk in enumerate(chunks):
+                chunk_name = os.path.join(audio_output_folder, f"{sanitized_name}_{i+1}.wav")
+                chunk.export(chunk_name, format="wav")
+                print(f"Exported: {chunk_name}")
 
 # Example usage
 input_folder = "Audio"  # Replace with your folder containing audio files
