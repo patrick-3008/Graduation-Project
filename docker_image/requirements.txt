@@ -1,0 +1,8 @@
+numpy
+pandas
+scipy
+librosa
+matplotlib
+scikit-learn
+seaborn
+nemo-toolkit[asr]
