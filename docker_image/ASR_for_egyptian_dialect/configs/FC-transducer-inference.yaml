@@ -46,7 +46,7 @@ model:
     pin_memory: true
 
   tokenizer:
-    dir: tokenizer
+    dir: ASR_for_egyptian_dialect/tokenizer
     type: bpe
 
   preprocessor:
