@@ -55,7 +55,7 @@ def process_files(audio_files, model_path, device, model_number, results_list):
 
 def main():
     audio_dir = "sample_data/"
-    output_csv = "t2.csv"
+    output_csv = "t5.csv"
     model_path = "ASR_for_egyptian_dialect/Models/asr_model.ckpt"
     
     audio_files = sorted([f for f in os.listdir(audio_dir) if f.endswith(".mp3")])
