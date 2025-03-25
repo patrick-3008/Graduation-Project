@@ -76,9 +76,9 @@ public class EnemyyController : MonoBehaviour
         }
 
         // Check if we can shoot (based on cooldown)
-        if (playerInSight && Time.time >= nextShootTime)
+        if (playerInSight && animator != null)
         {
-            TryShoot();
+            animator.SetBool("is_aiming", true);
         }
 
         // Debug visualization
