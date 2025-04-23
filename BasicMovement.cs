@@ -3,6 +3,7 @@ using System.Collections;
 
 
 [RequireComponent(typeof(CharacterController))]
+[RequireComponent(typeof(Rigidbody))]
 [RequireComponent(typeof(Animator))]
 public class BasicMovement : MonoBehaviour
 {
@@ -20,6 +21,7 @@ public class BasicMovement : MonoBehaviour
     private CharacterController controller;
     private Animator animator;
     private Transform cameraTransform; 
+    private Rigidbody rb;
 
     private Vector3 velocity; 
     private bool isGrounded;
@@ -37,6 +39,8 @@ public class BasicMovement : MonoBehaviour
         controller = GetComponent<CharacterController>();
         animator = GetComponent<Animator>();
         ledgeLayerMask = LayerMask.GetMask(ledgeLayerName);
+        Rigidbody rb = GetComponent<Rigidbody>();
+
 
         if (Camera.main != null)
         {
@@ -128,10 +132,7 @@ public class BasicMovement : MonoBehaviour
         {
             animator.SetBool("is_jumping", false);
         }
-        else if (!isGrounded)
-        {
-           
-        }
+      
     }
 
     void HandleActionInputs()
@@ -207,7 +208,6 @@ public class BasicMovement : MonoBehaviour
         {
             canFly = false;
             Debug.Log("Exited Ledge Trigger Zone. Climbing disabled.");
-            // Optional: If the player exits the trigger while climbing, maybe stop the climb?
              if (animator.GetBool("is_climbing"))
              {
                 animator.SetBool("is_climbing", false);
@@ -220,7 +220,6 @@ public class BasicMovement : MonoBehaviour
     {
         RaycastHit hit;
 
-        // Cast forward from the player to find the wall
         if (Physics.Raycast(transform.position, transform.forward, out hit, wallCheckDistance, ledgeLayerMask))
         {
             Debug.DrawRay(transform.position, transform.forward * wallCheckDistance, Color.red);
@@ -230,12 +229,10 @@ public class BasicMovement : MonoBehaviour
             float scanHeight = 0f;
             float wallTopY = wallBaseY;
 
-            // Scan upwards from wall base to find where the wall ends
             while (scanHeight < maxWallHeight)
             {
                 Vector3 scanPoint = wallHitPoint + Vector3.up * scanHeight;
 
-                // If there's no more wall in front, we've reached the top
                 if (!Physics.Raycast(scanPoint, transform.forward, 0.1f, ledgeLayerMask))
                 {
                     wallTopY = scanPoint.y;
@@ -245,7 +242,6 @@ public class BasicMovement : MonoBehaviour
                 scanHeight += stepSize;
             }
 
-            // Now compare player's height to wall top
             float playerY = transform.position.y;
             float distanceToTop = wallTopY - playerY;
 
@@ -253,7 +249,7 @@ public class BasicMovement : MonoBehaviour
 
             if (distanceToTop <= 2.5f && distanceToTop >= 0f)
             {
-                TriggerActionNearTop(); // You're close to the top — time to grab/climb/jump etc.
+                TriggerActionNearTop();
             }
         }
     }
@@ -261,41 +257,40 @@ public class BasicMovement : MonoBehaviour
     {
         Vector3 startPosition = transform.position;
         float elapsed = 0f;
-        controller.enabled = false;
 
         while (elapsed < duration)
         {
             transform.position = Vector3.Lerp(startPosition, targetPosition, elapsed / duration);
             elapsed += Time.deltaTime;
+        
+
             yield return null;
         }
 
         transform.position = targetPosition;
-        animator.SetBool("is_ledging", false); // end ledge animation
-        controller.enabled = true;
+        animator.SetBool("is_ledging", false); 
 
     }
     void TriggerActionNearTop()
     {
-        //Debug.Log("You're within 1 meter of the wall's top! Performing action...");
         animator.SetBool("is_ledging", true);
-        //Vector3 targetPosition = transform.position + new Vector3(2f, 0f, 0f);
-        //StartCoroutine(LedgeClimb(targetPosition, 0.5f));
-
+       
 
     }
     IEnumerator DisableLedge()
     {
         yield return new WaitForSeconds(4f);
-
         animator.SetBool("is_ledging", false);
-        velocity.y = -2f;
 
-        // Calculate target position
-        Vector3 targetPosition = transform.position + new Vector3(2f, 0f, 2f);
+        RaycastHit hit;
+        if (Physics.Raycast(transform.position, transform.forward, out hit, wallCheckDistance, ledgeLayerMask))
+        {
+            Vector3 newPosition = hit.point + Vector3.up * 0.25f + transform.forward * 0.15f;
+            controller.enabled = false; 
+            transform.position = newPosition;
+            controller.enabled = true; 
+        }
 
-        // Use your existing smooth movement coroutine
-        //StartCoroutine(LedgeClimb(targetPosition, 0.5f));
     }
 }
    
