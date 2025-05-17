@@ -1,0 +1,2013 @@
+[
+  {
+    "text": "الذكاء العاطفي أهم من الذكاء العقلي في كتير من الأحيان. قدرتك على فهم مشاعرك ومشاعر الآخرين بتفرق.",
+    "g2p": "ezzakaːʔ elʕatˤifi ʔahamm men ezzakaːʔ elʕaʔli fi kitiːr men elʔaħjaːn. ʔodritak ʕala fahm maʃaːʕrak wemaʃaːʕir elʔaːxariːn bitifriʔ."
+  },
+  {
+    "text": "الضغط النفسي ممكن يأثر على صحتنا الجسدية. لازم نتعلم إزاي نتعامل مع الضغوط ونخفف عن نفسنا. اليوجا والتأمل مفيدين.",
+    "g2p": "edˤdˤaɣtˤ ennafsi momken jiʔassir ʕala sˤeħħitna elgasadijja. laːzem nitʕallim ʔezzaːj nitʕaːmil maʕa edˤdˤoɣuːtˤ wenixaffif ʕan nafsina. eljuːga wettaʔammol mofiːdiːn."
+  },
+  {
+    "text": "الطاقة الإيجابية معدية. لما بتكون متفائل وسعيد، بتنقل الإحساس ده للي حواليك. خليك مصدر للطاقة الحلوة.",
+    "g2p": "etˤtˤaːqa elʔiːgaːbijja moʕdija. lamma bitkuːn motafaːʔil wesaʕiːd, bitinʔil elʔeħsaːs da lelli ħawaleːk. xalliːk masˤdar letˤtˤaːqa elħelwa."
+  },
+  {
+    "text": "الطاقة السلبية بتستنزف قوانا وبتخلينا نشوف الدنيا سودة. ابعد عن الناس السلبيين وعن الأفكار المحبطة.",
+    "g2p": "etˤtˤaːqa essalbijja bitistanzif qowaːna webitxalliːna nʃuːf eddonja soːda. ebʕid ʕan ennaːs essalbijiːn weʕan elʔafkaːr elmoħbitˤa."
+  },
+  {
+    "text": "ازيك يا طارق، عامل ايه في الجو الحر ده؟ أنا بفكر أروح شاطئ إسكندرية الأسبوع الجاي، تيجي معايا؟",
+    "g2p": "ʔezzajjak jaː tˤaːriʔ, ʕaːmel ʔeːh felgaww elħarr da? ʔana bafakkar ʔaruːħ ʃaːtˤiʔ ʔeskenderija elʔosbuːʕ elgaːj, tiːgi maʕaːja?"
+  },
+  {
+    "text": "ازيك يا دينا، عاملة ايه في دراستك الجديدة؟ سمعت إنها صعبة شوية بس ممتعة. ربنا يوفقك.",
+    "g2p": "ʔezzajjik jaː diːna, ʕamla ʔeːh fi diraːstik elgidiːda? simiʕt ʔinnaha sˤaʕba ʃwajja bas momtiʕa. rabbena jewaffaʔik."
+  },
+  {
+    "text": "أنا بحب أقرأ كتب التاريخ جداً، خصوصاً عن فترة محمد علي باشا. بحس إنها فترة مهمة في تاريخ مصر الحديث. عندك كتب توصي بيها؟",
+    "g2p": "ʔana baħibb ʔaʔra kotob ettariːx giddan, xosˤuːsˤan ʕan fatrit moħammad ʕali baːʃa. baħiss ʔinnaha fatra mohemma fi tariːx masˤr elħadiːs. ʕandak kotob tiwasˤsˤi biːha?"
+  },
+  {
+    "text": "الفيلم الوثائقي اللي شوفته إمبارح عن الحيوانات في أفريقيا كان رائع. التصوير كان مذهل والمعلومات قيمة. لازم تشوفه.",
+    "g2p": "elfilm elwasaːʔiʔi elli ʃuftu ʔembaːreħ ʕan elħajawaːnaːt fi ʔafriːʔja kaːn raːʔiʕ. ettasˤwiːr kaːn mozhel welmaʕlumaːt qajjima. laːzem tiʃuːfu."
+  },
+  {
+    "text": "بفكر أعمل مشروع صغير لبيع المشغولات اليدوية أونلاين. عندي أفكار كتير بس محتاجة أبدأ صح. التسويق هيكون أهم حاجة.",
+    "g2p": "bafakkar ʔaʕmel maʃruːʕ sˤoɣajjar libeːʕ elmaʃɣulaːt eljadawijja ʔonlajn. ʕandi ʔafkaːr kitiːr bas meħtaːga ʔabdaʔ sˤaħħ. ettaswiːʔ hajkuːn ʔahamm ħaːga."
+  },
+  {
+    "text": "النهاردة الجو مناسب جداً لزيارة الأهرامات. الشمس مش حامية أوي والهوا لطيف. هناخد صور تذكارية كتير هناك.",
+    "g2p": "ennaharda elgaww monaːsib giddan lizijaːrit elʔahramaːt. eʃʃams miʃ ħamja ʔawi welhawa latˤiːf. hanaːxud sˤuwar tezkaːrijja kitiːr hinaːk."
+  },
+  {
+    "text": "عندي معاد مع دكتور الأسنان بكرة الساعة ستة. سناني بتوجعني بقالها كام يوم. يارب الموضوع يكون بسيط وميكنش فيه خلع.",
+    "g2p": "ʕandi maʕaːd maʕa doktoːr essinaːn bokra essaːʕa sitta. sinaːni bitugaʕni baʔalha kaːm joːm. jarab elmawdˤuːʕ jikuːn basiːtˤ wemajkunʃ fiːh xalʕ."
+  },
+  {
+    "text": "أنا بحب أوي أعمل كيكة الشوكولاتة في البيت. ريحتها بتملى المكان وبتفرح الأولاد. طريقتها سهلة ومبتخدش وقت.",
+    "g2p": "ʔana baħibb ʔawi ʔaʕmel kiːkit eʃʃokolaːta felbeːt. riħitha bitimla elmakaːn witfarraħ elʔawlaːd. tˤariːʔitha sahla wemabtaxudʃ waʔt."
+  },
+  {
+    "text": "الزحمة في وسط البلد النهاردة لا تطاق. كل الشوارع واقفة. الواحد لو عنده مشوار مهم لازم ينزل بدري جداً.",
+    "g2p": "ezzaħma fi wistˤ elbalad ennaharda laː totˤaːʔ. koll eʃʃawaːriʕ waʔfa. elwaːħid law ʕandu miʃwaːr mohemm laːzem jinzil badri giddan."
+  },
+  {
+    "text": "قررت أتعلم لغة جديدة، ومحتار بين الإيطالي والفرنسي. الإيطالي أسهل شوية بس الفرنسي منتشر أكتر. إيه رأيك؟",
+    "g2p": "ʔarrart ʔatʕallim loɣa gidiːda, wemeħtaːr beːn elʔitˤaːli welfaransi. elʔitˤaːli ʔashal ʃwajja bas elfaransi montaʃir ʔaktar. ʔeːh raʔjak?"
+  },
+  {
+    "text": "قررت أتعلم لغة جديدة، ومحتارة بين الإيطالي والفرنسي. الإيطالي أسهل شوية بس الفرنسي منتشر أكتر. إيه رأيك؟",
+    "g2p": "ʔarrart ʔatʕallim loɣa gidiːda, wemeħtaːra beːn elʔitˤaːli welfaransi. elʔitˤaːli ʔashal ʃwajja bas elfaransi montaʃir ʔaktar. ʔeːh raʔjik?"
+  },
+  {
+    "text": "النادي الأهلي فاز بالماتش إمبارح. الأداء كان قوي والجمهور كان رائع. ألف مبروك لكل الأهلاوية.",
+    "g2p": "ennaːdi elʔahli faːz belmatʃ ʔembaːreħ. elʔadaːʔ kaːn ʔawi welgumhuːr kaːn raːʔiʕ. ʔalf mabruːk likoll elʔahlaːwijja."
+  },
+  {
+    "text": "لازم نشتري طلبات البيت النهاردة من السوبر ماركت. التلاجة فضيت خالص. هنعمل قائمة باللي محتاجينه.",
+    "g2p": "laːzem niʃtiri tˤalabaːt elbeːt ennaharda men essuːbar markit. ettallaːga fidˤjit xaːlisˤ. hanʕmel qaʔima belli meħtagiːnu."
+  },
+  {
+    "text": "السفر بيفتح العقل وبيعرفنا على ثقافات مختلفة. أنا بحب أسافر كل سنة لدولة جديدة. أجمل بلد زرتها كانت اليابان.",
+    "g2p": "essafar bijiftaħ elʕaʔl webijʕarrafna ʕala saqaːfaːt moxtalifa. ʔana baħibb ʔasaːfir koll sana lidawla gidiːda. ʔagmal balad zortha kaːnit eljabaːn."
+  },
+  {
+    "text": "التكنولوجيا مهمة في حياتنا بس ليها جانب سلبي. الإدمان على السوشيال ميديا بيضيع الوقت وبيأثر على العلاقات الاجتماعية.",
+    "g2p": "etteknoloːgja mohemma fi ħajaːtna bas liːha gaːnib salbi. elʔidmaːn ʕala essoːʃjal midja bijdˤajjaʕ elwaʔt webijʔassir ʕala elʕalaqaːt elʔegtemaːʕijja."
+  },
+  {
+    "text": "أنا بحب أربي عصافير في البيت. صوتهم الصبح جميل وبيصحيني بنشاط. بس محتاجين رعاية واهتمام.",
+    "g2p": "ʔana baħibb ʔarabbi ʕasˤafiːr felbeːt. sˤothom esˤsˤobħ gamiːl webijsˤaħħiːni binaʃaːtˤ. bas meħtagiːn riʕaːja wehtimaːm."
+  },
+  {
+    "text": "الكمبيوتر بتاعي بقى بطيء جداً ومحتاج يتغير. بفكر أجمع كمبيوتر جديد بمواصفات عالية عشان الألعاب والشغل التقيل.",
+    "g2p": "elkompjuːter bitaːʕi baʔa batˤiːʔ giddan wemeħtaːg jitɣajjar. bafakkar ʔagammaʕ kompjuːter gidiːd bimwaːsˤafaːt ʕalja ʕaʃaːn elʔalʕaːb weʃʃoɣl ettaʔiːl."
+  },
+  {
+    "text": "ازيك يا عمي، عامل ايه؟ طمني على صحتك. يارب تكون بخير دايماً. محتاج أي حاجة أنا موجود.",
+    "g2p": "ʔezzajjak jaː ʕammi, ʕaːmel ʔeːh? tˤamminni ʕala sˤeħħitak. jarab tikuːn bixeːr dajman. meħtaːg ʔajj ħaːga ʔana mawguːd."
+  },
+  {
+    "text": "ازيك يا خالتي، عاملة ايه؟ طمنيني على صحتك. يارب تكوني بخير دايماً. محتاجة أي مساعدة؟",
+    "g2p": "ʔezzajjik jaː xaːlti, ʕamla ʔeːh? tˤamminiːni ʕala sˤeħħitik. jarab tikuːni bixeːr dajman. meħtaːga ʔajj mosaʕda?"
+  },
+  {
+    "text": "بفكر أخد كورس تصوير فوتوغرافي. أنا بحب التصوير جداً ونفسي أطور من مهاراتي. الكاميرا الجديدة بتاعتي ممتازة.",
+    "g2p": "bafakkar ʔaːxud kors tasˤwiːr fotˤoɣraːfi. ʔana baħibb ettasˤwiːr giddan wenifsi ʔatˤawwar men mahaːraːti. elkamera elgidiːda bitaːʕti momtaːza."
+  },
+  {
+    "text": "الأكل الحار بيفتح الشهية بس مش مناسب لكل الناس. أنا بحب الفلفل الحار في بعض الأكلات زي الكشري.",
+    "g2p": "elʔakl elħaːr bijiftaħ eʃʃahijja bas miʃ monaːsib likoll ennaːs. ʔana baħibb elfilfil elħaːr fi baʕdˤ elʔakalaːt zaj elkuʃari."
+  },
+  {
+    "text": "الجو النهاردة مغيم وشكله هيمطر. أنا بحب ريحة المطر أوي. يارب تكون مطرة خير وبركة.",
+    "g2p": "elgaww ennaharda miɣajjim weʃaklu hajimtˤar. ʔana baħibb riːħit elmatˤar ʔawi. jarab tikuːn matˤarit xeːr wabaraka."
+  },
+  {
+    "text": "الواحد لازم يهتم بنظافته الشخصية عشان يحمي نفسه من الأمراض. غسيل الإيدين بالمايه والصابون مهم جداً.",
+    "g2p": "elwaːħid laːzem jihtamm binazˤaftu eʃʃaxsˤijja ʕaʃaːn jeħmi nafsu men elʔamraːdˤ. ɣasiːl elʔiːdeːn belmajja wesˤsˤabuːn mohemm giddan."
+  },
+  {
+    "text": "رمضان شهر العبادة والتقرب إلى الله. فرصة للتوبة والاستغفار. أجواء رمضان بتكون روحانية وجميلة.",
+    "g2p": "ramadˤaːn ʃahr elʕibaːda wettaqarrob ʔila llaːh. forsˤa lettawba welʔesteɣfaːr. ʔagwaːʔ ramadˤaːn bitkuːn ruːħaːnijja wegamiːla."
+  },
+  {
+    "text": "العيد فرحة للكبار والصغار. بنلبس جديد وبنزور الأقارب وبناخد عيدية. كل سنة وأنتم طيبين.",
+    "g2p": "elʕiːd farħa lelkobaːr wesˤsˤoɣaːr. binilbis gidiːd webinzuːr elʔaqaːrib webinaːxud ʕidijja. koll sana waʔantom tˤajjibiːn."
+  },
+  {
+    "text": "أنا بحب أتابع مباريات الدوري الإنجليزي. المنافسة قوية والمستوى عالي. فريقي المفضل ليفربول.",
+    "g2p": "ʔana baħibb ʔataːbiʕ mobarajaːt eddawri elʔingiliːzi. elmonafsa qawijja welmostawa ʕaːli. fariːʔi elmofadˤdˤal liːverbuːl."
+  },
+  {
+    "text": "القراءة بتنور العقل وبتوسع المدارك. أنا بحب أقرأ روايات وقصص قصيرة. الكتاب خير جليس.",
+    "g2p": "elʔiraːja bitnawwar elʕaʔl witwassaʕ elmadaːrik. ʔana baħibb ʔaʔra rewaːjaːt weqisˤasˤ qasˤiːra. elketaːb xajr galiːs."
+  },
+  {
+    "text": "الصدق أهم صفة في الإنسان. الإنسان الصادق بيكون محبوب وموثوق فيه من كل الناس. الكذب ملوش مستقبل.",
+    "g2p": "esˤsˤedʔ ʔahamm sˤifa felʔinsaːn. elʔinsaːn esˤsˤaːdiʔ bijkuːn maħbuːb wemawsuːʔ fiːh men koll ennaːs. elkedb maluːʃ mostaʔbal."
+  },
+  {
+    "text": "العمل الجاد هو طريق النجاح. مفيش حد بيوصل لأهدافه بالكسل. لازم نتعب عشان نحقق أحلامنا.",
+    "g2p": "elʕamal elgaːdd huwwa tˤariːʔ ennagaːħ. mafiːʃ ħadd bijiwsˤal leʔahdaːfu belkasal. laːzem nitʕab ʕaʃaːn niħaʔʔaʔ ʔaħlamna."
+  },
+  {
+    "text": "التسامح بيخلي قلوبنا نضيفة وبيجيب راحة البال. لما بتسامح، بتريح نفسك قبل ما تريح غيرك. المسامح كريم.",
+    "g2p": "ettasaːmoħ bijxalli ʔoluːbna ndiːfa webijgiːb raːħit elbaːl. lamma bitsaːmiħ, bitrajjaħ nafsak ʔabl ma tirajjaħ ɣeːrak. elmosaːmiħ kariːm."
+  },
+  {
+    "text": "ازيك يا أستاذ علي، محاضرة النهاردة كانت مفيدة جداً. استفدت منها كتير. شكراً لحضرتك.",
+    "g2p": "ʔezzajjak jaː ʔostaːz ʕali, moħadˤrit ennaharda kaːnit mofiːda giddan. estafatt minha kitiːr. ʃukran liħadˤritak."
+  },
+  {
+    "text": "ازيك يا أستاذة سارة، شرح حضرتك للمادة ممتاز. بقيت أفهمها كويس أوي. ربنا يبارك فيكي.",
+    "g2p": "ʔezzajjik jaː ʔostaːza saːra, ʃarħ ħadˤritik lelmadda momtaːz. baʔeːt ʔafhamha kwajjis ʔawi. rabbena jibaːrik fiːki."
+  },
+  {
+    "text": "التفاؤل بيخلينا نشوف الحياة بشكل أحسن وبيدينا أمل. التشاؤم بيجيب طاقة سلبية. تفاءلوا بالخير تجدوه.",
+    "g2p": "ettafaːʔol bijxalliːna nʃuːf elħajaːh biʃakl ʔaħsan webijiddiːna ʔamal. ettaʃaːʔom bijgiːb tˤaːqa salbijja. tafaːʔalu belxeːr tagiduːh."
+  },
+  {
+    "text": "الرياضة مش بس للجسم، دي كمان للعقل والنفسية. بتطلع الطاقة السلبية وبتحسن المزاج. لازم نمارس رياضة بانتظام.",
+    "g2p": "errejaːdˤa miʃ bas lelgism, di kamaːn lelʕaʔl wennafsejja. bititˤallaʕ etˤtˤaːqa essalbijja witħassin elmazaːg. laːzem nimaːris rijaːdˤa bentizˤaːm."
+  },
+  {
+    "text": "الأصدقاء الحقيقيون نعمة من ربنا. بيقفوا جنبك وقت الشدة وبيفرحوا لفرحك. الصاحب ساحب.",
+    "g2p": "elʔasˤdiqaːʔ elħaʔiːʔijuːn niʕma men rabbena. bijuʔafu gambak waʔt eʃʃidda webijifraħu lifaraħak. esˤsˤaːħib saːħib."
+  },
+  {
+    "text": "العائلة هي السند الحقيقي في الحياة. حب الأهل ودعمهم لا يعوض. ربنا يخلي كل عيلة لبعضها.",
+    "g2p": "elʕeːla hijja essanad elħaʔiːʔi felħajaːh. ħobb elʔahl wedaʕmhom laː joʕawwadˤ. rabbena jixalli koll ʕeːla libaʕdˤaha."
+  },
+  {
+    "text": "الوطن هو الحضن الدافي اللي بنلجأ ليه. حب الوطن واجب على كل مواطن. مصر أغلى من أي شيء.",
+    "g2p": "elwatˤan huwwa elħodˤn eddaːfi elli binilgaʔ liːh. ħobb elwatˤan waːgib ʕala koll mowaːtˤin. masˤr ʔaɣla men ʔajj ʃeːʔ."
+  },
+  {
+    "text": "مصر الجديدة مليانة كافيهات ومطاعم حلوة. أنا بحب أقعد في الكوربة وأتفرج على الناس. الجو هناك بيكون لطيف.",
+    "g2p": "masˤr elgidiːda maljaːna kafijehaːt wematˤaːʕim ħelwa. ʔana baħibb ʔaʔʕod felkorba waʔatfarrag ʕala ennaːs. elgaww hinaːk bijkuːn latˤiːf."
+  },
+  {
+    "text": "المهندسين فيها محلات كتير للملابس والأحذية. أنا نازل أشتري شوية حاجات من هناك. الأسعار معقولة.",
+    "g2p": "elmohandisiːn fiːha maħallaːt kitiːr lelmalabis welʔaħzija. ʔana naːzil ʔaʃtiri ʃwajjet ħagaːt men hinaːk. elʔasʕaːr maʕʔuːla."
+  },
+  {
+    "text": "الزمالك جزيرة هادية وجميلة في قلب القاهرة. فيها مباني قديمة وشجر كتير. بحب أتمشى على الكورنيش هناك.",
+    "g2p": "ezzamaːlek giziːra hadja wegamiːla fi ʔalb elqaːhira. fiːha mabaːni ʔadiːma weʃagar kitiːr. baħibb ʔatmaʃʃa ʕala elkorniːʃ hinaːk."
+  },
+  {
+    "text": "مدينة نصر واسعة وفيها شوارع كبيرة. بس الزحمة فيها بتكون خانقة أوقات كتير. محتاجة تخطيط مروري أحسن.",
+    "g2p": "madiːnet nasˤr wasʕa wefiːha ʃawaːriʕ kibiːra. bas ezzaħma fiːha bitkuːn xaːnʔa ʔawʔaːt kitiːr. meħtaːga taxtˤiːtˤ moruːri ʔaħsan."
+  },
+  {
+    "text": "التجمع الخامس بقى مكان مميز للسكن والشغل. فيه مولات كبيرة وشركات عالمية. بس أسعاره غالية جداً.",
+    "g2p": "ettagammoʕ elxaːmis baʔa makaːn momajjaz lessakan weʃʃoɣl. fiːh moːlaːt kibiːra weʃarikaːt ʕaːlamijja. bas ʔasʕaːru ɣalja giddan."
+  },
+  {
+    "text": "أنا رايح أزور عمي في المستشفى النهاردة. هو تعبان شوية. يارب يقوم بالسلامة ويخف بسرعة.",
+    "g2p": "ʔana raːjiħ ʔazuːr ʕammi felmostaʃfa ennaharda. huwwa taʕbaːn ʃwajja. jarab jiʔuːm bessalaːma wejxiff bisurʕa."
+  },
+  {
+    "text": "أنا رايحة أزور خالتي في بيتها بكرة. بقالها كتير موحشتنيش. هقعد معاها طول اليوم.",
+    "g2p": "ʔana rajħa ʔazuːr xaːlti fi beːtha bokra. baʔalha kitiːr mawħaʃitniiʃ. haʔʕod maʕaːha tˤuːl eljoːm."
+  },
+  {
+    "text": "يا جماعة، صوت التلفزيون عالي أوي. ممكن توطوه شوية؟ أنا مش عارف أركز في المذاكرة.",
+    "g2p": "jaː gamaːʕa, sˤoːt ettelefziyoːn ʕaːli ʔawi. momken tiwatˤtˤuːh ʃwajja? ʔana miʃ ʕaːrif ʔarakkiz felmozakra."
+  },
+  {
+    "text": "الجو النهاردة برد ومطر. أحسن حاجة الواحد يعمل كوباية سحلب سخنة ويقعد تحت البطانية يتفرج على فيلم.",
+    "g2p": "elgaww ennaharda bard wematˤar. ʔaħsan ħaːga elwaːħid jiʕmel kobbaːjit saħlab soxna wejʔoʕod taħt elbatˤtˤanijja jitfarrag ʕala film."
+  },
+  {
+    "text": "أنا بحب أشتري الخضار والفاكهة من السوق البلدي. بتكون طازة وأسعارها أرخص من السوبر ماركت.",
+    "g2p": "ʔana baħibb ʔaʃtiri elxodˤaːr welfakha men essuːʔ elbaladi. bitkuːn tˤaːza waʔasʕarha ʔarxasˤ men essuːbar markit."
+  },
+  {
+    "text": "الموبايل بتاعي بطاريته بتخلص بسرعة أوي. شكله محتاج يتغير أو أشتري باور بانك. مش بستغنى عنه.",
+    "g2p": "elmobajl bitaːʕi batˤtˤaritu bitixlasˤ bisurʕa ʔawi. ʃaklu meħtaːg jitɣajjar ʔaw ʔaʃtiri baːwar bank. miʃ bastɣanna ʕannu."
+  },
+  {
+    "text": "الواحد لما بيكون متضايق بيحب يخرج يتمشى لوحده شوية. المشي بيصفي الذهن وبيهدي الأعصاب.",
+    "g2p": "elwaːħid lamma bijkuːn midˤdˤaːjiʔ bijħibb jixrug jitmaʃʃa liwaħdu ʃwajja. elmaʃi bijsˤaffi ezzehn webijhaddi elʔaʕsˤaːb."
+  },
+  {
+    "text": "أنا بحب أسمع أغاني فيروز الصبح وأنا بشرب القهوة. صوتها بيريح الأعصاب وبيخليني أبدأ يومي بمزاج حلو.",
+    "g2p": "ʔana baħibb ʔasmaʕ ʔaɣaːni fajruːz esˤsˤobħ waʔana baʃrab elʔahwa. sˤotha bijrajjaħ elʔaʕsˤaːb webijxalliːni ʔabdaʔ joːmi bimazaːg ħelw."
+  },
+  {
+    "text": "الناس اللي بتكدب كتير بتفقد ثقة اللي حواليها. الصدق دايماً بينجي صاحبه. خليك صريح وواضح.",
+    "g2p": "ennaːs elli bitikdib kitiːr bitifʔid siqit elli ħawalijha. esˤsˤedʔ dajman bijinaggi sˤaħbu. xalliːk sˤariːħ wewaːdˤeħ."
+  },
+  {
+    "text": "الناس اللي بتكدب كتير بتفقد ثقة اللي حواليها. الصدق دايماً بينجي صاحبته. خليكي صريحة وواضحة.",
+    "g2p": "ennaːs elli bitikdib kitiːr bitifʔid siqit elli ħawalijha. esˤsˤedʔ dajman bijinaggi sˤaħbitu. xalliːki sˤariːħa wewaːdˤħa."
+  },
+  {
+    "text": "مصر أم الدنيا وهتفضل قد الدنيا. تاريخها وحضارتها شاهدين على عظمتها. شعبها طيب وكريم.",
+    "g2p": "masˤr ʔomm eddonja wehatifdˤal ʔadd eddonja. tariːxha weħadˤaːritha ʃahdiːn ʕala ʕazˤamitha. ʃaʕbaha tˤajjib wekariːm."
+  },
+  {
+    "text": "لازم نحافظ على مية النيل ومحدش يرمي فيها أي مخلفات. النيل هو شريان الحياة في مصر. المية نعمة.",
+    "g2p": "laːzem nħaːfizˤ ʕala majjit enniːl wemaħaddiʃ jirmi fiːha ʔajj moxalafaːt. enniːl huwwa ʃurjaːn elħajaːh fi masˤr. elmajja niʕma."
+  },
+  {
+    "text": "الآثار المصرية القديمة دليل على عظمة الفراعنة. بناء الأهرامات والمعابد إعجاز هندسي. لازم نفتخر بتاريخنا.",
+    "g2p": "elʔaːsaːr elmasˤrijja elʔadiːma daliːl ʕala ʕazˤamit elfarAʕna. binaːʔ elʔahramaːt welmaʕaːbid ʔiʕgaːz handasi. laːzem niftixir bitariːxna."
+  },
+  {
+    "text": "شواطئ مصر على البحر الأحمر والبحر المتوسط من أجمل شواطئ العالم. السياحة بتجيب عملة صعبة للبلد.",
+    "g2p": "ʃawaːtˤiʔ masˤr ʕala elbaħr elʔaħmar welbaħr elmotaqassitˤ men ʔagmal ʃawaːtˤiʔ elʕaːlam. essijaːħa bitgiːb ʕomla sˤaʕba lelbalad."
+  },
+  {
+    "text": "الأكل المصري متنوع ولذيذ. من الكشري والفول والطعمية للمحشي والملوخية. كل أكلة ليها طعم خاص.",
+    "g2p": "elʔakl elmasˤri motanawwaʕ welaziːz. men elkuʃari welfuːl wetˤtˤaʕmijja lelmaħʃi welmoloxijja. koll ʔakla liːha tˤaʕm xaːsˤ."
+  },
+  {
+    "text": "الجو في مصر بيكون حر جداً في الصيف. لازم نشرب مية كتير ونلبس لبس خفيف. التكييف بيكون ضروري.",
+    "g2p": "elgaww fi masˤr bijkuːn ħarr giddan fesˤsˤeːf. laːzem niʃrab majja kitiːr wenilbis libs xafiːf. ettakjiːf bijkuːn dˤaruːri."
+  },
+  {
+    "text": "الشتا في مصر بيكون دافي مقارنة بدول تانية. بس ساعات بيكون فيه موجات برد قارسة. الدفاية بتكون مهمة.",
+    "g2p": "eʃʃita fi masˤr bijkuːn daːfi moqaːranatan biduwal tanja. bas saʕaːt bijkuːn fiːh mowgaːt bard qaːrisa. eddaffaːja bitkuːn mohemma."
+  },
+  {
+    "text": "الناس في مصر معروفين بخفة دمهم وكرمهم. بيحبوا يساعدوا الغير وبيقدروا الضيف. شعب أصيل.",
+    "g2p": "ennaːs fi masˤr maʕrufiːn bixiffit dammohom wekaramhom. bijħibbu jisaʕdu elɣeːr webijʔaddaru edˤdˤeːf. ʃaʕb ʔasˤiːl."
+  },
+  {
+    "text": "القاهرة مدينة لا تنام. فيها أماكن سهر كتير ومطاعم وكافيهات بتفضل فاتحة لغاية الصبح. مدينة صاخبة.",
+    "g2p": "elqaːhira madiːna laː tanaːm. fiːha ʔamaːkin sahar kitiːr wematˤaːʕim wekafijehaːt btifdˤal fatħa liɣaːjit esˤsˤobħ. madiːna sˤaːxiba."
+  },
+  {
+    "text": "اسكندرية عروس البحر الأبيض المتوسط. شواطئها جميلة وكورنيشها ساحر. بحب أروحها في الصيف والشتا.",
+    "g2p": "ʔeskenderija ʕaruːs elbaħr elʔabjadˤ elmotaqassitˤ. ʃawaːtˤiʔha gamiːla wekorniːʃha saːħir. baħibb ʔaruːħha fesˤsˤeːf wefeʃʃita."
+  },
+  {
+    "text": "الأقصر وأسوان فيهم كنوز أثرية لا تقدر بثمن. معابد الفراعنة ومقابرهم بتحكي تاريخ عظيم. لازم نزورهم.",
+    "g2p": "elʔuʔsˤur waʔasˤwaːn fiːhom konuːz ʔasarijja laː toqaddar bisaman. maʕaːbid elfarAʕna wemaqaːbirhom bitħki tariːx ʕazˤiːm. laːzem nzurhom."
+  },
+  {
+    "text": "سينا أرض الفيروز. طبيعتها خلابة وفيها جبال وشواطئ رائعة. مكان مثالي للاسترخاء والمغامرات.",
+    "g2p": "siːna ʔardˤ elfajruːz. tˤabiːʕitha xallaːba wefiːha gibaːl weʃawaːtˤiʔ raːʔiʕa. makaːn misaːli lelʔesterxaːʔ welmoɣamaraːt."
+  },
+  {
+    "text": "الوقت اللي بنقضيه مع العيلة والأصحاب بيكون أحلى وقت. الذكريات الحلوة بتفضل معانا طول العمر.",
+    "g2p": "elwaʔt elli binʔadˤdˤiːh maʕa elʕeːla welʔasˤħaːb bijkuːn ʔaħla waʔt. ezzikrajaːt elħelwa btifdˤal maʕaːna tˤuːl elʕomr."
+  },
+  {
+    "text": "النجاح الحقيقي هو إنك تكون سعيد وراضي عن نفسك وعن حياتك. الفلوس مش كل حاجة.",
+    "g2p": "ennagaːħ elħaʔiːʔi huwwa ʔinnak tikuːn saʕiːd weraːdˤi ʕan nafsak weʕan ħajaːtak. elfiluːs miʃ koll ħaːga."
+  },
+  {
+    "text": "النجاح الحقيقي هو إنك تكوني سعيدة وراضية عن نفسك وعن حياتك. الفلوس مش كل حاجة.",
+    "g2p": "ennagaːħ elħaʔiːʔi huwwa ʔinnik tikuːni saʕiːda weraːdˤja ʕan nafsik weʕan ħajaːtik. elfiluːs miʃ koll ħaːga."
+  },
+  {
+    "text": "الحياة قصيرة ولازم نعيشها صح. نعمل خير ونساعد الناس ونستمتع بكل لحظة. متضيعش وقتك في الزعل.",
+    "g2p": "elħajaːh ʔasˤiːra welaːzem niʕiːʃha sˤaħħ. niʕmel xeːr wenisaːʕid ennaːs wenistamtiʕ bikoll laħzˤa. matdˤajjaʕʃ waʔtak fezzaʕal."
+  },
+  {
+    "text": "الكتب بتنقلنا لعوالم تانية وبتعرفنا على شخصيات وأفكار مختلفة. أنا بحب أقرأ قبل ما أنام. القراءة بتغذي الروح.",
+    "g2p": "elkotob bitinʔilna liʕawaːlim tanja witʕarrafna ʕala ʃaxsˤijjaːt waʔafkaːr moxtalifa. ʔana baħibb ʔaʔra ʔabl ma ʔanaːm. elʔiraːja bitɣazzi erroːħ."
+  },
+  {
+    "text": "الموسيقى لغة عالمية بيفهمها كل الناس. ليها تأثير كبير على حالتنا النفسية. أنا بحب أسمع كل أنواع الموسيقى.",
+    "g2p": "elmusiːqa loɣa ʕaːlamijja bijifhamha koll ennaːs. liːha taʔsiːr kibiːr ʕala ħalitna ennafsejja. ʔana baħibb ʔasmaʕ koll ʔanwaːʕ elmusiːqa."
+  },
+  {
+    "text": "الفن بيعبر عن ثقافة الشعوب وتاريخها. الرسم والنحت والتمثيل كلها فنون جميلة. لازم نشجع الفنانين.",
+    "g2p": "elfann bijʕabbar ʕan saqaːfit eʃʃoʕuːb wetariːxha. errasm wennaħt wettamsiːl kollaha fonuːn gamiːla. laːzem niʃaggaʕ elfannaniːn."
+  },
+  {
+    "text": "الرياضة بتحافظ على صحة الجسم ولياقته. كمان بتعلمنا الانضباط والروح الرياضية. لازم نشجع ولادنا يمارسوا رياضة.",
+    "g2p": "errejaːdˤa bitħaːfizˤ ʕala sˤeħħit elgism welaqaːqtu. kamaːn bitʕallimna elʔendˤibaːtˤ werroːħ errejaːdˤijja. laːzem niʃaggaʕ wulaːdna jimaːrsu rijaːdˤa."
+  },
+  {
+    "text": "العلم نور والجهل ظلام. لازم نسعى لطلب العلم ونتعلم حاجات جديدة كل يوم. المعرفة قوة.",
+    "g2p": "elʕilm nuːr welgahl zˤalaːm. laːzem nisʕa litˤalab elʕilm wenitʕallim ħagaːt gidiːda koll joːm. elmaʕrifa ʔowwa."
+  },
+  {
+    "text": "العمل عبادة وإتقانه واجب. لما بنشتغل بضمير، بنحس بقيمة نفسنا وبنساهم في بناء مجتمعنا. ربنا بيوفق المجتهد.",
+    "g2p": "elʕamal ʕibaːda waʔitqaːnu waːgib. lamma biniʃtaɣal bidˤamiːr, binħiss biqiːmit nafsina webinsaːhim fi binaːʔ mogtamaʕna. rabbena bijwaffaʔ elmogtahid."
+  },
+  {
+    "text": "الحرية مسئولية كبيرة. لازم نستخدم حريتنا في الحاجات المفيدة ومناذيش بيها حد. الحرية مش فوضى.",
+    "g2p": "elħorrijja masʔulijja kibiːra. laːzem nistaɣdim ħorrijjitna felħagaːt elmofiːda wemanaʔziiʃ biːha ħadd. elħorrijja miʃ fawdˤa."
+  },
+  {
+    "text": "العدل أساس استقرار أي مجتمع. لما كل واحد ياخد حقه، الناس بتعيش في أمان وسلام. الظلم وحش.",
+    "g2p": "elʕadl ʔasaːs esteqraːr ʔajj mogtamaʕ. lamma koll waːħid jaːxud ħaʔʔu, ennaːs bitʕiːʃ fi ʔamaːn wesalaːm. ezˤzˤolm weħeʃ."
+  },
+  {
+    "text": "السلام هدف كل الشعوب. الحروب بتدمر كل حاجة وبتخلف ضحايا كتير. يارب يعم السلام في كل مكان.",
+    "g2p": "essalaːm hadaf koll eʃʃoʕuːb. elħoruːb bitdammar koll ħaːga witxallif dˤaħaːja kitiːr. jarab jiʕomm essalaːm fi koll makaːn."
+  },
+  {
+    "text": "الحب أجمل إحساس في الدنيا. بيخلينا نشوف كل حاجة حلوة. حب الناس والخير بيجيب سعادة.",
+    "g2p": "elħobb ʔagmal ʔeħsaːs feddonja. bijxalliːna nʃuːf koll ħaːga ħelwa. ħobb ennaːs welxeːr bijgiːb saʕaːda."
+  },
+  {
+    "text": "الكراهية بتدمر القلوب وبتفرق الناس. لازم ننشر المحبة والتسامح بيننا. الدنيا مش مستاهلة كره.",
+    "g2p": "elkaraːhijja bitdammar elʔoluːb witfarraʔ ennaːs. laːzem ninʃur elmaħabba wettasaːmoħ beːnna. eddonja miʃ mistaːhla korh."
+  },
+  {
+    "text": "الصداقة كنز لا يقدر بثمن. الصديق الوفي بيكون أخ وسند. اختار أصحابك كويس.",
+    "g2p": "esˤsˤadaːqa kenz laː joqaddar bisaman. esˤsˤadiːʔ elwafi bijkuːn ʔaxx wesanad. extaːr ʔasˤħaːbak kwajjis."
+  },
+  {
+    "text": "الصداقة كنز لا يقدر بثمن. الصديقة الوفية بتكون أخت وسند. اختاري صاحباتك كويس.",
+    "g2p": "esˤsˤadaːqa kenz laː joqaddar bisaman. esˤsˤadiːqa elwafijja bitkuːn ʔoxt wesanad. extaːri sˤaħbaːtik kwajjis."
+  },
+  {
+    "text": "الأمل بيخلينا نتحمل صعاب الحياة. لما بيكون عندنا أمل، بنقدر نواجه أي تحدي. متفقدش الأمل أبداً.",
+    "g2p": "elʔamal bijxalliːna nitħammal sˤaʕaːb elħajaːh. lamma bijkuːn ʕandina ʔamal, binʔdar niwaːgih ʔajj taħaddi. matifʔidʃ elʔamal ʔabadan."
+  },
+  {
+    "text": "اليأس عدو النجاح. لما بتيأس، بتستسلم وبتوقف محاولة. خليك قوي ومتيأسش.",
+    "g2p": "eljaʔs ʕaduww ennagaːħ. lamma bitijʔas, bitistaslim witwaʔʔaf moħawla. xalliːk ʔawi wematijʔasʃ."
+  },
+  {
+    "text": "الشجاعة مش إنك متخافش، الشجاعة إنك تواجه خوفك وتتغلب عليه. كن شجاع في قراراتك.",
+    "g2p": "eʃʃagaːʕa miʃ ʔinnak matxafʃ, eʃʃagaːʕa ʔinnak tiwaːgih xoːfak wetitɣallib ʕaleːh. kon ʃugaːʕ fi qaraːraːtak."
+  },
+  {
+    "text": "الخوف من الفشل بيمنعنا من تحقيق أحلامنا. لازم نجرب ومنخافش. الفشل خطوة للنجاح.",
+    "g2p": "elxoːf men elfaʃal bijimnaʕna men taħʔiːʔ ʔaħlamna. laːzem nigarrab wemanxafʃ. elfaʃal xatˤwa lennagaːħ."
+  },
+  {
+    "text": "الكسل بيضيع الوقت والفرص. الإنسان النشيط بيستغل وقته صح وبيحقق إنجازات. ابعد عن الكسل.",
+    "g2p": "elkasal bijdˤajjaʕ elwaʔt welforasˤ. elʔinsaːn ennaʃiːtˤ bijistaɣill waʔtu sˤaħħ webijħaʔʔaʔ ʔengaːzaːt. ebʕid ʕan elkasal."
+  },
+  {
+    "text": "النشاط والحيوية بيخلوا يومك أحسن. لما بتكون نشيط، بتقدر تخلص شغلك وتستمتع بوقتك. مارس رياضة.",
+    "g2p": "ennaʃaːtˤ welħajawijja bijxallu joːmak ʔaħsan. lamma bitkuːn naʃiːtˤ, bitʔdar tixallasˤ ʃoɣlak wetistamtiʕ biwaʔtak. maːris rijaːdˤa."
+  },
+  {
+    "text": "الذكاء نعمة من ربنا. لازم نستخدم ذكاءنا في الخير وفي تطوير نفسنا ومجتمعنا. متتغرش بذكائك.",
+    "g2p": "ezzakaːʔ niʕma men rabbena. laːzem nistaɣdim zakaːʔna felxeːr wefi tatˤwiːr nafsina wemogtamaʕna. matitɣarriʃ bizakaːʔak."
+  },
+  {
+    "text": "الذكاء نعمة من ربنا. لازم نستخدم ذكاءنا في الخير وفي تطوير نفسنا ومجتمعنا. متتغريش بذكائك.",
+    "g2p": "ezzakaːʔ niʕma men rabbena. laːzem nistaɣdim zakaːʔna felxeːr wefi tatˤwiːr nafsina wemogtamaʕna. matitɣarriiʃ bizakaːʔik."
+  },
+  {
+    "text": "الغباء مش عيب، العيب إنك متتعلمش ومتطورش من نفسك. كلنا بنغلط وبنتعلم. اطلب المساعدة.",
+    "g2p": "elɣabaːʔ miʃ ʕeːb, elʕeːb ʔinnak matitʕallimʃ wematitˤawwarʃ men nafsak. kollena binɣlatˤ winitʕallim. otˤlob elmosaʕda."
+  },
+  {
+    "text": "الوحدة صعبة وممكن تأثر على النفسية. حاول تكون اجتماعي وتكون صداقات. العلاقات الإنسانية مهمة.",
+    "g2p": "elweħda sˤaʕba wemomken tiʔassir ʕala ennafsejja. ħaːwil tikuːn egtemaːʕi wetkawwin sˤadaqaːt. elʕalaqaːt elʔinsaːnijja mohemma."
+  },
+  {
+    "text": "الغيرة شعور طبيعي بس لو زادت عن حدها بتبقى مؤذية. الثقة بالنفس وبالشريك مهمة جداً.",
+    "g2p": "elɣiːra ʃoʕuːr tˤabiːʕi bas law zaːdit ʕan ħaddaha bitibʔa moʔzija. esseqa bennafs webbeʃʃariːk mohemma giddan."
+  },
+  {
+    "text": "الحقد والكراهية بيأكلوا القلب وبيخلوا الإنسان عايش في تعاسة. سامح واصفح تعيش مرتاح.",
+    "g2p": "elħeʔd welkaraːhijja bijaklu elʔalb webijxallu elʔinsaːn ʕaːjiʃ fi taʕaːsa. saːmiħ wesˤfaħ tiʕiːʃ mertaːħ."
+  },
+  {
+    "text": "التقدير والاحترام أساس التعامل بين الناس. لما بتقدر حد، هو كمان بيقدرك. عامل الناس زي ما تحب يعاملوك.",
+    "g2p": "ettaʔdiːr welʔeħteraːm ʔasaːs ettaʕaːmol beːn ennaːs. lamma bitʔaddir ħadd, huwwa kamaːn bijʔaddrak. ʕaːmil ennaːs zaj ma tiħibb jiʕamluːk."
+  },
+  {
+    "text": "الثقة بالنفس بتخليك قادر تواجه تحديات الحياة. آمن بقدراتك ومتخليش حد يحبطك. أنت قوي.",
+    "g2p": "esseqa bennafs bitxalliːk qaːdir tiwaːgih taħaddijaːt elħajaːh. ʔaːmin biqudraːtak wematxalliiʃ ħadd joħbitˤak. ʔinta ʔawi."
+  },
+  {
+    "text": "الثقة بالنفس بتخليكي قادرة تواجهي تحديات الحياة. آمني بقدراتك ومتخليش حد يحبطك. أنتي قوية.",
+    "g2p": "esseqa bennafs bitxalliːki qaːdra tiwaːghi taħaddijaːt elħajaːh. ʔaːmni biqudraːtik wematxalliiʃ ħadd joħbitˤik. ʔinti qawijja."
+  },
+  {
+    "text": "الشك بيدمر العلاقات وبيجيب قلق وتوتر. لو عندك شك في حاجة، اتكلم بصراحة. الحوار بيحل المشاكل.",
+    "g2p": "eʃʃakk bijdammar elʕalaqaːt webijgiːb ʔalaʔ wetawattor. law ʕandak ʃakk fi ħaːga, etkallim bisˤaraːħa. elħiwaːr bijħill elmaʃaːkil."
+  },
+  {
+    "text": "القلق الزيادة مضر بالصحة. حاول تفكر بإيجابية ومتشلش هم بكرة. عيش اللحظة.",
+    "g2p": "elʔalaʔ ezzijaːda modˤerr besˤsˤeħħa. ħaːwil tifakkar biʔiːgaːbijja wematʃilʃ hamm bokra. ʕiːʃ ellaħzˤa."
+  },
+  {
+    "text": "السكينة وراحة البال نعمة كبيرة. بنلاقيها في القرب من ربنا وفي الرضا والقناعة. حافظ على صلاتك.",
+    "g2p": "essakiːna weraːħit elbaːl niʕma kibiːra. binlaʔiːha felʔorb men rabbena weferreda welqanaːʕa. ħaːfizˤ ʕala sˤalaːtak."
+  },
+  {
+    "text": "التعب والإرهاق بيأثروا على إنتاجيتنا وصحتنا. لازم ناخد قسط كافي من الراحة والنوم. جسمك ليه حق عليك.",
+    "g2p": "ettaʕab welʔerhaːʔ bijʔassiru ʕala ʔintagitna wesˤeħħitna. laːzem naːxud ʔistˤ kaːfi men erraːħa wennoːm. gismak liːh ħaʔʔ ʕaleːk."
+  },
+  {
+    "text": "الاسترخاء والتأمل بيساعدوا على تقليل التوتر وتحسين المزاج. خصص وقت كل يوم للاسترخاء. صحتك النفسية مهمة.",
+    "g2p": "elʔesterxaːʔ wettaʔammol bijsaʕdu ʕala taʔliːl ettawattor wetaħsiːn elmazaːg. xasˤsˤasˤ waʔt koll joːm lelʔesterxaːʔ. sˤeħħitak ennafsejja mohemma."
+  },
+  {
+    "text": "العلاج الطبيعي مهم بعد العمليات أو الإصابات. بيساعد على استعادة الحركة والقوة. لازم نلتزم بتعليمات الدكتور.",
+    "g2p": "elʕelaːg etˤtˤabiːʕi mohemm baʕd elʕamalijaːt ʔaw elʔisˤaːbaːt. bijsaːʕid ʕala esteʕaːdit elħaraka welʔowwa. laːzem niltazim bitaʕlimaːt eddoktoːr."
+  },
+  {
+    "text": "الشفاء من المرض نعمة عظيمة. لازم نحمد ربنا على الصحة ونحافظ عليها. الوقاية خير من العلاج.",
+    "g2p": "eʃʃifaːʔ men elmaradˤ niʕma ʕazˤiːma. laːzem neħmid rabbena ʕala esˤsˤeħħa wenħaːfizˤ ʕaleːha. elweqaːja xajr men elʕelaːg."
+  },
+  {
+    "text": "الدواء لازم ناخده حسب تعليمات الطبيب. مينفعش نزود أو نقلل الجرعة من نفسنا. صحتنا أمانة.",
+    "g2p": "eddawaːʔ laːzem naːxdu ħasab taʕlimaːt etˤtˤabiːb. majinfaʕʃ nizawwid ʔaw niʔallil elgorʕa men nafsina. sˤeħħitna ʔamaːna."
+  },
+  {
+    "text": "الصداع ممكن يكون سببه إرهاق أو قلة نوم أو مشكلة صحية. لو متكرر لازم نروح للدكتور. متستهونش بيه.",
+    "g2p": "esˤsˤodaːʕ momken jikuːn sababu ʔerhaːʔ ʔaw ʔillit noːm ʔaw moʃkila sˤeħħijja. law metkarrar laːzem nruːħ leddoktoːr. matistahwinʃ biːh."
+  },
+  {
+    "text": "الكحة الناشفة مزعجة وممكن تكون بسبب حساسية أو برد. شرب السوايل الداشية بيهديها. لو طولت لازم كشف.",
+    "g2p": "elkoħħa ennaʃfa mozʕiga wemomken tikuːn bisabab ħasasiːja ʔaw bard. ʃorb essawaːjil eddaʃija bijhaddiːha. law tˤawwilit laːzem kaʃf."
+  },
+  {
+    "text": "الزكام بيخلي الواحد حاسس بتكسير في جسمه وصداع. الراحة وشرب اللمون الدافي بيساعدوا على الشفاء.",
+    "g2p": "ezzokaːm bijxalli elwaːħid ħaːsis bitaksiːr fi gismu wesˤodaːʕ. erraːħa weʃorb ellamuːn eddaːfi bijsaʕdu ʕala eʃʃifaːʔ."
+  },
+  {
+    "text": "الحمى وارتفاع درجة الحرارة خطر، خصوصاً للأطفال. لازم نعمل كمادات مية باردة وندي خافض حرارة ونروح للدكتور.",
+    "g2p": "elħomma wertefaːʕ daragit elħaraːra xatˤar, xosˤuːsˤan lelʔatˤfaːl. laːzem niʕmel kammadaːt majja baːrda weniddi xaːfidˤ ħaraːra wenruːħ leddoktoːr."
+  },
+  {
+    "text": "التعرق الزيادة ممكن يكون طبيعي في الحر أو بسبب مجهود، وممكن يكون علامة على مشكلة صحية. لو قلقان استشير طبيب.",
+    "g2p": "ettaʕarroʔ ezzijaːda momken jikuːn tˤabiːʕi felħarr ʔaw bisabab maghuːd, wemomken jikuːn ʕalaːma ʕala moʃkila sˤeħħijja. law ʔalʔaːn estaʃiːr tˤabiːb."
+  },
+  {
+    "text": "القشعريرة والرعشة ممكن يكونوا بسبب البرد أو بداية سخونية. لازم ندفي نفسنا كويس ونقيس الحرارة.",
+    "g2p": "elʔaʃʕariːra werraʕʃa momken jikuːnu bisabab elbard ʔaw bidaːjit soxuːnijja. laːzem niddaffi nafsina kwajjis weniʔiːs elħaraːra."
+  },
+  {
+    "text": "العضلات بتقوى بالتمرين المنتظم والتغذية السليمة. البروتين مهم لبناء العضلات. متمرنش كل يوم نفس العضلة.",
+    "g2p": "elʕadˤalaːt bitʔwa bettamriːn elmontazˤim wettɣzijja essaliːma. elbrotiːn mohemm libinaːʔ elʕadˤalaːt. matmarrinʃ koll joːm nafs elʕadˤala."
+  },
+  {
+    "text": "العظام محتاجة كالسيوم وفيتامين دال عشان تفضل قوية. اللبن ومنتجاته والشمس مفيدين للعظم.",
+    "g2p": "elʕizˤaːm meħtaːga kalsijom wefitamiːn daːl ʕaʃaːn tifdˤal qawijja. ellaban wemontagaːtu weʃʃams mofiːdiːn lelʕazˤm."
+  },
+  {
+    "text": "مفصل الركبة من أكتر المفاصل اللي بتتعرض للإصابات. لازم نسخن كويس قبل التمرين ونقوي العضلات اللي حواليه.",
+    "g2p": "mafsˤal errokba men ʔaktar elmafaːsˤil elli bititʕarradˤ lelʔisˤaːbaːt. laːzem nisaxxan kwajjis ʔabl ettamriːn weniʔawwi elʕadˤalaːt elli ħawaleːh."
+  },
+  {
+    "text": "المخ هو مركز التحكم في الجسم كله. لازم نحافظ عليه بالتغذية الصحية والنوم الكافي وتجنب الضغوط.",
+    "g2p": "elmoxx huwwa markaz ettaħakkom felgism kollu. laːzem nħaːfizˤ ʕaleːh bettɣzijja esˤsˤeħħijja wennoːm elkaːfi wetagannob edˤdˤoɣuːtˤ."
+  },
+  {
+    "text": "القلب عضلة قوية بتضخ الدم للجسم كله. الحفاظ على صحة القلب مهم جداً. الرياضة والأكل الصحي بيحموه.",
+    "g2p": "elʔalb ʕadˤala qawijja bitdˤoxx eddamm lelgism kollu. elħifaːzˤ ʕala sˤeħħit elʔalb mohemm giddan. errejaːdˤa welʔakl esˤsˤeħħi bijiħmuːh."
+  },
+  {
+    "text": "الرئة مسئولة عن التنفس. التدخين أكبر عدو للرئة. الهواء النقي مهم لصحة الرئتين.",
+    "g2p": "erriʔa masʔuːla ʕan ettanaffos. ettadxiːn ʔakbar ʕaduww lerriʔa. elhawaːʔ ennaqi mohemm lisˤeħħit erriʔateːn."
+  },
+  {
+    "text": "الكبد ليه وظايف كتير مهمة في الجسم. لازم نحافظ عليه ونتجنب الأدوية الكتير والأكل الدهني.",
+    "g2p": "elkibd liːh wazˤaːjif kitiːr mohemma felgism. laːzem nħaːfizˤ ʕaleːh wenitgannab elʔadwija elkitiːr welʔakl eddohni."
+  },
+  {
+    "text": "المعدة بتهضم الأكل. لازم ناكل ببطء ونمضغ كويس عشان نساعدها. متكلش وتنام على طول.",
+    "g2p": "elmeʕda bitihdˤim elʔakl. laːzem naːkul bibotˤʔ wenimdˤaɣ kwajjis ʕaʃaːn nisaʕidha. matkulʃ wetnaːm ʕala tˤuːl."
+  },
+  {
+    "text": "الكلية بتنقي الدم من السموم. شرب المية الكتير بيساعد الكلية تقوم بوظيفتها. الأملاح الكتير مضرة.",
+    "g2p": "elkilja bitnaʔʔi eddamm men essomuːm. ʃorb elmajja elkitiːr bijsaːʕid elkilja tiʔuːm biwazˤifitha. elʔamlaːħ elkitiːr modˤerra."
+  },
+  {
+    "text": "الحنجرة فيها الأحبال الصوتية المسئولة عن الصوت. الصريخ الكتير ممكن يأذيها. اشرب ينسون.",
+    "g2p": "elħangara fiːha elʔaħbaːl esˤsˤawtijja elmasʔuːla ʕan esˤsˤoːt. esˤsˤoriːx elkitiːr momken jiʔziːha. eʃrab jansuːn."
+  },
+  {
+    "text": "الحلق والزور ممكن يلتهبوا بسبب البرد أو العدوى. الغرغرة بمية وملح بتريحهم. لو فيه حرارة لازم دكتور.",
+    "g2p": "elħalʔ wezzuːr momken jiltahibu bisabab elbard ʔaw elʕadwa. elɣarɣara bimajja wemalħ bitrajjaħhom. law fiːh ħaraːra laːzem doktoːr."
+  },
+  {
+    "text": "اللسان مش بس عضو التذوق، ده كمان مهم في الكلام. نظافة اللسان جزء من نظافة الفم.",
+    "g2p": "ellesaːn miʃ bas ʕodˤw ettazawwoʔ, da kamaːn mohemm felkalaːm. nazˤaːfit ellesaːn gozʔ men nazˤaːfit elfam."
+  },
+  {
+    "text": "الشفايف ممكن تتشقق في البرد أو بسبب الجفاف. ترطيبها بزبدة الكاكاو بيحميها. اشرب مية كتير.",
+    "g2p": "eʃʃafaːjif momken titʃaʔʔaʔ felbard ʔaw bisabab elgafaːf. tartˤiːbha bizibdit elkakaːw bijiħmiːha. eʃrab majja kitiːr."
+  },
+  {
+    "text": "العين نعمة كبيرة لازم نحافظ عليها. القراية في إضاءة كويسة والبعد عن الشاشات لفترات طويلة بيحميها.",
+    "g2p": "elʕeːn niʕma kibiːra laːzem nħaːfizˤ ʕaleːha. elʔiraːja fi ʔidˤaːʔa kwajjisa welboʕd ʕan eʃʃaʃaːt lifatˤaraːt tˤawiːla bijiħmiːha."
+  },
+  {
+    "text": "الرموش والحواجب بيحموا العين من التراب والعرق. العناية بيهم جزء من جمال الوش.",
+    "g2p": "erromuːʃ welħawaːgib bijiħmu elʕeːn men ettoraːb welʕaraʔ. elʕinaːja biːhom gozʔ men gamaːl elweʃʃ."
+  },
+  {
+    "text": "الأنف مسئول عن الشم والتنفس. تنضيف الأنف باستمرار بيساعد على التنفس بشكل أحسن. متستخدمش نقط كتير.",
+    "g2p": "elʔanf masʔuːl ʕan eʃʃamm wettanaffos. tandˤiːf elʔanf bestimraːr bijsaːʕid ʕala ettanaffos biʃakl ʔaħsan. matistaɣdimʃ noʔatˤ kitiːr."
+  },
+  {
+    "text": "الودن عضو السمع. الأصوات العالية أوي ممكن تأذي طبلة الودن. نظف ودنك بحرص.",
+    "g2p": "elwedn ʕodˤw essamʕ. elʔasˤwaːt elʕalja ʔawi momken tiʔzi tˤablit elwedn. nazˤzˤaf wednak biħirsˤ."
+  },
+  {
+    "text": "الشعر تاج المرأة وزينة الراجل. العناية بالشعر بالتغذية السليمة والمنتجات المناسبة بتحافظ على جماله.",
+    "g2p": "eʃʃaʕr taːg elmarʔa weziːnit erraːgil. elʕinaːja beʃʃaʕr bettɣzijja essaliːma welmontagaːt elmonasba bitħaːfizˤ ʕala gamaːlu."
+  },
+  {
+    "text": "الساق والقدم بيشيلوا الجسم كله. اختيار الحذاء المريح مهم عشان نتجنب مشاكل القدم والضهر.",
+    "g2p": "essaːʔ welʔadam bijʃiːlu elgism kollu. extijaːr elħizaːʔ elmoriːħ mohemm ʕaʃaːn nitgannab maʃaːkil elʔadam wedˤdˤahr."
+  },
+  {
+    "text": "الأصابع والأظافر محتاجين عناية ونظافة. متقرضش ضوافرك. قص الضوافر بانتظام مهم.",
+    "g2p": "elʔasˤaːbiʕ welʔazˤaːfir meħtagiːn ʕinaːja wenazˤaːfa. matʔardˤidˤʃ dˤawafrak. qasˤsˤ edˤdˤawaːfir bentizˤaːm mohemm."
+  },
+  {
+    "text": "اللون البني لون ترابي وهادي. بحب ألبس بني في الخريف والشتا. بيكون شيك وعملي.",
+    "g2p": "elloːn elbunni loːn toraːbi wehaːdi. baħibb ʔalbis bunni felxariːf wefeʃʃita. bijkuːn ʃiːk weʕamali."
+  },
+  {
+    "text": "اللون البرتقاني لون مبهج وبيدي طاقة. مناسب جداً في الصيف. بيليق على البشرة السمرا.",
+    "g2p": "elloːn elburtuʔaːni loːn mobhig webijiddi tˤaːqa. monaːsib giddan fesˤsˤeːf. bijliːʔ ʕala elbaʃara essamra."
+  },
+  {
+    "text": "اللون الوردي لون بناتي ورقيق. بحب أشوف الأطفال لابسين وردي. بيدي إحساس بالبراءة.",
+    "g2p": "elloːn elwardi loːn banaːti weraʔiːʔ. baħibb ʔaʃuːf elʔatˤfaːl labsiːn wardi. bijiddi ʔeħsaːs belbaraːʔa."
+  },
+  {
+    "text": "اللون البنفسجي لون ملكي وفخم. بيعبر عن الغموض والإبداع. قليل اللي بيعرفوا يلبسوه صح.",
+    "g2p": "elloːn elbinafsiːgi loːn malaki wefaxm. bijʕabbar ʕan elɣomuːdˤ welʔebdaːʕ. ʔolajjil elli bijiʕrafu jilbisuːh sˤaħħ."
+  },
+  {
+    "text": "اللون الرمادي لون محايد وأنيق. بيليق مع معظم الألوان. مناسب جداً للملابس الرسمية.",
+    "g2p": "elloːn erramaːdi loːn moħaːjid waʔaniːʔ. bijliːʔ maʕa moʕzˤam elʔalwaːn. monaːsib giddan lelmalabis errasmiːja."
+  },
+  {
+    "text": "اللون الدهبي والفضي بيدوا لمسة فخامة لأي حاجة. مناسبين للإكسسوارات وفساتين السهرة.",
+    "g2p": "elloːn eddahabi welfadˤdˤi bijiddu lamsit faxaːma leʔajj ħaːga. monasibiːn lelʔiksSowaːraːt wefasatiːn essahra."
+  },
+  {
+    "text": "الموز فاكهة غنية بالبوتاسيوم ومفيدة للرياضيين. بيدى طاقة وبيمنع الشد العضلي. طعمه حلو وسهل الأكل.",
+    "g2p": "elmoːz fakha ɣanijja belbotasjom wemofiːda lerrijaːdˤijiːn. bijiddi tˤaːqa webijimnaʕ eʃʃadd elʕadˤali. tˤaʕmu ħelw wesahl elʔakl."
+  },
+  {
+    "text": "العنب سواء أحمر أو أخضر لذيذ ومفيد. مليان مضادات أكسدة. بس سعراته عالية شوية.",
+    "g2p": "elʕinab sawaːʔ ʔaħmar ʔaw ʔaxdˤar laziːz wemofiːd. maljaːn modˤaddaːt ʔaksada. bas soʕraːtu ʕalja ʃwajja."
+  },
+  {
+    "text": "الفراولة فاكهة ربيعية جميلة. لونها وطعمها ورائحتها يفتحوا النفس. ممكن نعمل بيها عصير أو مربى أو ناكلها كده.",
+    "g2p": "elfaraːwla fakha rabiːʕijja gamiːla. lonha wetˤaʕmaha weriħitha jiftaħu ennafs. momken niʕmel biːha ʕasˤiːr ʔaw morabba ʔaw nakolha kida."
+  },
+  {
+    "text": "الخوخ والمشمش من فواكه الصيف اللذيذة. طعمهم مسكر ومنعش. بس موسمهم قصير.",
+    "g2p": "elxoːx welmiʃmiʃ men fawaːkih esˤsˤeːf ellaziːza. tˤaʕmohom misakkar wemonʕiʃ. bas moːsimhom ʔasˤiːr."
+  },
+  {
+    "text": "البطيخ أحسن حاجة في حر الصيف. مليان مية وبيرطب الجسم. لما يكون ساقع ومسكر يبقى تحفة.",
+    "g2p": "elbatˤtˤiːx ʔaħsan ħaːga fi ħarr esˤsˤeːf. maljaːn majja webijratˤtˤib elgism. lamma jikuːn saːʔiʕ wemsakkar jibʔa toħfa."
+  },
+  {
+    "text": "المانجة ملكة الفواكه. أنواعها كتير وكل نوع ليه طعم مميز. العويس والسكري والفص أحلى أنواع.",
+    "g2p": "elmanga malikit elfawaːkih. ʔanwaːʕha kitiːr wekoll noːʕ liːh tˤaʕm momajjaz. elʕoweːs wessokkari welfasˤsˤ ʔaħla ʔanwaːʕ."
+  },
+  {
+    "text": "الجوافة مفيدة وفيها فيتامين سي كتير. ممكن ناكلها أو نعملها عصير باللبن. بس بذرها رخم شوية.",
+    "g2p": "elgawwaːfa mofiːda wefiːha fitamiːn siː kitiːr. momken nakolha ʔaw niʕmilha ʕasˤiːr bellaban. bas bizraha rixim ʃwajja."
+  },
+  {
+    "text": "الرمان فاكهة خريفية جميلة ومغذية. مفيد للقلب والدم. تفصيصه صعب شوية بس يستاهل.",
+    "g2p": "errommaːn fakha xariːfijja gamiːla wemoɣazzija. mofiːd lelʔalb weddamm. tafsˤiːsˤu sˤaʕb ʃwajja bas jistaːhil."
+  },
+  {
+    "text": "الليمون حامض بس فوايده كتير. بنستخدمه في الأكل والشرب والعلاج. عصير اللمون بالنعناع منعش جداً.",
+    "g2p": "ellimuːn ħaːmidˤ bas fawajdu kitiːr. binistaɣdimu felʔakl weʃʃorb welʕilaːg. ʕasˤiːr ellamuːn bennaʕnaːʕ monʕiʃ giddan."
+  },
+  {
+    "text": "الخيار مرطب وخفيف. بنحطه في السلطة أو ناكله لوحده. مفيد للبشرة كمان.",
+    "g2p": "elxijaːr moratˤtˤib wexafiːf. binħotˤtˤu fesˤsˤalatˤa ʔaw naklu liwaħdu. mofiːd lelbaʃara kamaːn."
+  },
+  {
+    "text": "الطماطم أساسية في أي مطبخ. بنستخدمها في السلطة والصلصة ومعظم الطبيخ. سعرها بيغلى أوقات.",
+    "g2p": "etˤtˤamaːtˤim ʔasasiːja fi ʔajj matˤbax. binistaɣdimha fesˤsˤalatˤa wesˤsˤalsˤa wemoʕzˤam etˤtˤabiːx. seʕraha bijiɣla ʔawʔaːt."
+  },
+  {
+    "text": "الخس والجرجير من الخضروات الورقية المفيدة. مليانين ألياف وفيتامينات. لازم ناكلهم كل يوم.",
+    "g2p": "elxass welgargiːr men elxodˤrawaːt elwaraqijja elmofiːda. maljaniːn ʔaljaːf wefitaminaːt. laːzem naːkolhom koll joːm."
+  },
+  {
+    "text": "البصل والتوم مضادات حيوية طبيعية. بيقووا المناعة وبيحموا من الأمراض. ريحتهم قوية شوية.",
+    "g2p": "elbasˤal wettuːm modˤaddaːt ħajawijja tˤabiːʕijja. bijʔawwu elmanaːʕa webijħimu men elʔamraːdˤ. riħithom qawijja ʃwajja."
+  },
+  {
+    "text": "البطاطس ليها ألف طريقة وطريقة. مسلوقة، محمرة، في الفرن، طبيخ. كل الناس بتحبها.",
+    "g2p": "elbatˤaːtˤis liːha ʔalf tˤariːʔa wetˤariːʔa. masluːʔa, meħammara, felkorn, tˤabiːx. koll ennaːs bitħibbaha."
+  },
+  {
+    "text": "الفول المدمس أكلة مصرية أصيلة. فطار وغدا وعشا. بالزيت والليمون أو بالطحينة بيبقى تحفة.",
+    "g2p": "elfuːl elmidammis ʔakla masˤrijja ʔasˤiːla. fitˤaːr weɣada weʕaʃa. bezzeːt wellimuːn ʔaw betˤtˤeħiːna bijibʔa toħfa."
+  },
+  {
+    "text": "العدس شوربة الشتا الرسمية. بيدفي ومغذي. شوربة العدس بالشعرية والعيش المحمص أكلة متكاملة.",
+    "g2p": "elʕads ʃorbit eʃʃita errasmiːja. bijdaffi wemoɣazzi. ʃorbit elʕads beʃʃiʕrijja welʕeːʃ elmoħammasˤ ʔakla motakamla."
+  },
+  {
+    "text": "الأرز الأبيض أساسي جنب أي طبيخ. ممكن نعمله بالشعرية أو حبة وحبة. سهل وسريع.",
+    "g2p": "elʔorz elʔabjadˤ ʔasaːsi gamb ʔajj tˤabiːx. momken niʕmilu beʃʃiʕrijja ʔaw ħabba weħabba. sahl wesariːʕ."
+  },
+  {
+    "text": "المكرونة ليها أشكال وأنواع كتير. بالصلصة أو بالبشاميل أو بالوايت صوص. كل واحد ليه طريقته المفضلة.",
+    "g2p": "elmakaroːna liːha ʔaʃkaːl waʔanwaːʕ kitiːr. besˤsˤalsˤa ʔaw belbaʃameːl ʔaw belwajt sˤoːsˤ. koll waːħid liːh tˤariːʔtu elmofadˤdˤala."
+  },
+  {
+    "text": "العيش البلدي بتاع الفرن ليه طعم تاني. سخن وطازة بيبقى جميل مع أي أكل. ربنا يديمها نعمة.",
+    "g2p": "elʕeːʃ elbaladi bitaːʕ elforn liːh tˤaʕm taːni. soxn wetˤaːza bijibʔa gamiːl maʕa ʔajj ʔakl. rabbena jidiːmha niʕma."
+  },
+  {
+    "text": "اللحمة الحمرا مصدر مهم للبروتين والحديد. ممكن نعملها مشوية أو مسلوقة أو في الطبيخ. بس كترها مضر.",
+    "g2p": "ellaħma elħamra masˤdar mohemm lelbrotiːn welħadiːd. momken niʕmilha maʃwijja ʔaw masluːʔa ʔaw fetˤtˤabiːx. bas kotraha modˤerr."
+  },
+  {
+    "text": "الفراخ البيضا أخف من اللحمة وأسهل في الهضم. ليها طرق طبخ كتير. الفراخ المشوية صحية ولذيذة.",
+    "g2p": "elfaraːx elbeːdˤa ʔaxaff men ellaħma waʔashal felhadˤm. liːha tˤoroʔ tˤabx kitiːr. elfaraːx elmaʃwijja sˤeħħijja welaziːza."
+  },
+  {
+    "text": "السمك غني بالأوميجا ثري ومفيد جداً للمخ والقلب. لازم ناكل سمك مرتين في الأسبوع على الأقل. المقلي ولا المشوي؟",
+    "g2p": "essamak ɣani belʔoːmeːga sriː wemofiːd giddan lelmoxx welʔalb. laːzem naːkul samak marrateːn felʔosbuːʕ ʕala elʔaʔall. elmaʔli wala elmaʃwi?"
+  },
+  {
+    "text": "الجمبري والكابوريا من المأكولات البحرية الفاخرة. طعمهم حلو أوي بس أسعارهم غالية. مناسبين للعزومات.",
+    "g2p": "elgambari welkaborja men elmaʔkuːlaːt elbaħrijja elfaːxira. tˤaʕmohom ħelw ʔawi bas ʔasʕarhom ɣalja. monasibiːn lelʕozuːmaːt."
+  },
+  {
+    "text": "الكفتة المشوية أو المقلية من الأكلات المحبوبة. ممكن نعملها في البيت أو نشتريها جاهزة. سندوتشات الكفتة تحفة.",
+    "g2p": "elkofta elmaʃwijja ʔaw elmaʔlijja men elʔakalaːt elmaħbuːba. momken niʕmilha felbeːt ʔaw niʃtiriːha gahza. sandwitʃaːt elkofta toħfa."
+  },
+  {
+    "text": "البيض مصدر رخيص للبروتين. مسلوق أو مقلي أو أومليت. فطار سريع ومغذي.",
+    "g2p": "elbeːdˤ masˤdar rxiːsˤ lelbrotiːn. masluːʔ ʔaw maʔli ʔaw ʔomleːt. fitˤaːr sariːʕ wemoɣazzi."
+  },
+  {
+    "text": "الجبنة البيضا والجبنة الرومي أساسيين في الفطار والعشا. سندوتشات الجبنة سهلة وسريعة. الجبنة القديمة ليها طعم تاني.",
+    "g2p": "elgibna elbeːdˤa welgibna erroːmi ʔasasiːjiːn felfitˤaːr welʕaʃa. sandwitʃaːt elgibna sahla wesariːʕa. elgibna elʔadiːma liːha tˤaʕm taːni."
+  },
+  {
+    "text": "الزبادي مفيد للمعدة وبيساعد على الهضم. ممكن ناكله لوحده أو نضيف عليه فاكهة وعسل. الزبادي بالخيار حلو في الصيف.",
+    "g2p": "ezzabaːdi mofiːd lelmeʕda webijsaːʕid ʕala elhadˤm. momken naːklu liwaħdu ʔaw nidˤiːf ʕaleːh fakha weʕasal. ezzabaːdi belxijaːr ħelw fesˤsˤeːf."
+  },
+  {
+    "text": "اللبن ضروري لنمو العظام والأسنان. الأطفال لازم يشربوا لبن كل يوم. اللبن الرايب كمان مفيد.",
+    "g2p": "ellaban dˤaruːri linomoww elʕizˤaːm welʔasnaːn. elʔatˤfaːl laːzem jiʃrabu laban koll joːm. ellaban erraːjib kamaːn mofiːd."
+  },
+  {
+    "text": "العسل الأبيض شفاء من كل داء. مفيد للمناعة وللجهاز الهضمي. معلقة عسل على الريق الصبح بتدي طاقة.",
+    "g2p": "elʕasal elʔabjadˤ ʃifaːʔ men koll daːʔ. mofiːd lelmanaːʕa wellelgehaːz elhadˤmi. maʕlaʔit ʕasal ʕala erriːʔ esˤsˤobħ bitiddi tˤaːqa."
+  },
+  {
+    "text": "المربى البيتي أحلى من الجاهزة. ممكن نعمل مربى فراولة أو تين أو مشمش. سندوتشات المربى بالقشطة فطار لذيذ.",
+    "g2p": "elmorabba elbeːti ʔaħla men elgahza. momken niʕmel morabba faraːwla ʔaw tiːn ʔaw miʃmiʃ. sandwitʃaːt elmorabba belʔiʃtˤa fitˤaːr laziːz."
+  },
+  {
+    "text": "السكر الكتير مضر بالصحة وبيسبب السمنة. لازم نقلل استهلاكنا للسكر الأبيض ونستبدله ببدائل صحية.",
+    "g2p": "essukkar elkitiːr modˤerr besˤsˤeħħa webijsabbeb essimna. laːzem niʔallil estehlaːkna lessukkar elʔabjadˤ wenistabdilu bibaːdaːʔil sˤeħħijja."
+  },
+  {
+    "text": "الملح ضروري للجسم بس بكميات قليلة. الملح الكتير بيرفع الضغط وبيضر الكلى. قلل الملح في أكلك.",
+    "g2p": "elmalħ dˤaruːri lelgism bas bikimmijaːt ʔolajjila. elmalħ elkitiːr bijirfaʕ edˤdˤaɣtˤ webijdˤorr elkilja. ʔallil elmalħ fi ʔaklak."
+  },
+  {
+    "text": "الملح ضروري للجسم بس بكميات قليلة. الملح الكتير بيرفع الضغط وبيضر الكلى. قللي الملح في أكلك.",
+    "g2p": "elmalħ dˤaruːri lelgism bas bikimmijaːt ʔolajjila. elmalħ elkitiːr bijirfaʕ edˤdˤaɣtˤ webijdˤorr elkilja. ʔallili elmalħ fi ʔaklik."
+  },
+  {
+    "text": "الشطة والبهارات بتدي طعم ونكهة للأكل. بس كترها ممكن يتعب المعدة. كل واحد وذوقه.",
+    "g2p": "eʃʃatˤtˤa welbohaːraːt bitiddi tˤaʕm wenakha lelʔakl. bas kotraha momken jitʕib elmeʕda. koll waːħid wezoːʔu."
+  },
+  {
+    "text": "المية سر الحياة. لازم نشرب مية كتير كل يوم عشان نحافظ على صحتنا ونشاطنا. متنساش تشرب مية.",
+    "g2p": "elmajja sirr elħajaːh. laːzem niʃrab majja kitiːr koll joːm ʕaʃaːn nħaːfizˤ ʕala sˤeħħitna wenaʃaːtˤna. matinsaːʃ tiʃrab majja."
+  },
+  {
+    "text": "الشاي مشروب شعبي في مصر. شاي كشري أو شاي فتلة. شاي بالنعناع أو بالقرنفل ليه مزاج خاص.",
+    "g2p": "eʃʃaːj maʃruːb ʃaʕbi fi masˤr. ʃaːj kuʃari ʔaw ʃaːj fatla. ʃaːj bennaʕnaːʕ ʔaw belʔoronfil liːh mazaːg xaːsˤ."
+  },
+  {
+    "text": "القهوة ليها عشاقها. قهوة سادة أو مظبوط أو زيادة. القهوة التركي أو الفرنساوي. كل واحد وقهوته.",
+    "g2p": "elʔahwa liːha ʕoʃʃaːʔha. ʔahwa saːda ʔaw mazˤbuːtˤ ʔaw zijaːda. elʔahwa ettorki ʔaw elfaransaːwi. koll waːħid weʔahwitu."
+  },
+  {
+    "text": "البقدونس والكزبرة والشبت من الخضروات الورقية المهمة. بنستخدمهم في السلطة والمحشي وتزيين الأطباق.",
+    "g2p": "elbaʔduːnis welkuzbara weʃʃabat men elxodˤrawaːt elwaraqijja elmohemma. binistaɣdimhom fesˤsˤalatˤa welmaħʃi wetazjiːn elʔatˤbaːʔ."
+  },
+  {
+    "text": "النعناع ليه ريحة منعشة وطعم حلو. بنحطه في الشاي أو اللمون. زيت النعناع مفيد للصداع.",
+    "g2p": "ennaʕnaːʕ liːh riːħa monʕiʃa wetˤaʕm ħelw. binħotˤtˤu feʃʃaːj ʔaw ellamuːn. zeːt ennaʕnaːʕ mofiːd lesˤsˤodaːʕ."
+  },
+  {
+    "text": "الفلفل الأسود من التوابل الأساسية. بيدي طعم حلو للأكل. بس متكترش منه عشان حراق.",
+    "g2p": "elfilfil elʔiswid men ettawaːbil elʔasasiːja. bijiddi tˤaʕm ħelw lelʔakl. bas matkattarʃ minnu ʕaʃaːn ħarraːʔ."
+  },
+  {
+    "text": "الملوخية أكلة مصرية أصيلة. بالارانب أو بالفراخ. طشة الملوخية بالتوم والكزبرة ريحتها تجيب آخر الشارع.",
+    "g2p": "elmoloxijja ʔakla masˤrijja ʔasˤiːla. belʔaraːnib ʔaw belfaraːx. tˤaʃʃit elmoloxijja bettoːm welkuzbara riħitha tigiːb ʔaːxer eʃʃaːriʕ."
+  },
+  {
+    "text": "الكوسة والباذنجان بنعملهم محشي أو طبيخ أو مقليين. خضار لذيذ ومغذي. المحشي مشكل أحلى حاجة.",
+    "g2p": "elkoːsa welbazingaːn biniʕmilhom maħʃi ʔaw tˤabiːx ʔaw maʔlijiːn. xodˤaːr laziːz wemoɣazzi. elmaħʃi miʃakkil ʔaħla ħaːga."
+  },
+  {
+    "text": "البامية الويكا أو البامية بالصلصة أكلة صعيدي أصيلة. طعمها حلو أوي مع اللحمة الضاني والعيش الشمسي.",
+    "g2p": "elbaːmja elwiːka ʔaw elbaːmja besˤsˤalsˤa ʔakla sˤiʕiːdi ʔasˤiːla. tˤaʕmaha ħelw ʔawi maʕa ellaħma edˤdˤaːni welʕeːʃ eʃʃamsi."
+  },
+  {
+    "text": "البسلة والجزر بنعملهم طبيخ أو شوربة خضار أو مع الرز. أكلة شتوية مغذية وبتدفي.",
+    "g2p": "elbisilla welgazar biniʕmilhom tˤabiːx ʔaw ʃorbit xodˤaːr ʔaw maʕa erroz. ʔakla ʃitwijja moɣazzija witdaffi."
+  },
+  {
+    "text": "ورق العنب المحشي من أحلى أنواع المحاشي. لفه صعب شوية بس طعمه يستاهل. باللحمة المفرومة أو من غيرها.",
+    "g2p": "waraʔ elʕinab elmaħʃi men ʔaħla ʔanwaːʕ elmaħaːʃi. laffu sˤaʕb ʃwajja bas tˤaʕmu jistaːhil. bellaħma elmafruːma ʔaw men ɣeːrha."
+  },
+  {
+    "text": "الفتة المصرية بالخل والتوم والعيش المحمص أكلة أساسية في العيد. ممكن تتعمل باللحمة أو بالكوارع.",
+    "g2p": "elfatta elmasˤrijja belxall wettoːm welʕeːʃ elmoħammasˤ ʔakla ʔasasiːja felʕiːd. momken titʕimil bellaħma ʔaw belkawaːriʕ."
+  },
+  {
+    "text": "الطعمية أو الفلافل فطار مصري شعبي. بتتعمل من الفول المدشوش والخضرة. سندوتشات الطعمية بالطحينة والسلطة وهم.",
+    "g2p": "etˤtˤaʕmijja ʔaw elfalaːfil fitˤaːr masˤri ʃaʕbi. bititʕimil men elfuːl elmadʃuːʃ welxodˤra. sandwitʃaːt etˤtˤaʕmijja betˤtˤeħiːna wesˤsˤalatˤa wahm."
+  },
+  {
+    "text": "الشاورما السوري واللبناني بقت منتشرة في مصر. شاورما لحمة أو فراخ. بتتقدم في عيش سوري أو في طبق.",
+    "g2p": "eʃʃaːwirma essuːri wellibnaːni baʔit montaʃira fi masˤr. ʃaːwirma laħma ʔaw faraːx. bititʔaddim fi ʕeːʃ suːri ʔaw fi tˤabaʔ."
+  },
+  {
+    "text": "الكباب والكفتة المشوية على الفحم ليهم طعم تاني. بيتقدموا مع سلطات وعيش وطحينة. أكلة عزومات.",
+    "g2p": "elkabaːb welkofta elmaʃwijja ʕala elfaħm liːhom tˤaʕm taːni. bijitʔaddimu maʕa salatˤaːt weʕeːʃ wetˤeħiːna. ʔaklit ʕozuːmaːt."
+  },
+  {
+    "text": "الحمام المحشي فريك أو رز أكلة مصرية فاخرة. طعمه حلو أوي بس محتاج شطارة في الحشو والتسوية.",
+    "g2p": "elħamaːm elmaħʃi friːk ʔaw rozz ʔakla masˤrijja faːxira. tˤaʕmu ħelw ʔawi bas meħtaːg ʃatˤaːra felħaʃw wettaswija."
+  },
+  {
+    "text": "البط بالبرتقال أو البط المحشي أكلة دسمة ولذيذة. بتتعمل في المناسبات والعزومات الكبيرة.",
+    "g2p": "elbatˤtˤ belbortoʔaːl ʔaw elbatˤtˤ elmaħʃi ʔakla dasma welaziːza. bititʕimil felmonasabaːt welʕozuːmaːt elkibiːra."
+  },
+  {
+    "text": "الفطير المشلتت بالعسل والقشطة أو بالجبنة القديمة فطار أو عشا مصري أصيل. الفطاطري شاطر.",
+    "g2p": "elfatˤiːr elmiʃaltit belʕasal welʔiʃtˤa ʔaw belgibna elʔadiːma fitˤaːr ʔaw ʕaʃa masˤri ʔasˤiːl. elfatˤaːtˤri ʃaːtˤir."
+  },
+  {
+    "text": "البسبوسة والكنافة والقطايف حلويات شرقية رمضانية أساسية. طعمهم حلو أوي بس سعراتهم عالية. منقدرش نقاومهم.",
+    "g2p": "elbasbuːsa welkonaːfa welqatˤaːjif ħalawijaːt ʃarʔijja ramadˤaːnijja ʔasasiːja. tˤaʕmohom ħelw ʔawi bas soʕraːthom ʕalja. manʔdarʃ niqaːwimhom."
+  },
+  {
+    "text": "البلح والتمر مفيدين جداً وبيدوا طاقة. بناكلهم في رمضان على الفطار. البلح الرطب طعمه مسكر.",
+    "g2p": "elbalaħ wettamr mofiːdiːn giddan webijiddu tˤaːqa. binaːkolhom fi ramadˤaːn ʕala elfitˤaːr. elbalaħ erratˤb tˤaʕmu misakkar."
+  },
+  {
+    "text": "السوبر ماركت فيه كل حاجة بنحتاجها. أكل وشرب ومنظفات. بس الأسعار فيه ساعات بتكون أغلى من السوق.",
+    "g2p": "essuːbar markit fiːh koll ħaːga bineħtaːgha. ʔakl weʃorb wemonazˤzˤifaːt. bas elʔasʕaːr fiːh saʕaːt bitkuːn ʔaɣla men essuːʔ."
+  },
+  {
+    "text": "المحل ده بيبيع ملابس شيك وأسعارها كويسة. أنا اشتريت منه جاكيت عجبني أوي. البياع ذوق.",
+    "g2p": "elmaħall da bijbiːʕ malaːbis ʃiːk waʔasʕarha kwajjisa. ʔana iʃtareːt minnu gakeːt ʕagabni ʔawi. elbajjaːʕ zoːʔ."
+  },
+  {
+    "text": "الدكان اللي على الناصية بيبيع كل حاجة. سجاير، بيبسي، شيبسي. فاتح لغاية وقت متأخر.",
+    "g2p": "eddukkaːn elli ʕala ennasˤja bijbiːʕ koll ħaːga. sagaːjir, bibsi, ʃibsi. faːtiħ liɣaːjit waʔt metʔaxxar."
+  },
+  {
+    "text": "القهوة البلدي بتاعتنا ليها طعم تاني. القعدة على القهوة ليها مزاج خاص. بنقابل فيها أصحابنا ونلعب طاولة.",
+    "g2p": "elʔahwa elbaladi bitaːʕitna liːha tˤaʕm taːni. elʔaʕda ʕala elʔahwa liːha mazaːg xaːsˤ. binʔaːbil fiːha ʔasˤħabna wenilʕab tˤawla."
+  },
+  {
+    "text": "السوق الشعبي فيه خضار وفاكهة طازة وأسعارها رخيصة. بس بيكون زحمة وفيه دوشة كتير. لازم تفاصل مع البياع.",
+    "g2p": "essuːʔ eʃʃaʕbi fiːh xodˤaːr wefakha tˤaːza waʔasʕarha rxiːsˤa. bas bijkuːn zaħma wefiːh dawʃa kitiːr. laːzem tifaːsˤil maʕa elbajjaːʕ."
+  },
+  {
+    "text": "المطعم ده أكله نضيف وطعمه حلو. الخدمة ممتازة والأسعار معقولة. بنحب نروح هناك في المناسبات.",
+    "g2p": "elmatˤʕam da ʔaklu ndiːf wetˤaʕmu ħelw. elxedma momtaːza welʔasʕaːr maʕʔuːla. binħibb nruːħ hinaːk felmonasabaːt."
+  },
+  {
+    "text": "الصيدلية دي فاتحة أربعة وعشرين ساعة. فيها كل الأدوية ومستلزمات الأطفال. الصيدلي شاطر وفاهم.",
+    "g2p": "esˤsˤajdalijja di fatħa ʔarbaʕa weʕiʃriːn saːʕa. fiːha koll elʔadwija wemostalzamaːt elʔatˤfaːl. esˤsˤajdali ʃaːtˤir wefaːhim."
+  },
+  {
+    "text": "البقالة اللي تحت البيت بتنقذنا في أي وقت. بنشتري منها اللبن والعيش والحاجات السريعة. صاحبها راجل طيب.",
+    "g2p": "elbaʔʔaːla elli taħt elbeːt bitinʔizna fi ʔajj waʔt. biniʃtiri minha ellaban welʕeːʃ welħagaːt essariiʕa. sˤaħibha raːgil tˤajjib."
+  },
+  {
+    "text": "الفرن ده بيعمل عيش بلدي وفينو طازة كل يوم. ريحة العيش وهو طالع من الفرن بتفتح النفس. بنشتري منه دايماً.",
+    "g2p": "elforn da bijiʕmel ʕeːʃ baladi wefiːno tˤaːza koll joːm. riːħit elʕeːʃ wehuwwa tˤaːliʕ men elforn bitiftaħ ennafs. biniʃtiri minnu dajman."
+  },
+  {
+    "text": "محطة البنزين دي فيها خدمات تانية غير البنزين. غسيل عربيات وتغيير زيت وكاوتش. مريحة جداً.",
+    "g2p": "maħatˤtˤit elbinziːn di fiːha xadamaːt tanja ɣeːr elbinziːn. ɣasiːl ʕarabijaːt wetaɣjiːr zeːt wekawtʃ. moriːħa giddan."
+  },
+  {
+    "text": "المكتبة العامة مكان هادي ومناسب للقراءة والمذاكرة. فيها كتب في كل المجالات. الاستعارة منها ببلاش.",
+    "g2p": "elmaktaba elʕaːmma makaːn haːdi wemonaːsib lelʔiraːja welmozakra. fiːha kotob fi koll elmagalaːt. elʔesteʕaːra minha bibalaːʃ."
+  },
+  {
+    "text": "البنك ده فروعه منتشرة في كل مكان. خدماته كويسة والتعامل معاهم سهل. الموظفين متعاونين.",
+    "g2p": "elbank da foruːʕu montaʃira fi koll makaːn. xadamaːtu kwajjisa wettaʕaːmol maʕaːhom sahl. elmowazˤzˤafiːn motaʕawniːn."
+  },
+  {
+    "text": "استاد القاهرة الدولي من أكبر الاستادات في أفريقيا. بيستضيف مباريات مهمة للمنتخب والأندية الكبيرة.",
+    "g2p": "istaːd elqaːhira eddawli men ʔakbar elʔistadaːt fi ʔafriːʔja. bijistadˤiːf mobarajaːt mohemma lelmontaxab welʔandija elkibiːra."
+  },
+  {
+    "text": "السينما بتعرض أفلام جديدة كل أسبوع. بحب أروح السينما في الويك إند. الفشار والبيبسي أساسيين.",
+    "g2p": "essinima bitʕridˤ ʔaflaːm gidiːda koll ʔosbuːʕ. baħibb ʔaruːħ essinima felwiːk ʔend. elfiʃaːr welbibsi ʔasasiːjiːn."
+  },
+  {
+    "text": "المسرح بيقدم عروض متنوعة. كوميدي وتراجيدي واستعراضي. المسرح فن راقي وليه جمهوره.",
+    "g2p": "elmasraħ bijʔaddim ʕoruːdˤ motanawwiʕa. komiːdi wetragiːdi westaʕraːdˤi. elmasraħ fann raːʔi weliːh gumhuːru."
+  },
+  {
+    "text": "الحديقة مكان حلو للخروج والفسحة. الأولاد بيلعبوا ويجروا. والكبار بيقعدوا يتكلموا ويستمتعوا بالخضرة والهوا.",
+    "g2p": "elħadiːʔa makaːn ħelw lelxoruːg welfosħa. elʔawlaːd bijilʕabu wejjigru. welkobaːr bijʔoʕodu jitkallimu wejistamtiʕu belxodˤra welhawa."
+  },
+  {
+    "text": "المنتزه ده كبير وفيه أماكن كتير للعب الأطفال. ممكن نعمل فيه حفلات أعياد ميلاد. الجو فيه بيكون جميل.",
+    "g2p": "elmuntazah da kibiːr wefiːh ʔamaːkin kitiːr liliʕb elʔatˤfaːl. momken niʕmel fiːh ħafalaːt ʔaʕjaːd milaːd. elgaww fiːh bijkuːn gamiːl."
+  },
+  {
+    "text": "الملعب الخماسي اللي جنب بيتنا كويس وبنلعب فيه كورة كل أسبوع. الإيجار بتاعه معقول.",
+    "g2p": "elmalʕab elxomaːsi elli gamb beːtna kwajjis webinilʕab fiːh koːra koll ʔosbuːʕ. elʔiːgaːr bitaːʕu maʕʔuːl."
+  },
+  {
+    "text": "النادي الأهلي والزمالك أكبر ناديين في مصر وأفريقيا. ليهم تاريخ كبير وجماهير عريضة. المنافسة بينهم قوية.",
+    "g2p": "ennaːdi elʔahli wezzamaːlek ʔakbar nadijeːn fi masˤr waʔafriːʔja. liːhom tariːx kibiːr wagamaːhiːr ʕariːdˤa. elmonafsa beːnhom qawijja."
+  },
+  {
+    "text": "الفندق ده خمس نجوم وخدماته ممتازة. الغرف واسعة ونضيفة والأكل متنوع. بس أسعاره غالية أوي.",
+    "g2p": "elfunduʔ da xamas nuguːm wexadamaːtu momtaːza. elɣoraf wasʕa wendiːfa welʔakl motanawwaʕ. bas ʔasʕaːru ɣalja ʔawi."
+  },
+  {
+    "text": "الشقة دي إيجارها غالي بس موقعها كويس وتشطيبها سوبر لوكس. تلات أوض وصالة وحمامين ومطبخ كبير.",
+    "g2p": "eʃʃaʔʔa di ʔigaːrha ɣaːli bas mawqiʕha kwajjis wetaʃtˤiːbha suːbar loːks. talaːt ʔuwadˤ wesˤaːla weħammameːn wematˤbax kibiːr."
+  },
+  {
+    "text": "المصيف في الساحل الشمالي بيكون حلو أوي في الصيف. البحر هناك جميل والجو لطيف. بنقضي فيه أحلى الأوقات.",
+    "g2p": "elmasˤiːf fessaːħil eʃʃamaːli bijkuːn ħelw ʔawi fesˤsˤeːf. elbaħr hinaːk gamiːl welgaww latˤiːf. binʔadˤdˤi fiːh ʔaħla elʔawʔaːt."
+  },
+  {
+    "text": "الكورنيش في اسكندرية مكان ساحر للتمشية. منظر البحر والناس والهوا. بحب أروح هناك بالليل.",
+    "g2p": "elkorniːʃ fi ʔeskenderija makaːn saːħir lettamʃija. manzˤar elbaħr wennaːs welhawa. baħibb ʔaruːħ hinaːk belleːl."
+  },
+  {
+    "text": "القرية دي هادية وناسها طيبين. الحياة فيها بسيطة ومريحة. بعيدة عن دوشة المدينة وزحمتها.",
+    "g2p": "elʔarja di hadja wenasha tˤajjibiːn. elħajaːh fiːha basˤiːtˤa wemoriːħa. biʕiːda ʕan dawʃit elmadiːna wezaħmitha."
+  },
+  {
+    "text": "البلد دي فيها آثار تاريخية مهمة. لازم نحافظ عليها ونروج للسياحة فيها. السياحة مصدر دخل مهم.",
+    "g2p": "elbalad di fiːha ʔaːsaːr tariːxijja mohemma. laːzem nħaːfizˤ ʕaleːha wenerawwag lessijaːħa fiːha. essijaːħa masˤdar daxl mohemm."
+  },
+  {
+    "text": "المدينة دي كبيرة ومزدحمة. فيها فرص عمل كتير بس المعيشة فيها غالية. كل واحد وظروفه.",
+    "g2p": "elmadiːna di kibiːra wemozdaħima. fiːha forasˤ ʕamal kitiːr bas elmaʕiːʃa fiːha ɣalja. koll waːħid wezˤoruːfu."
+  },
+  {
+    "text": "المحافظة دي مشهورة بزراعة القطن والفواكه. أرضها خصبة والفلاحين فيها شطار. ربنا يبارك لهم.",
+    "g2p": "elmoħafzˤa di maʃhuːra biziraːʕit elʔotˤn welfawaːkih. ʔardˤaha xisˤba welfallaːħiːn fiːha ʃotˤtˤaːr. rabbena jibaːrik lihom."
+  },
+  {
+    "text": "الشركة دي من أكبر الشركات في مجالها. سمعتها كويسة ومنتجاتها عالية الجودة. بتوظف ناس كتير.",
+    "g2p": "eʃʃerka di men ʔakbar eʃʃarikaːt fi magalha. somʕitha kwajjisa wemontagaːtha ʕaljit elgoːda. bitwazˤzˤaf naːs kitiːr."
+  },
+  {
+    "text": "المصنع ده بينتج أجهزة كهربائية. بيصدر منتجاته لدول كتير. بيساهم في الاقتصاد الوطني.",
+    "g2p": "elmasˤnaʕ da bijintig ʔaghiza kahrabaːʔijja. bijsˤaddir montagaːtu liduwal kitiːr. bijsaːhim felʔiqtisˤaːd elwatˤani."
+  },
+  {
+    "text": "الجيش هو درع الوطن وسيفه. بيحمي حدودنا وأمننا. التجنيد واجب وطني وشرف.",
+    "g2p": "elgeːʃ huwwa dirʕ elwatˤan weseːfu. bijiħmi ħoduːdna waʔamnina. ettagniːd waːgib watˤani weʃaraf."
+  },
+  {
+    "text": "السفارة بتمثل بلدنا في الخارج وبترعى مصالح مواطنينا. دورها مهم في العلاقات الدولية.",
+    "g2p": "essifaːra bitmassil baladna felxaːrig witirʕa masˤaːliħ mowaːtˤiniːna. dorha mohemm felʕalaqaːt eddawlijja."
+  },
+  {
+    "text": "الوزارة دي مسئولة عن تطوير التعليم في البلد. لازم يكون عندها خطة واضحة وميزانية كافية. التعليم أساس التقدم.",
+    "g2p": "elwizaːra di masʔuːla ʕan tatˤwiːr ettaʕliːm felbalad. laːzem jikuːn ʕandha xotˤtˤa waːdˤħa wemiːzanijja kaːfija. ettaʕliːm ʔasaːs ettaqaddom."
+  },
+  {
+    "text": "الحكومة لازم تشتغل لمصلحة الشعب وتوفر له حياة كريمة. الشفافية والمساءلة مهمين.",
+    "g2p": "elħokuːma laːzem tiʃtaɣal limasˤlaħit eʃʃaʕb witwaffar lu ħajaːh kariːma. eʃʃafafijja welmosaːʔala mohimmiːn."
+  },
+  {
+    "text": "البرلمان هو صوت الشعب. النواب لازم يعبروا عن مشاكل الناس ويدافعوا عن حقوقهم. الديمقراطية هي الحل.",
+    "g2p": "elbarlamaːn huwwa sˤoːt eʃʃaʕb. ennowwaːb laːzem jiʕabbaru ʕan maʃaːkil ennaːs wejdaffʕu ʕan ħoʔuːʔhom. eddimoʔraːtˤijja hijja elħall."
+  },
+  {
+    "text": "الانتخابات فرصة للتغيير واختيار الأفضل. لازم نشارك فيها ونختار بوعي. صوتك أمانة.",
+    "g2p": "elʔintixabaːt forsˤa lettaɣjiːr wextijaːr elʔafdˤal. laːzem niʃaːrik fiːha wenextaːr biwaʕj. sˤoːtak ʔamaːna."
+  },
+  {
+    "text": "الانتخابات فرصة للتغيير واختيار الأفضل. لازم نشارك فيها ونختار بوعي. صوتك أمانة.",
+    "g2p": "elʔintixabaːt forsˤa lettaɣjiːr wextijaːr elʔafdˤal. laːzem niʃaːrik fiːha wenextaːr biwaʕj. sˤoːtik ʔamaːna."
+  },
+  {
+    "text": "المرشح ده برنامجه الانتخابي كويس. عنده أفكار جديدة لحل مشاكل البلد. يارب يكون عند حسن الظن.",
+    "g2p": "elmuraʃʃaħ da barnaːmgu elʔintixaːbi kwajjis. ʕandu ʔafkaːr gidiːda liħall maʃaːkil elbalad. jarab jikuːn ʕand ħosn ezˤzˤann."
+  },
+  {
+    "text": "الرئيس عليه مسئولية كبيرة في قيادة الدولة وتحقيق طموحات الشعب. لازم يكون قد المسئولية.",
+    "g2p": "erraʔiːs ʕaleːh masʔulijja kibiːra fi qijaːdit eddawla wetaħʔiːʔ tˤomuːħaːt eʃʃaʕb. laːzem jikuːn ʔadd elmasʔulijja."
+  },
+  {
+    "text": "الوزير ده نشيط وعنده رؤية لتطوير وزارته. قراراته جريئة ومفيدة. ربنا يوفقه.",
+    "g2p": "elwaziːr da naʃiːtˤ weʕandu roʔja litatˤwiːr wizaːrtu. qaraːraːtu gariːʔa wemofiːda. rabbena jewaffaʔu."
+  },
+  {
+    "text": "المحافظ لازم يهتم بمشاكل محافظته ويحلها. النظافة والمرور والخدمات الأساسية مسئوليتهم.",
+    "g2p": "elmoħaːfizˤ laːzem jihtamm bimaʃaːkil moħafazˤtu wejħillaha. enazˤaːfa welmoruːr welxadamaːt elʔasasiːja masʔulijithom."
+  },
+  {
+    "text": "القاضي بيحكم بالعدل بين الناس. لازم يكون نزيه ومحايد وميخافش غير ربنا. القضاء حصن الحقوق.",
+    "g2p": "elʔaːdˤi bijiħkom belʕadl beːn ennaːs. laːzem jikuːn naziːh wemoħaːjid wemijixafʃ ɣeːr rabbena. elqadˤaːʔ ħisˤn elħoʔuːʔ."
+  },
+  {
+    "text": "المحكمة هي المكان اللي الناس بتلجأ ليه عشان تاخد حقها. لازم تكون أحكامها عادلة وناجزة.",
+    "g2p": "elmaħkama hijja elmakaːn elli ennaːs bitilgaʔ liːh ʕaʃaːn taːxud ħaʔʔaha. laːzem tikuːn ʔaħkaːmha ʕaːdila wenaːgiza."
+  },
+  {
+    "text": "السجن مكان للعقاب وإعادة التأهيل. لازم يتعاملوا مع السجناء بإنسانية ويساعدوهم يرجعوا مواطنين صالحين.",
+    "g2p": "essign makaːn lelʕiqaːb waʔiʕaːdit ettaʔhiːl. laːzem jitʕamlu maʕa essoganaːʔ biʔinsaːnijja wejsaʕduːhom jirgaʕu mowaːtˤiniːn sˤaːliħiːn."
+  },
+  {
+    "text": "الحرامي سرق الشقة وهرب. الشرطة بتدور عليه. يارب يتمسك وياخد جزاءه.",
+    "g2p": "elħaraːmi saraʔ eʃʃaʔʔa wehirib. eʃʃortˤa bitdawwar ʕaleːh. jarab jitmisik wejaːxud gazaːʔu."
+  },
+  {
+    "text": "الظابط ده شجاع وقبض على عصابة خطيرة. يستاهل ترقية ومكافأة. الشرطة فيها رجالة.",
+    "g2p": "ezˤzˤaːbitˤ da ʃugaːʕ weʔabadˤ ʕala ʕisˤaːba xatˤiːra. jistaːhil tarʔija wemokafʔa. eʃʃortˤa fiːha rigaːla."
+  },
+  {
+    "text": "العسكري واقف في خدمته في عز الحر والبرد. بيحمي البلد وبينفذ الأوامر. تحية لكل عسكري مصري.",
+    "g2p": "elʕaskari waːʔif fi xedmitu fi ʕezz elħarr welbard. bijiħmi elbalad webijnaffiz elʔawaːmir. taħijja likoll ʕaskari masˤri."
+  },
+  {
+    "text": "الحرب بتدمر كل حاجة حلوة وبتسيب خراب ودمار. السلام هو الحل الوحيد. يارب يعم السلام في كل العالم.",
+    "g2p": "elħarb bitdammar koll ħaːga ħelwa witisiːb xaraːb wedamaːr. essalaːm huwwa elħall elwaħiːd. jarab jiʕomm essalaːm fi koll elʕaːlam."
+  },
+  {
+    "text": "فلسطين قضية كل عربي وكل مسلم. لازم ندعمهم ونقف جنبهم لغاية ما ياخدوا حقوقهم. القدس عربية.",
+    "g2p": "falastˤiːn qadˤijjit koll ʕarabi wekoll moslim. laːzem nidʕamhom weniʔaf gambihom liɣaːjit ma jaːxdu ħoʔuːʔhom. elʔods ʕarabijja."
+  },
+  {
+    "text": "الدستور هو أبو القوانين. بينظم العلاقة بين الدولة والمواطنين وبيحدد الحقوق والواجبات. لازم كلنا نحترمه.",
+    "g2p": "eddostuːr huwwa ʔabu elqawaniːn. bijinazˤzˤim elʕalaːqa beːn eddawla welmowaːtˤiniːn webijħaddid elħoʔuːʔ welwaːgibaːt. laːzem kollena neħtirmu."
+  },
+  {
+    "text": "القانون بيحمي الضعيف من القوي وبيحقق العدل بين الناس. محدش فوق القانون. سيادة القانون مهمة.",
+    "g2p": "elʔanuːn bijiħmi edˤdˤaʕiːf men elʔawi webijħaʔʔaʔ elʕadl beːn ennaːs. maħaddiʃ foːʔ elʔanuːn. sijaːdit elʔanuːn mohemma."
+  },
+  {
+    "text": "الظلم وحش ونهايته وخيمة. دعوة المظلوم مستجابة. اتقي دعوة المظلوم.",
+    "g2p": "ezˤzˤolm weħeʃ wenihaːjtu waxiːma. daʕwit elmazˤluːm mostagaːba. ettaqi daʕwit elmazˤluːm."
+  },
+  {
+    "text": "الحق لازم يرجع لأصحابه مهما طال الزمن. ربنا مبيرضاش بالظلم. الحق أحق أن يتبع.",
+    "g2p": "elħaʔʔ laːzem jirgaʕ leʔasˤħaːbu mahma tˤaːl ezzaman. rabbena mabijirdˤaːʃ bezˤzˤolm. elħaʔʔ ʔaħaʔʔu ʔan jottabaʕ."
+  },
+  {
+    "text": "يا نهار أبيض! نسيت عيد ميلادك. كل سنة وأنت طيب يا صاحبي. أنا آسف جداً.",
+    "g2p": "jaː nahaːr ʔabjadˤ! nisiːt ʕiːd milaːdak. koll sana waʔanta tˤajjib jaː sˤaħbi. ʔana ʔaːsif giddan."
+  },
+  {
+    "text": "يا نهار أبيض! نسيت عيد ميلادك. كل سنة وأنتي طيبة يا صاحبتي. أنا آسفة جداً.",
+    "g2p": "jaː nahaːr ʔabjadˤ! nisiːt ʕiːd milaːdik. koll sana waʔanti tˤajjiba jaː sˤaħbiti. ʔana ʔasfa giddan."
+  },
+  {
+    "text": "يا خبر إسود! المحفظة اتسرقت. فيها كل فلوسي وورقي المهم. هعمل إيه دلوقتي؟",
+    "g2p": "jaː xabar ʔiswid! elmaħfazˤa etsarʔit. fiːha koll filuːsi wewaraʔi elmohemm. haʕmel ʔeːh delwaʔti?"
+  },
+  {
+    "text": "لا حول ولا قوة إلا بالله. الحادثة كانت بشعة. ربنا يرحم اللي ماتوا ويصبر أهلهم.",
+    "g2p": "laː ħawla walaː quwwata ʔillaː billaːh. elħadsa kaːnit baʃiʕa. rabbena jerħam elli maːtu wejsˤabbir ʔahlhom."
+  },
+  {
+    "text": "أعوذ بالله من الشيطان الرجيم. الوسواس ده بيتعبني أوي. لازم أقرأ قرآن وأستغفر كتير.",
+    "g2p": "ʔaʕuːzu billaːh men eʃʃajtˤaːn errajiːm. elwaswaːs da bijitʕibni ʔawi. laːzem ʔaʔra ʔorʔaːn waʔastaɣfir kitiːr."
+  },
+  {
+    "text": "أستغفر الله العظيم من كل ذنب. ربنا يغفر لنا ويتوب علينا. باب التوبة مفتوح.",
+    "g2p": "ʔastaɣfiru llaːh elʕazˤiːm men koll zanb. rabbena jiɣfir lina wejtuːb ʕaleːna. baːb ettawba maftuːħ."
+  },
+  {
+    "text": "سبحان الله! المنظر ده جميل أوي. قدرة ربنا بتتجلى في كل حاجة حوالينا.",
+    "g2p": "sobħaːna llaːh! elmanzˤar da gamiːl ʔawi. ʔodrit rabbena bititgalla fi koll ħaːga ħawaliːna."
+  },
+  {
+    "text": "الحمد لله الذي بنعمته تتم الصالحات. ربنا رزقني بمولود جديد. فرحان أوي.",
+    "g2p": "elħamdu lillaːh ellaziː biniʕmatihi tatimm esˤsˤaːliħaːt. rabbena razaʔni bimawluːd gidiːd. farħaːn ʔawi."
+  },
+  {
+    "text": "الله أكبر! الأذان صوته بيريح القلب. يلا نصلي جماعة في المسجد. الصلاة خير من النوم.",
+    "g2p": "ʔallaːhu ʔakbar! elʔazaːn sˤoːtu bijrajjaħ elʔalb. jalla nsˤalli gamaːʕa felmasgid. esˤsˤalaːh xajr men ennoːm."
+  },
+  {
+    "text": "ربنا يبارك فيك يا بني. أنت دايماً رافع راسي. فخور بيك جداً.",
+    "g2p": "rabbena jibaːrik fiːk jaː bni. ʔanta dajman raːfiʕ raːsi. faxuːr biːk giddan."
+  },
+  {
+    "text": "ربنا يبارك فيكي يا بنتي. أنتي دايماً رافعة راسي. فخورة بيكي جداً.",
+    "g2p": "rabbena jibaːrik fiːki jaː binti. ʔanti dajman raːfʕa raːsi. faxuːra biːki giddan."
+  },
+  {
+    "text": "بارك الله فيك على المجهود الرائع ده. شغلك متقن وممتاز. تستاهل كل خير.",
+    "g2p": "baːraka llaːhu fiːk ʕala elmaghuːd erraːʔiʕ da. ʃoɣlak motqan wemomtaːz. testaːhil koll xeːr."
+  },
+  {
+    "text": "ربنا يخليك ليا يا حبيبي. أنت أحسن زوج في الدنيا. بحبك أوي.",
+    "g2p": "rabbena jixalliːk lijja jaː ħabiːbi. ʔanta ʔaħsan goːz feddonja. baħibbak ʔawi."
+  },
+  {
+    "text": "ربنا يخليكي ليا يا حبيبتي. أنتي أحسن زوجة في الدنيا. بحبك أوي.",
+    "g2p": "rabbena jixalliːki lijja jaː ħabiːbti. ʔanti ʔaħsan zoːga feddonja. baħibbik ʔawi."
+  },
+  {
+    "text": "ربنا يحفظك من كل سوء. عين الحسود فيها عود. متخافش، ربنا معاك.",
+    "g2p": "rabbena jeħfazˤak men koll suːʔ. ʕeːn elħasuːd fiːha ʕuːd. matxafʃ, rabbena maʕaːk."
+  },
+  {
+    "text": "ربنا يسترها معانا في السفرية دي. الطريق طويل وخطر. يارب نوصل بالسلامة.",
+    "g2p": "rabbena jestorha maʕaːna fessafarijja di. etˤtˤariːʔ tˤawiːl wexatˤar. jarab niwsˤal bessalaːma."
+  },
+  {
+    "text": "ربنا يهديك يا ابني وتبطل شقاوة. أنا تعبت منك. اسمع كلام ماما وبابا.",
+    "g2p": "rabbena jehdiːk jaː ebni wetbatˤtˤal ʃaʔaːwa. ʔana tiʕibt minnak. ismaʕ kalaːm maːma webaːba."
+  },
+  {
+    "text": "يارب وفقني في امتحاني بكرة. أنا ذاكرت كويس وعملت اللي عليا. الباقي على ربنا.",
+    "g2p": "jaː rabb waffaʔni fi emteħaːni bokra. ʔana zaːkirt kwajjis weʕamalt elli ʕalajja. elbaːʔi ʕala rabbena."
+  },
+  {
+    "text": "عندك حق في كل كلمة قولتها. أنا غلطان ومعترف بغلطي. سامحني.",
+    "g2p": "ʕandak ħaʔʔ fi koll kelma ʔoltaha. ʔana ɣaltˤaːn wemoʕtarif biɣalatˤi. saːmiħni."
+  },
+  {
+    "text": "معاك حق في كل كلمة قولتيها. أنا غلطانة ومعترفة بغلطي. سامحيني.",
+    "g2p": "maʕaːki ħaʔʔ fi koll kelma ʔoltiiha. ʔana ɣaltˤaːna wemoʕtarifa biɣalatˤi. samħiːni."
+  },
+  {
+    "text": "صح كلامك مية في المية. أنا مكنتش واخد بالي من النقطة دي. شكراً على التوضيح.",
+    "g2p": "sˤaħħ kalaːmak mejja felmejja. ʔana makuntiʃ waːxid baːli men ennoʔtˤa di. ʃukran ʕala ettawdˤiːħ."
+  },
+  {
+    "text": "كلامك سليم ومقنع. أنا اقتنعت بوجهة نظرك. عندك رؤية كويسة.",
+    "g2p": "kalaːmak saliːm wemoqniʕ. ʔana eqtanaʕt biwighit nazˤarak. ʕandak roʔja kwajjisa."
+  },
+  {
+    "text": "كلامك صح بس أنا ليا رأي تاني. ممكن نتناقش فيه بهدوء؟ الاختلاف في الرأي لا يفسد للود قضية.",
+    "g2p": "kalaːmak sˤaħħ bas ʔana lijja raʔj taːni. momken nitnaːʔiʃ fiːh bihoduːʔ? elʔextilaːf ferraʔj laː jofsid lelwodd qadˤijja."
+  },
+  {
+    "text": "كلامك مظبوط ومنطقي. أنا متفق معاك تماماً. لازم ننفذ الفكرة دي.",
+    "g2p": "kalaːmak mazˤbuːtˤ wemantˤiqi. ʔana mottafiʔ maʕaːk tamaːman. laːzem ninaffiz elfikra di."
+  },
+  {
+    "text": "الأسعار بترخص شوية قبل العيد. فرصة نشتري اللي محتاجينه. بس الزحمة بتكون فظيعة.",
+    "g2p": "elʔasʕaːr bitarxasˤ ʃwajja ʔabl elʕiːd. forsˤa niʃtiri elli meħtagiːnu. bas ezzaħma bitkuːn fazˤiːʕa."
+  },
+  {
+    "text": "الجو بيتقل بالليل وبيكون برد. لازم نقفل الشبابيك كويس ونتغطى. السقعة وحشة.",
+    "g2p": "elgaww bijitʔal belleːl webijkuːn bard. laːzem niʔfil eʃʃababiːk kwajjis wenitɣatˤtˤa. essaʔʕa weħʃa."
+  },
+  {
+    "text": "كتر خيرك على الهدية الجميلة دي. ذوقك حلو أوي. فرحت بيها جداً.",
+    "g2p": "kattar xeːrak ʕala elhedijja elgamiːla di. zoːʔak ħelw ʔawi. firiħt biːha giddan."
+  },
+  {
+    "text": "كتر خيرك على الهدية الجميلة دي. ذوقك حلو أوي. فرحت بيها جداً.",
+    "g2p": "kattar xeːrik ʕala elhedijja elgamiːla di. zoːʔik ħelw ʔawi. firiħt biːha giddan."
+  },
+  {
+    "text": "وأنت الصادق، أنا كمان شفت نفس المشهد. حاجة غريبة فعلاً. مش لاقي لها تفسير.",
+    "g2p": "wenta esˤsˤaːdiʔ, ʔana kamaːn ʃuft nafs elmaʃhad. ħaːga ɣariːba fiʕlan. miʃ laːʔi liha tafsiːr."
+  },
+  {
+    "text": "مش معقول! إزاي ده حصل؟ أنا مصدوم ومش قادر أستوعب.",
+    "g2p": "miʃ maʕʔuːl! ʔezzaːj da ħasˤal? ʔana masˤduːm wemiʃ qaːdir ʔastawʕib."
+  },
+  {
+    "text": "مش ممكن! أنت بتهزر صح؟ الكلام ده لو بجد يبقى كارثة.",
+    "g2p": "miʃ momken! ʔanta bithazzar sˤaħħ? elkalaːm da law bigadd jibʔa kaːrsa."
+  },
+  {
+    "text": "مستحيل أصدق إنك عملت كده. أنا واثق فيك وعارف أخلاقك كويس. أكيد فيه سوء تهم.",
+    "g2p": "mostaħiːl ʔasˤaddaʔ ʔinnak ʕamalt kida. ʔana waːsiʔ fiːk weʕaːrif ʔaxlaːʔak kwajjis. ʔakiːd fiːh suːʔ tafahhom."
+  },
+  {
+    "text": "مستحيل أصدق إنك عملتي كده. أنا واثقة فيكي وعارفة أخلاقك كويس. أكيد فيه سوء فهم.",
+    "g2p": "mostaħiːl ʔasˤaddaʔ ʔinnik ʕamalti kida. ʔana waːsˤiqa fiːki weʕaːrfa ʔaxlaːʔik kwajjis. ʔakiːd fiːh suːʔ fahm."
+  },
+  {
+    "text": "أنا مش متخيل إننا كسبنا الماتش الصعب ده. اللعيبة كانوا أبطال. فرحة كبيرة.",
+    "g2p": "ʔana miʃ metxajjel ʔinnina kisibna elmatʃ esˤsˤaʕb da. ellaʕʕiːba kaːnu ʔabtˤaːl. farħa kibiːra."
+  },
+  {
+    "text": "أنا مش مصدق إن الإجازة خلصت بالسرعة دي. كانت أيام حلوة وممتعة. ياريت تطول شوية.",
+    "g2p": "ʔana miʃ misˤaddaʔ ʔinn elʔagaːza xilsˤit besˤsˤorʕa di. kaːnit ʔajjaːm ħelwa wemomtiʕa. jaːreːt titˤwal ʃwajja."
+  },
+  {
+    "text": "أنت جبت الخلاصة بكلامك ده. لخصت الموضوع كله في كلمتين. برافو عليك.",
+    "g2p": "ʔanta gibt elxolaːsˤa bikalaːmak da. laxasˤt elmawdˤuːʕ kollu fi kelmiteːn. braːfo ʕaleːk."
+  },
+  {
+    "text": "أنتي جبتي الخلاصة بكلامك ده. لخصتي الموضوع كله في كلمتين. برافو عليكي.",
+    "g2p": "ʔanti gibti elxolaːsˤa bikalaːmik da. laxasˤti elmawdˤuːʕ kollu fi kelmiteːn. braːfo ʕaleːki."
+  },
+  {
+    "text": "أنا بصيت فالحيط لما سمعت الخبر. متوقعتش أبداً إنه يحصل. صدمة كبيرة.",
+    "g2p": "ʔana basˤsˤeːt felħeːtˤ lamma simiʕt elxabar. matwaʔʔaʕtiʃ ʔabadan ʔinnu jiħsˤal. sˤadma kibiːra."
+  },
+  {
+    "text": "أنا شفت النجوم فعز الضهر لما عرفت إني نجحت. فرحة لا توصف. الحمد لله.",
+    "g2p": "ʔana ʃoft ennoguːm fi ʕezz edˤdˤohr lamma ʕirift ʔinni nigaħt. farħa laː tuːsˤaf. elħamdu lillaːh."
+  },
+  {
+    "text": "ساعة الهوا الطلق على البحر بترد الروح. بتنسى كل همومك ومشاكلك. الطبيعة أحسن علاج.",
+    "g2p": "saːʕit elhawa etˤtˤalʔ ʕala elbaħr bitrudd erroːħ. bitinsa koll homuːmak wemaʃaklak. etˤtˤabiːʕa ʔaħsan ʕilaːg."
+  },
+  {
+    "text": "ماحدش قدك في الشغل ده. أنت أستاذ ورئيس قسم. خبرتك كبيرة.",
+    "g2p": "maħaddiʃ ʔaddak feʃʃoɣl da. ʔanta ʔostaːz weraʔiːs qism. xibritak kibiːra."
+  },
+  {
+    "text": "حد ينسى القمر؟ طلتك علينا بالدنيا كلها. وحشتنا أوي.",
+    "g2p": "ħadd jinsa elʔamar? tˤallitak ʕaleːna beddonja kollaha. waħaʃtina ʔawi."
+  },
+  {
+    "text": "حد ينسى القمر؟ طلتك علينا بالدنيا كلها. وحشتينا أوي.",
+    "g2p": "ħadd jinsa elʔamar? tˤallitik ʕaleːna beddonja kollaha. waħaʃtiːna ʔawi."
+  },
+  {
+    "text": "كل سنة وانت طيب يا حبيبي وعقبال مية سنة. يارب تكون سنة سعيدة عليك وتحقق فيها كل أحلامك.",
+    "g2p": "koll sana wenta tˤajjib jaː ħabiːbi weʕoʔbaːl miːt sana. jarab tikuːn sana saʕiːda ʕaleːk wetiħaʔʔaʔ fiːha koll ʔaħlaːmak."
+  },
+  {
+    "text": "كل سنة وانتي طيبة يا حبيبتي وعقبال مية سنة. يارب تكون سنة سعيدة عليكي وتحققي فيها كل أحلامك.",
+    "g2p": "koll sana wenti tˤajjiba jaː ħabiːbti weʕoʔbaːl miːt sana. jarab tikuːn sana saʕiːda ʕaleːki wetiħaʔʔaʔi fiːha koll ʔaħlaːmik."
+  },
+  {
+    "text": "عيد ميلاد سعيد يا صاحبي. أتمنالك كل التوفيق والنجاح في حياتك. تستاهل كل خير.",
+    "g2p": "ʕiːd milaːd saʕiːd jaː sˤaħbi. ʔatamannaːlak koll ettawfiːʔ wennagaːħ fi ħajaːtak. testaːhil koll xeːr."
+  },
+  {
+    "text": "كل سنة وانت بألف خير وصحة وسعادة. يارب السنة دي تكون أحلى من اللي فاتت. عيد ميلاد مجيد.",
+    "g2p": "koll sana wenta biʔalf xeːr wesˤeħħa wesaʕaːda. jarab essana di tikuːn ʔaħla men elli faːtit. ʕiːd milaːd magiːd."
+  },
+  {
+    "text": "رمضان كريم عليكم وعلى الأمة الإسلامية كلها. شهر المغفرة والرحمة والعتق من النار. تقبل الله صيامكم وقيامكم.",
+    "g2p": "ramadˤaːn kariːm ʕaleːkom weʕala elʔomma elʔislaːmijja kollaha. ʃahr elmaɣfira werraħma welʕitʔ men ennaːr. taqabbala llaːhu sˤijaːmakom weqijaːmakom."
+  },
+  {
+    "text": "رمضان مبارك علينا وعليكم. يارب يجعله شهر خير وبركة ويعينا فيه على الصيام والقيام وقراءة القرآن.",
+    "g2p": "ramadˤaːn mubaːrak ʕaleːna weʕaleːkom. jarab jigʕalu ʃahr xeːr wabaraka wejiʕiːna fiːh ʕala esˤsˤijaːm welqijaːm weqiraːʔit elʔorʔaːn."
+  },
+  {
+    "text": "كل عام وأنتم بخير بمناسبة عيد الفطر المبارك. أعاده الله علينا وعليكم باليمن والبركات. عيد سعيد.",
+    "g2p": "koll ʕaːm waʔantom bixeːr bimonaːsabit ʕiːd elfitˤr elmubaːrak. ʔaʕaːdahu llaːhu ʕaleːna weʕaleːkom beljomn welbarakaːt. ʕiːd saʕiːd."
+  },
+  {
+    "text": "عيد مبارك عليكم وعلى كل حبايبكم. يارب يكون عيد كله فرح وسعادة ولمة حلوة. العيدية فين؟",
+    "g2p": "ʕiːd mubaːrak ʕaleːkom weʕala koll ħabaːjebkom. jarab jikuːn ʕiːd kollu faraħ wesaʕaːda welamma ħelwa. elʕidijja feːn?"
+  },
+  {
+    "text": "صيام مقبول وذنب مغفور بإذن الله. ربنا يتقبل منا ومنكم صالح الأعمال. إفطار شهي.",
+    "g2p": "sˤijaːm maʔbuːl wezanb maɣfuːr biʔiznillaːh. rabbena jetaqabbal minna weminkom sˤaːliħ elʔaʕmaːl. ʔiftˤaːr ʃahi."
+  },
+  {
+    "text": "إفطار شهي وتقبل الله طاعتكم. متنسوش تدعوا لبعض وانتوا بتفطروا. دعوة الصائم مستجابة.",
+    "g2p": "ʔiftˤaːr ʃahi wetaqabbala llaːhu tˤaːʕitkom. matinsuːʃ tidʕu libaʕdˤ wentu bitiftˤaru. daʕwit esˤsˤaːʔim mostagaːba."
+  },
+  {
+    "text": "سحور مبارك وتسحروا فإن في السحور بركة. متنسوش تشربوا مية كتير عشان متتعطشوش بكرة. ربنا يعينكم.",
+    "g2p": "soħuːr mubaːrak wetisaħħaru faʔinna fesˤsoħuːr baraka. matinsuːʃ tiʃrabu majja kitiːr ʕaʃaːn matitʕatˤtˤaʃuːʃ bokra. rabbena jiʕiːnkom."
+  },
+  {
+    "text": "صباح الخير والورد والياسمين على أحلى ناس. يارب يكون يومكم جميل ومليان خير وسعادة. ابتسموا.",
+    "g2p": "sˤabaːħ elxeːr welward weljasmiːn ʕala ʔaħla naːs. jarab jikuːn joːmkom gamiːl wemaljaːn xeːr wesaʕaːda. ebtasimu."
+  },
+  {
+    "text": "مساء الخير والفل على عيونكم الحلوة. يارب تكونوا قضيتوا يوم لطيف. استريحوا بقى.",
+    "g2p": "masaːʔ elxeːr welfoll ʕala ʕojuːnkom elħelwa. jarab tikuːnu ʔadˤdˤejtu joːm latˤiːf. estarijjaħu baʔa."
+  },
+  {
+    "text": "صباح النور والهنا والسرور. أتمنى لكم يوم موفق ومليان إنجازات. متنسوش فطاركم.",
+    "g2p": "sˤabaːħ ennuːr welhana wessorur. ʔatamanna lakom joːm mowaffaʔ wemaljaːn ʔengaːzaːt. matinsuːʃ fitˤaːrkom."
+  },
+  {
+    "text": "مساء النور والبهجة على قلوبكم. يارب تكون أمسيتكم هادية ومريحة. تصبحوا على خير.",
+    "g2p": "masaːʔ ennuːr welbahga ʕala ʔoluːbkom. jarab tikuːn ʔomsijjitkom hadja wemoriːħa. tisˤbaħu ʕala xeːr."
+  },
+  {
+    "text": "صباح الفل والجمال على أغلى الحبايب. يارب يكون يومكم أبيض زي قلوبكم. توكلوا على الله.",
+    "g2p": "sˤabaːħ elfol welgamaːl ʕala ʔaɣla elħabaːjib. jarab jikuːn joːmkom ʔabjadˤ zaj ʔoluːbkom. tawakkalu ʕala llaːh."
+  },
+  {
+    "text": "مساء الفل والياسمين. يارب تكون ليلتكم سعيدة وخالية من الهموم. أحلام سعيدة.",
+    "g2p": "masaːʔ elfol weljasmiːn. jarab tikuːn leːlitkom saʕiːda wexaːlija men elhomuːm. ʔaħlaːm saʕiːda."
+  },
+  {
+    "text": "صباحك سكر وعسل وقشطة. يارب يومك يكون حلو زيك. متنساش تضحك.",
+    "g2p": "sˤabaːħak sokkar weʕasal weʔiʃtˤa. jarab joːmak jikuːn ħelw zajjak. matinsaːʃ tidˤħak."
+  },
+  {
+    "text": "صباحك سكر وعسل وقشطة. يارب يومك يكون حلو زيك. متنسيش تضحكي.",
+    "g2p": "sˤabaːħik sokkar weʕasal weʔiʃtˤa. jarab joːmik jikuːn ħelw zajjik. matinsiiʃ tidˤħaki."
+  },
+  {
+    "text": "مساءك عسل يا عسل. يارب تكون سهرتك جميلة وممتعة. متتأخرش.",
+    "g2p": "masaːʔak ʕasal jaː ʕasal. jarab tikuːn sahritak gamiːla wemomtiʕa. matitʔaxxarʃ."
+  },
+  {
+    "text": "مساءك عسل يا عسل. يارب تكون سهرتك جميلة وممتعة. متتأخريش.",
+    "g2p": "masaːʔik ʕasal jaː ʕasal. jarab tikuːn sahritik gamiːla wemomtiʕa. matitʔaxxariiʃ."
+  },
+  {
+    "text": "ازيك يا صاحبي، فينك مبنشوفكش ليه؟ وحشتنا قعدتك الحلوة. لازم نتقابل قريب.",
+    "g2p": "ʔezzajjak jaː sˤaħbi, feːnak mabninʃufakʃ leːh? waħaʃitna ʔaʕditak elħelwa. laːzem nitʔaːbil ʔariːb."
+  },
+  {
+    "text": "ازيك يا صاحبتي، فينك مبنشوفكيش ليه؟ وحشتينا وقعدتك الحلوة. لازم نتقابل قريب.",
+    "g2p": "ʔezzajjik jaː sˤaħbiti, feːnik mabninʃufkiiʃ leːh? waħaʃtiːna weʔaʕditik elħelwa. laːzem nitʔaːbil ʔariːb."
+  },
+  {
+    "text": "عامل إيه يا بطل؟ الدنيا ماشية معاك إزاي؟ يارب تكون كل أمورك تمام. طمني عليك.",
+    "g2p": "ʕaːmel ʔeːh jaː batˤal? eddonja maʃja maʕaːk ezzaːj? jarab tikuːn koll ʔomuːrak tamaːm. tˤamminni ʕaleːk."
+  },
+  {
+    "text": "أخبارك إيه يا جميل؟ كل حاجة كويسة؟ وحشتني ضحكتك الحلوة. لازم أشوفك قريب.",
+    "g2p": "ʔaxbaːrak ʔeːh jaː gamiːl? koll ħaːga kwajjisa? waħaʃitni dˤeħkitak elħelwa. laːzem ʔaʃuːfak ʔariːb."
+  },
+  {
+    "text": "أخبارك إيه يا جميلة؟ كل حاجة كويسة؟ وحشتني ضحكتك الحلوة. لازم أشوفك قريب.",
+    "g2p": "ʔaxbaːrik ʔeːh jaː gamiːla? koll ħaːga kwajjisa? waħaʃitni dˤeħkitik elħelwa. laːzem ʔaʃuːfik ʔariːb."
+  },
+  {
+    "text": "إيه الأخبار يا ريس؟ الدنيا عاملة معاك إيه؟ يارب تكون دايماً في أحسن حال. متنسناش.",
+    "g2p": "ʔeːh elʔaxbaːr jaː rajjes? eddonja ʕamla maʕaːk ʔeːh? jarab tikuːn dajman fi ʔaħsan ħaːl. matinsaːnaːʃ."
+  },
+  {
+    "text": "عامل إيه النهاردة يا صاحبي؟ شكلك تعبان شوية. مالك فيه إيه؟ فضفض معايا.",
+    "g2p": "ʕaːmel ʔeːh ennaharda jaː sˤaħbi? ʃaklak taʕbaːn ʃwajja. maːlak fiːh ʔeːh? fadˤfadˤ maʕaːja."
+  },
+  {
+    "text": "ازي الصحة يا غالي؟ يارب تكون بخير وصحة وعافية. متغبش عننا تاني كده.",
+    "g2p": "ʔezzaj esˤsˤeħħa jaː ɣaːli? jarab tikuːn bixeːr wesˤeħħa weʕafja. matɣibʃ ʕanna taːni kida."
+  },
+  {
+    "text": "ازي الصحة يا غالية؟ يارب تكوني بخير وصحة وعافية. متغبيش عننا تاني كده.",
+    "g2p": "ʔezzaj esˤsˤeħħa jaː ɣalja? jarab tikuːni bixeːr wesˤeħħa weʕafja. matɣibiiʃ ʕanna taːni kida."
+  },
+  {
+    "text": "صحتك عاملة إيه دلوقتي؟ إن شاء الله تكون أحسن. طمني عليك ومتشلش هم.",
+    "g2p": "sˤeħħitak ʕamla ʔeːh delwaʔti? ʔin ʃaːʔ allaːh tikuːn ʔaħsan. tˤamminni ʕaleːk wematʃilʃ hamm."
+  },
+  {
+    "text": "صحتك عاملة إيه دلوقتي؟ إن شاء الله تكوني أحسن. طمنيني عليكي ومتشليش هم.",
+    "g2p": "sˤeħħitik ʕamla ʔeːh delwaʔti? ʔin ʃaːʔ allaːh tikuːni ʔaħsan. tˤamminiːni ʕaleːki wematʃiliiʃ hamm."
+  },
+  {
+    "text": "كله تمام وزي الفل. مفيش أي مشاكل. الحمد لله على كل شيء.",
+    "g2p": "kollu tamaːm wezaj elfol. mafiːʃ ʔajj maʃaːkil. elħamdu lillaːh ʕala koll ʃeːʔ."
+  },
+  {
+    "text": "نشكر ربنا على نعمه التي لا تعد ولا تحصى. الصحة والستر وراحة البال أهم النعم.",
+    "g2p": "niʃkor rabbena ʕala niʕamu ellati laː toʕadd walaː toħsˤa. esˤsˤeħħa wessatr weraːħit elbaːl ʔahamm enniʕam."
+  },
+  {
+    "text": "ماشي الحال والحمد لله. ربنا يديمها علينا نعمة ويحفظها من الزوال. راضيين بقضاء الله.",
+    "g2p": "maːʃi elħaːl welħamdu lillaːh. rabbena jidiːmha ʕaleːna niʕma wejeħfazˤha men ezzawaːl. raːdˤijiːn biqadˤaːʔ allaːh."
+  },
+  {
+    "text": "طيبين والحمد لله. نسأل الله دوام الصحة والعافية. ربنا يكرمكم.",
+    "g2p": "tˤajjibiːn welħamdu lillaːh. nasʔalu llaːh dawaːm esˤsˤeħħa welʕafja. rabbena jikrimkom."
+  },
+  {
+    "text": "على الله توكلنا وهو خير وكيل. ربنا يسهل أمورنا ويوفقنا لما يحب ويرضى.",
+    "g2p": "ʕala llaːh tawakkalna wehuwwa xajr wakiːl. rabbena jisahhil ʔomuːrna wejwaffaʔna limaː joħibb wejardˤa."
+  },
+  {
+    "text": "أهلاً بيك يا أستاذ. نورتنا. اتفضل اقعد. تشرب إيه؟",
+    "g2p": "ʔahlan biːk jaː ʔostaːz. nawwartina. etfadˤdˤal oʔʕod. tiʃrab ʔeːh?"
+  },
+  {
+    "text": "أهلاً وسهلاً بحضرتك. شرفتنا بزيارتك. البيت بيتك. اتفضل.",
+    "g2p": "ʔahlan wa sahlan biħadˤritak. ʃarraftina bizijaːrtak. elbeːt beːtak. etfadˤdˤal."
+  },
+  {
+    "text": "أهلاً وسهلاً بحضرتك. شرفتينا بزيارتك. البيت بيتك. اتفضلي.",
+    "g2p": "ʔahlan wa sahlan biħadˤritik. ʃarraftiːna bizijaːrtik. elbeːt beːtik. etfadˤdˤali."
+  },
+  {
+    "text": "إزاي الصحة يا أستاذنا؟ يارب تكون بخير وفي أتم صحة. وحشتنا محاضراتك.",
+    "g2p": "ʔezzaːj esˤsˤeħħa jaː ʔostaːzna? jarab tikuːn bixeːr wefi ʔatamm sˤeħħa. waħaʃitna moħadˤaraːtak."
+  },
+  {
+    "text": "الحمد لله حمداً كثيراً طيباً مباركاً فيه. ربنا كريم ورحيم بعباده. نسأله العفو والعافية.",
+    "g2p": "elħamdu lillaːh ħamdan kasiːran tˤajjiban mobaːrakan fiːh. rabbena kariːm weraħiːm biʕibaːdih. nasʔaluhu elʕafw welʕafja."
+  },
+  {
+    "text": "إن شاء الله الأمور تتصلح والأحوال تتحسن. لازم يكون عندنا أمل وثقة في ربنا. الصبر جميل.",
+    "g2p": "ʔin ʃaːʔ allaːh elʔomuːr titisˤliħ welʔaħwaːl titħassan. laːzem jikuːn ʕandina ʔamal wesiqa fi rabbena. esˤsˤabr gamiːl."
+  },
+  {
+    "text": "ما شاء الله على جمالك وأناقتك. ربنا يحفظك من العين. طالعة زي القمر.",
+    "g2p": "maː ʃaːʔ allaːh ʕala gamaːlik waʔanaːqatik. rabbena jeħfazˤik men elʕeːn. tˤalʕa zaj elʔamar."
+  },
+  {
+    "text": "ربنا معاك في كل خطوة تخطيها. يارب يوفقك ويسدد خطاك. أنت تستاهل كل خير.",
+    "g2p": "rabbena maʕaːk fi koll xatˤwa tixtˤiːha. jarab jewaffaʔak wejsaddid xotˤaːk. ʔanta testaːhil koll xeːr."
+  },
+  {
+    "text": "على الله حكايتنا. سلمنا أمرنا لله وهو يتولانا برحمته. ونعم بالله.",
+    "g2p": "ʕala llaːh ħikaːjitna. sallimna ʔamrina lillaːh wehuwwa jatawallaːna biraħmatih. weniʕma billaːh."
+  },
+  {
+    "text": "معلش، متزعلش نفسك على اللي حصل. كل تأخيرة وفيها خيرة. ربنا بيعوض.",
+    "g2p": "maʕleʃʃ, matzaʕʕalʃ nafsak ʕala elli ħasˤal. koll taʔxiːra wefiːha xiːra. rabbena bijʕawwadˤ."
+  },
+  {
+    "text": "ماتقلقش، أنا جنبك ومش هسيبك. هنعدي المحنة دي مع بعض. أنت مش لوحدك.",
+    "g2p": "matʔallaʔʃ, ʔana gambak wemiʃ hasiːbak. hanʕaddi elmeħna di maʕa baʕdˤ. ʔanta miʃ liwaħdak."
+  },
+  {
+    "text": "ماتقلقيش، أنا جنبك ومش هسيبك. هنعدي المحنة دي مع بعض. أنتي مش لوحدك.",
+    "g2p": "matʔallaʔiiʃ, ʔana gambik wemiʃ hasiːbik. hanʕaddi elmeħna di maʕa baʕdˤ. ʔanti miʃ liwaħdik."
+  },
+  {
+    "text": "متخافش من بكرة، ربنا موجود وهو اللي مدبر الأمور. سلمها لله وهو هيتصرف.",
+    "g2p": "matxafʃ men bokra, rabbena mawguːd wehuwwa elli midabbir elʔomuːr. sallimha lillaːh wehuwwa hajitsˤarraf."
+  },
+  {
+    "text": "يلا بينا نخرج نغير جو شوية. أنا زهقت من قعدة البيت. محتاجين نتفسح.",
+    "g2p": "jalla biːna nixrug niɣajjar gaww ʃwajja. ʔana zihiʔt men ʔaʕdit elbeːt. meħtagiːn nitfassaħ."
+  },
+  {
+    "text": "تعالى زورنا يوم الجمعة. هنعمل أكل حلو وهنقضي وقت لطيف مع بعض. متتأخرش.",
+    "g2p": "taʕaːla zuːrna joːm elgomʕa. hanʕmel ʔakl ħelw wehanʔadˤdˤi waʔt latˤiːf maʕa baʕdˤ. matitʔaxxarʃ."
+  },
+  {
+    "text": "تعالي زورينا يوم الجمعة. هنعمل أكل حلو وهنقضي وقت لطيف مع بعض. متتأخريش.",
+    "g2p": "taʕaːli zuːriːna joːm elgomʕa. hanʕmel ʔakl ħelw wehanʔadˤdˤi waʔt latˤiːf maʕa baʕdˤ. matitʔaxxariiʃ."
+  },
+  {
+    "text": "روح هاتلي كوباية مية من فضلك. أنا عطشان أوي. الجو حر.",
+    "g2p": "ruːħ haːtli kobbaːjit majja men fadˤlak. ʔana ʕatˤʃaːn ʔawi. elgaww ħarr."
+  },
+  {
+    "text": "خد الفلوس دي وهات بيها عيش وفاكهة من السوق. متتأخرش عشان جعانين.",
+    "g2p": "xud elfiluːs di wehaːt biːha ʕeːʃ wefakha men essuːʔ. matitʔaxxarʃ ʕaʃaːn gaʕaːniːn."
+  },
+  {
+    "text": "هات الكتاب ده عايز أقرا فيه شوية. شكله ممتع ومفيد. القراءة هوايتي المفضلة.",
+    "g2p": "haːt elketaːb da ʕaːjiz ʔaʔra fiːh ʃwajja. ʃaklu momtiʕ wemofiːd. elʔiraːja hiwaːjti elmofadˤdˤala."
+  },
+  {
+    "text": "بص الناحية التانية كده. شايف الراجل اللي هناك ده؟ شكله غريب أوي.",
+    "g2p": "bosˤsˤ ennaħja ettannja kida. ʃaːjif erraːgil elli hinaːk da? ʃaklu ɣariːb ʔawi."
+  },
+  {
+    "text": "شوف المنظر الجميل ده. السما صافية والبحر هادي. سبحان الله.",
+    "g2p": "ʃuːf elmanzˤar elgamiːl da. essama sˤafja welbaħr haːdi. sobħaːna llaːh."
+  },
+  {
+    "text": "اسمع كلامي كويس عشان تفهم أنا عايز إيه. الموضوع مهم ومحتاج تركيز.",
+    "g2p": "ismaʕ kalaːmi kwajjis ʕaʃaːn tifham ʔana ʕaːjiz ʔeːh. elmawdˤuːʕ mohemm wemeħtaːg tarkiːz."
+  },
+  {
+    "text": "خلي بالك وأنت بتعدي الشارع. العربيات بتمشي بسرعة. بص يمين وشمال الأول.",
+    "g2p": "xalli baːlak wenta bitʕaddi eʃʃaːriʕ. elʕarabijaːt bitimʃi bisurʕa. bosˤsˤ jimiːn weʃimaːl elʔawwal."
+  },
+  {
+    "text": "فكر كويس قبل ما تاخد أي قرار. متستعجلش عشان متندمش بعدين. الاستخارة مهمة.",
+    "g2p": "fakkar kwajjis ʔabl ma taːxud ʔajj qaraːr. matistaʕgilʃ ʕaʃaːn matindamʃ baʕdeːn. elʔestixaːra mohemma."
+  },
+  {
+    "text": "افتكر أيام زمان لما كنا صغيرين وبنلعب في الشارع. كانت أيام حلوة وبسيطة. ياريتها ترجع.",
+    "g2p": "iftikir ʔajjaːm zamaːn lamma konna sˤoɣajriːn webinilʕab feʃʃaːriʕ. kaːnit ʔajjaːm ħelwa webasiːtˤa. jaːriːtha tirgaʕ."
+  },
+  {
+    "text": "أنا نسيته خالص موضوع السفر ده. كويس إنك فكرتني. كنت هروح في داهية.",
+    "g2p": "ʔana nisiːtu xaːlisˤ mawdˤuːʕ essafar da. kwajjis ʔinnak fakkartini. kont haruːħ fi daːhja."
+  },
+  {
+    "text": "أنا نسيته خالص موضوع السفر ده. كويس إنك فكرتيني. كنت هروح في داهية.",
+    "g2p": "ʔana nisiːtu xaːlisˤ mawdˤuːʕ essafar da. kwajjis ʔinnik fakkartini. kont haruːħ fi daːhja."
+  },
+  {
+    "text": "أنا عارف إنك قدها وتقدر تعمل المستحيل. ثقتي فيك كبيرة. متخيبش ظني.",
+    "g2p": "ʔana ʕaːrif ʔinnak ʔaddaha wetʔdar tiʕmel elmostaħiːl. siqati fiːk kibiːra. matxajjibʃ zˤanni."
+  },
+  {
+    "text": "أنا عارفة إنك قدها وتقدر تعملي المستحيل. ثقتي فيكي كبيرة. متخيبش ظني.",
+    "g2p": "ʔana ʕaːrfa ʔinnik ʔaddaha wetʔdari tiʕmili elmostaħiːl. siqati fiːki kibiːra. matxajjibiiʃ zˤanni."
+  },
+  {
+    "text": "أنا فاكر كويس اليوم اللي اتقابلنا فيه. كان يوم مميز ومش هنساه أبداً.",
+    "g2p": "ʔana faːkir kwajjis eljoːm elli etʔaːbilna fiːh. kaːn joːm momajjaz wemiʃ hansaːh ʔabadan."
+  },
+  {
+    "text": "هو قال إنه هيجي بكرة بدري. يارب يلتزم بميعاده عشان عندنا شغل كتير.",
+    "g2p": "huwwa ʔaːl ʔinnu hajiːgi bokra badri. jarab jiltazim bimiiʕaːdu ʕaʃaːn ʕandina ʃoɣl kitiːr."
+  },
+  {
+    "text": "هي قالت إنها موافقة على العرض. الحمد لله. كنا قلقانين أوي.",
+    "g2p": "hijja ʔaːlit ʔinnaha mowaːfʔa ʕala elʕardˤ. elħamdu lillaːh. konna ʔalʔaːniːn ʔawi."
+  },
+  {
+    "text": "هم قالوا إنهم هيسافروا الأسبوع الجاي. ربنا يوصلهم بالسلامة. هيوحشونا.",
+    "g2p": "humma ʔaːlu ʔinnohom hajsafru elʔosbuːʕ elgaːj. rabbena jiwasˤsˤalhom bessalaːma. hajiwħaʃuːna."
+  },
+  {
+    "text": "هو بيقول إنه تعبان ومش هيقدر يجي. معلش، ربنا يشفيه. نبقى نتقابل مرة تانية.",
+    "g2p": "huwwa bijʔuːl ʔinnu taʕbaːn wemiʃ hajʔdar jiːgi. maʕleʃʃ, rabbena jiʃfiːh. nibʔa nitʔaːbil marra tanja."
+  },
+  {
+    "text": "أنا قلتلك قبل كده إني مش موافق على الكلام ده. رأيي واضح وصريح.",
+    "g2p": "ʔana ʔultillak ʔabl kida ʔinni miʃ mowaːfiʔ ʕala elkalaːm da. raʔji waːdˤeħ wesˤariːħ."
+  },
+  {
+    "text": "أنا قلتلك قبل كده إني مش موافقة على الكلام ده. رأيي واضح وصريح.",
+    "g2p": "ʔana ʔultillik ʔabl kida ʔinni miʃ mowaːfqa ʕala elkalaːm da. raʔji waːdˤeħ wesˤariːħ."
+  },
+  {
+    "text": "هو عمل اللي عليه وزيادة. مجهوده يستحق التقدير. ربنا يكرمه.",
+    "g2p": "huwwa ʕamal elli ʕaleːh wezijaːda. maghuːdu jistaħiʔʔ ettaʔdiːr. rabbena jikrimu."
+  },
+  {
+    "text": "هي عملت أكل تحفة النهاردة. نفسها في الأكل جميل. تسلم إيديها.",
+    "g2p": "hijja ʕamalit ʔakl toħfa ennaharda. nafsaha felʔakl gamiːl. tislam ʔiːdiːha."
+  },
+  {
+    "text": "أنا رحت السوق واشتريت كل طلبات البيت. الأسعار غالية أوي. ربنا يرحمنا.",
+    "g2p": "ʔana ruħt essuːʔ weʃtareːt koll tˤalabaːt elbeːt. elʔasʕaːr ɣalja ʔawi. rabbena jerħamna."
+  },
+  {
+    "text": "أنا جيت بدري عشان ألحق مكان في الأول. المحاضرة دي مهمة ومش عايز يفوتني حاجة.",
+    "g2p": "ʔana giːt badri ʕaʃaːn ʔalħaʔ makaːn felʔawwal. elmoħadˤra di mohemma wemiʃ ʕaːjiz jifuːtni ħaːga."
+  },
+  {
+    "text": "الراجل ده شكله طيب ومحترم. بيعامل الناس كويس. ياريت كل الناس زيه.",
+    "g2p": "erraːgil da ʃaklu tˤajjib wemoħtaram. bijʕaːmil ennaːs kwajjis. jaːreːt koll ennaːs zajju."
+  },
+  {
+    "text": "الست دي مكافحة وقوية. قدرت تربي ولادها وتوصلهم لبر الأمان. أم مثالية.",
+    "g2p": "essitt di mokaːfħa weqawijja. ʔidrit tirabbi wulaːdha wetwasˤsˤalhom libarr elʔamaːn. ʔomm misaːlijja."
+  },
+  {
+    "text": "الولد ده ذكي وشاطر في دراسته. مستقبله هيكون كويس إن شاء الله. ربنا يحميه.",
+    "g2p": "elwalad da zaki weʃaːtˤir fi diraːstu. mostaʔbalu hajkuːn kwajjis ʔin ʃaːʔ allaːh. rabbena jeħmiːh."
+  },
+  {
+    "text": "البنت دي جميلة ومؤدبة. أخلاقها عالية وكل الناس بتحبها. ما شاء الله عليها.",
+    "g2p": "elbint di gamiːla wemoʔaddaba. ʔaxlaːʔha ʕalja wekoll ennaːs bitħibbaha. maː ʃaːʔ allaːh ʕaleːha."
+  },
+  {
+    "text": "الطفل ده بريء وضحكته حلوة أوي. الأطفال أحباب الله. لازم نهتم بيهم.",
+    "g2p": "etˤtˤifl da bariːʔ wedˤeħkitu ħelwa ʔawi. elʔatˤfaːl ʔaħbaːb allaːh. laːzem nihtamm biːhom."
+  },
+  {
+    "text": "الرضيع ده نايم زي الملاك. الأطفال الرضع محتاجين رعاية واهتمام خاص. ربنا يحفظهم.",
+    "g2p": "erradˤiːʕ da naːjim zaj elmalaːk. elʔatˤfaːl errodˤdˤaʕ meħtagiːn riʕaːja wehtimaːm xaːsˤ. rabbena jeħfazˤhom."
+  },
+  {
+    "text": "الشاب ده طموح ومجتهد في شغله. بيحاول يطور من نفسه وبيتعلم كل يوم حاجة جديدة. ربنا يوفقه.",
+    "g2p": "eʃʃaːbb da tˤamuːħ wemogtahid fi ʃoɣlu. bijħaːwil jitˤawwar men nafsu webijitʕallim koll joːm ħaːga gidiːda. rabbena jewaffaʔu."
+  },
+  {
+    "text": "البني آدم ضعيف ومحتاج لربنا في كل أمور حياته. الدعاء بيقوينا وبيصبرنا على البلاء.",
+    "g2p": "elbani ʔaːdam dˤaʕiːf wemeħtaːg lirabbena fi koll ʔomuːr ħajaːtu. eddoʕaːʔ bijʔawwiːna webijsˤabbirna ʕala elbalaːʔ."
+  },
+  {
+    "text": "الأب هو السند والأمان لأولاده. بيشتغل ويتعب عشان يوفر لهم حياة كريمة. ربنا يبارك في كل أب.",
+    "g2p": "elʔabb huwwa essanad welʔamaːn leʔawlaːdu. bijiʃtaɣal wejitʕab ʕaʃaːn jiwaffar lihom ħajaːh kariːma. rabbena jibaːrik fi koll ʔabb."
+  },
+  {
+    "text": "الأم مدرسة إذا أعددتها أعددت شعباً طيب الأعراق. دور الأم عظيم في تربية الأجيال. الجنة تحت أقدام الأمهات.",
+    "g2p": "elʔomm madrasa ʔizaː ʔaʕdadtahaː ʔaʕdadt ʃaʕban tˤajjib elʔaʕraːʔ. doːr elʔomm ʕazˤiːm fi tarbijit elʔagjaːl. elganna taħt ʔaqdaːm elʔommahaːt."
+  },
+  {
+    "text": "الأخ سند لأخوه. بيقف جنبه في الشدة وبيفرح لفرحه. الأخوة كنز.",
+    "g2p": "elʔaxx sanad leʔaxuːh. bijuʔaf gambu feʃʃidda webijifraħ lifaraħu. elʔoxowwa kenz."
+  },
+  {
+    "text": "الأخت حنية وطيبة. بتكون أم تانية لإخواتها. ربنا يخلي كل أخت لإخواتها.",
+    "g2p": "elʔoxt ħinijja wetˤajjiba. bitkuːn ʔomm tanja leʔixwaːtha. rabbena jixalli koll ʔoxt leʔixwaːtha."
+  },
+  {
+    "text": "العم بيكون بمثابة الأب. بنلجأ ليه في المشاكل وبناخد رأيه في أمور حياتنا. ربنا يبارك في أعمامنا.",
+    "g2p": "elʕamm bijkuːn bimasaːbit elʔabb. binilgaʔ liːh felmaʃaːkil webinaːxud raʔju fi ʔomuːr ħajaːtna. rabbena jibaːrik fi ʔaʕmaːmina."
+  },
+  {
+    "text": "الخال والد. بيكون قريب من ولاد أخته وبيحبهم زي ولاده. ربنا يخلي كل خال لولاد أخته.",
+    "g2p": "elxaːl waːlid. bijkuːn ʔariːb men wulaːd ʔoxtu webijħibbohom zaj wulaːdu. rabbena jixalli koll xaːl liwulaːd ʔoxtu."
+  },
+  {
+    "text": "العمة بتكون زي الأم التانية. حنينة وطيبة وبتحب ولاد أخوها. ربنا يبارك في عماتنا.",
+    "g2p": "elʕamma bitkuːn zaj elʔomm ettanja. ħineːna wetˤajjiba witħibb wulaːd ʔaxuːha. rabbena jibaːrik fi ʕammaːtna."
+  },
+  {
+    "text": "الخالة بتكون قريبة جداً من ولاد أختها. بتعتبرهم زي ولادها وبتحبهم أوي. الخالة أم.",
+    "g2p": "elxaːla bitkuːn ʔariːba giddan men wulaːd ʔoxtha. bitʕtibirhom zaj wulaːdha witħibbohom ʔawi. elxaːla ʔomm."
+  },
+  {
+    "text": "الجد والجدة هم بركة البيت. قعدتهم حلوة وحكاياتهم ممتعة. ربنا يديهم الصحة وطولة العمر.",
+    "g2p": "elgidd welgidda humma barakit elbeːt. ʔaʕdithom ħelwa weħkaːjaːthom momtiʕa. rabbena jiddiːhom esˤsˤeħħa wetˤuːlit elʕomr."
+  },
+  {
+    "text": "الحفيد بيكون غالي أوي عند جده وجدته. بيدلعوه وبيجيبوا له هدايا. ربنا يرزق كل مشتاق.",
+    "g2p": "elħafiːd bijkuːn ɣaːli ʔawi ʕand giddu wegiditu. bijdallaʕuːh webijgiːbu lu hadaːja. rabbena jorzoʔ koll moʃtaːʔ."
+  },
+  {
+    "text": "الجوز والزوجة لازم يكون بينهم مودة ورحمة وتفاهم. الحياة الزوجية مسئولية مشتركة. ربنا يوفق كل زوجين.",
+    "g2p": "elgoːz wezzoːga laːzem jikuːn beːnhom mawadda weraħma wetafaːhom. elħajaːh ezzawgijja masʔulijja moʃtaraka. rabbena jewaffaʔ koll zoːgeːn."
+  },
+  {
+    "text": "العريس والعروسة بيكونوا فرحانين أوي يوم فرحهم. بيبدأوا حياة جديدة مع بعض. ألف مبروك.",
+    "g2p": "elʕariːs welʕaruːsa bijkuːnu farħaːniːn ʔawi joːm faraħhom. bijibdaʔu ħajaːh gidiːda maʕa baʕdˤ. ʔalf mabruːk."
+  },
+  {
+    "text": "الخطيب والخطيبة بيجهزوا عش الزوجية. فترة الخطوبة مهمة عشان يتعرفوا على بعض أكتر. ربنا يتمم لهم بخير.",
+    "g2p": "elxatˤiːb welxatˤiːba bijgahhizu ʕeʃʃ ezzawgijja. fatrit elxotˤuːba mohemma ʕaʃaːn jitʕarrafu ʕala baʕdˤ ʔaktar. rabbena jetammim lihom bixeːr."
+  },
+  {
+    "text": "العيلة هي أهم حاجة في الدنيا. لما بتكون وسط عيلتك بتحس بالأمان والدفا. لمة العيلة حلوة.",
+    "g2p": "elʕeːla hijja ʔahamm ħaːga feddonja. lamma bitkuːn wistˤ ʕeːltak bitħiss belʔamaːn weddafa. lammit elʕeːla ħelwa."
+  },
+  {
+    "text": "القريب وقت الضيق بيبان. الصديق الحقيقي بيقف جنبك في الحلوة والمرة. اختار صحابك كويس.",
+    "g2p": "elʔariːb waʔt edˤdˤiːʔ bijbaːn. esˤsˤadiːʔ elħaʔiːʔi bijuʔaf gambak felħelwa welmorra. extaːr sˤħaːbak kwajjis."
+  },
+  {
+    "text": "الشخص الغريب ممكن يكون طيب وممكن يكون وحش. متديش أمانك لأي حد متعرفوش كويس. الحرص واجب.",
+    "g2p": "eʃʃaxsˤ elɣariːb momken jikuːn tˤajjib wemomken jikuːn weħeʃ. matiddiiʃ ʔamaːnak leʔajj ħadd matʕrafuːʃ kwajjis. elħirsˤ waːgib."
+  },
+  {
+    "text": "صاحبك على عيبك. الصاحب الجدع بينصحك للخير وبيبعدك عن الشر. الصاحب مرآة صاحبه.",
+    "g2p": "sˤaħbak ʕala ʕeːbak. esˤsˤaːħib elgadaʕ bijinsˤaħak lelxeːr webijibʕidak ʕan eʃʃarr. esˤsˤaːħib merʔaːt sˤaħbu."
+  },
+  {
+    "text": "صاحبتك على عيبك. الصاحبة الجدعة بتنصحك للخير وبتبعدك عن الشر. الصاحبة مرآة صاحبتها.",
+    "g2p": "sˤaħbitik ʕala ʕeːbik. esˤsˤaːħba elgadʕa bitinsˤaħik lelxeːr witibʕidik ʕan eʃʃarr. esˤsˤaːħba merʔaːt sˤaħbitha."
+  },
+  {
+    "text": "الزميل في الشغل لازم يكون بينكم احترام وتعاون. الشغل الجماعي بيحقق نتائج أفضل. متعملش مشاكل مع زمايلك.",
+    "g2p": "ezzamiːl feʃʃoɣl laːzem jikuːn beːnkom eħteraːm wetaʕaːwon. eʃʃoɣl elgamaːʕi bijħaʔʔaʔ nataːʔig ʔafdˤal. matʕmilʃ maʃaːkil maʕa zamaːjlak."
+  },
+  {
+    "text": "الجار للجار. لازم نعامل جيراننا كويس ونقف جنبهم في أي مشكلة. أوصى النبي بسابع جار.",
+    "g2p": "elgaːr lelgaːr. laːzem niʕaːmil giraːnna kwajjis weniʔaf gambihom fi ʔajj moʃkila. ʔawsˤa ennabi bisaːbiʕ gaːr."
+  },
+  {
+    "text": "المدير الناجح بيكون قائد لفريقه. بيشجعهم وبيساعدهم يتطوروا. بيكون قدوة ليهم.",
+    "g2p": "elmudiːr ennaːgiħ bijkuːn qaːʔid lifariːʔu. bijʃaggaʕhom webijsaʕidhom jitˤawwaru. bijkuːn qodwa liːhom."
+  },
+  {
+    "text": "الموظف المجتهد بيخلص شغله بإتقان وفي الوقت المحدد. بيحترم مواعيده وزمايله. بيكون محبوب من مديره.",
+    "g2p": "elmowazˤzˤaf elmogtahid bijxallasˤ ʃoɣlu biʔitqaːn wefelwaʔt elmoħaddad. bijiħterim mawaʕiːdu wezamaːjlu. bijkuːn maħbuːb men modiːru."
+  },
+  {
+    "text": "الدكتور لازم يكون أمين على صحة مرضاه. يشخص صح ويدي العلاج المناسب. مهنة إنسانية عظيمة.",
+    "g2p": "eddoktoːr laːzem jikuːn ʔamiːn ʕala sˤeħħit mardˤaːh. jiʃaxxasˤ sˤaħħ wejiddi elʕilaːg elmonaːsib. mihna ʔinsaːnijja ʕazˤiːma."
+  },
+  {
+    "text": "المهندس بيبني ويعمر. بيصمم المباني والطرق والكباري. شغله مهم لتطوير البلد.",
+    "g2p": "elmohandis bijibni wejʕammir. bijsˤammim elmabaːni wetˤtˤoroʔ welkabaːri. ʃoɣlu mohemm litatˤwiːr elbalad."
+  },
+  {
+    "text": "المحامي بيدافع عن الحقوق والمظلومين. لازم يكون دارس القانون كويس وعنده قدرة على الإقناع. مهنة صعبة.",
+    "g2p": "elmoħaːmi bijdaːfiʕ ʕan elħoʔuːʔ welmazˤluːmiːn. laːzem jikuːn daːris elʔanuːn kwajjis weʕandu ʔodra ʕala elʔiqnaːʕ. mihna sˤaʕba."
+  },
+  {
+    "text": "الأستاذ في الجامعة بينقل علمه وخبرته للطلاب. بيساعدهم يفهموا ويتعلموا. لازم يكون قدوة ليهم.",
+    "g2p": "elʔostaːz felgamʕa bijinʔil ʕilmu wexibritu letˤtˤollaːb. bijsaʕidhom jifhamu wejitʕallimu. laːzem jikuːn qodwa liːhom."
+  },
+  {
+    "text": "المعلم في المدرسة بيربي أجيال. بيعلمهم القراءة والكتابة والأخلاق. مهنة سامية ومهمة.",
+    "g2p": "elmoʕallim felmadrasa bijrabbi ʔagjaːl. bijʕallimhom elʔiraːja welkitaːba welʔaxlaːʔ. mihna saːmija wemohemma."
+  },
+  {
+    "text": "الطالب المجتهد بيذاكر دروسه وبيحضر محاضراته. بيسأل وبيناقش عشان يفهم. بيكون متفوق في دراسته.",
+    "g2p": "etˤtˤaːlib elmogtahid bijzaːkir doruːsu webijħadˤar moħadˤaraːtu. bijisʔal webijnaːʔiʃ ʕaʃaːn jifham. bijkuːn motafawwiʔ fi diraːstu."
+  },
+  {
+    "text": "التلميذ الصغير بيحب مدرسته ومدرسينه. بيتعلم الحروف والأرقام. بيكون نشيط وبيحب يلعب.",
+    "g2p": "ettilmiːz esˤsˤoɣajjar bijħibb madrastu wemodarisiːnu. bijitʕallim elħoruːf welʔarqaːm. bijkuːn naʃiːtˤ webijħibb jilʕab."
+  },
+  {
+    "text": "القميص ده بتاع مين؟ شكله شيك وغالي. أكيد بتاع واحد ذوقه عالي.",
+    "g2p": "elʔamiːsˤ da bitaːʕ miːn? ʃaklu ʃiːk weɣaːli. ʔakiːd bitaːʕ waːħid zoːʔu ʕaːli."
+  },
+  {
+    "text": "الشنطة دي بتاعة أختي. لونها أحمر وشكلها جميل. بتشيل فيها كل حاجتها.",
+    "g2p": "eʃʃantˤa di bitaːʕit ʔoxti. lonha ʔaħmar weʃaklaha gamiːl. bitʃiːl fiːha koll ħagitha."
+  },
+  {
+    "text": "الكتب دي بتوعي. بحب أقرأهم في وقت فراغي. القراءة مفيدة وممتعة.",
+    "g2p": "elkotob di bituːʕi. baħibb ʔaʔraːhom fi waʔt faraːɣi. elʔiraːja mofiːda wemomtiʕa."
+  },
+  {
+    "text": "الولد اللي هناك ده أخويا الصغير. شقي شوية بس طيب. بحبه أوي.",
+    "g2p": "elwalad elli hinaːk da ʔaxoːja esˤsˤoɣajjar. ʃaʔi ʃwajja bas tˤajjib. baħibbu ʔawi."
+  },
+  {
+    "text": "القلم ده لونه أزرق وبيكتب حلو. بحب أستخدمه في المذاكرة. خطه واضح.",
+    "g2p": "elʔalam da loːnu ʔazraʔ webijiktib ħelw. baħibb ʔastaɣdimu felmozakra. xatˤtˤu waːdˤeħ."
+  },
+  {
+    "text": "الكراسة دي بتاعتك؟ شكلها منظم وخطك جميل. برافو عليك.",
+    "g2p": "elkorraːsa di bitaːʕtak? ʃaklaha monazˤzˤam wexatˤtˤak gamiːl. braːfo ʕaleːk."
+  },
+  {
+    "text": "الكراسة دي بتاعتك؟ شكلها منظم وخطك جميل. برافو عليكي.",
+    "g2p": "elkorraːsa di bitaːʕtik? ʃaklaha monazˤzˤam wexatˤtˤik gamiːl. braːfo ʕaleːki."
+  },
+  {
+    "text": "الأقلام دي ألوانها حلوة أوي. ممكن أستخدمها في الرسم والتلوين. بحب الألوان المبهجة.",
+    "g2p": "elʔaʔlaːm di ʔalwaːnha ħelwa ʔawi. momken ʔastaɣdimha ferrasm wettalwiːn. baħibb elʔalwaːn elmobhiga."
+  },
+  {
+    "text": "هو بيحب يلعب كورة مع أصحابه في النادي. لاعب ماهر وسريع. بيجيب أجوان كتير.",
+    "g2p": "huwwa bijħibb jilʕab koːra maʕa ʔasˤħaːbu fennaːdi. laːʕib maːhir wesariːʕ. bijgiːb ʔagwaːn kitiːr."
+  },
+  {
+    "text": "هي بتحب ترسم مناظر طبيعية. رسوماتها جميلة ومليانة إحساس. فنانة موهوبة.",
+    "g2p": "hijja bitħibb tirsim manaːzˤir tˤabiːʕijja. rosumaːtha gamiːla wemaljaːna ʔeħsaːs. fannaːna mawhuːba."
+  },
+  {
+    "text": "هم بيحبوا يسافروا ويكتشفوا أماكن جديدة. كل سنة بيروحوا بلد مختلفة. السفر متعة.",
+    "g2p": "homma bijħibbu jisafru wejiktʃifu ʔamaːkin gidiːda. koll sana bijruːħu balad moxtalifa. essafar motʕa."
+  },
+  {
+    "text": "احنا بنحب نتجمع يوم الجمعة ونتغدى مع بعض. لمة العيلة ليها طعم تاني. ربنا يديمها.",
+    "g2p": "eħna binħibb nitgammaʕ joːm elgomʕa wenitɣadda maʕa baʕdˤ. lammit elʕeːla liːha tˤaʕm taːni. rabbena jidiːmha."
+  },
+  {
+    "text": "أنت لازم تذاكر كويس عشان تنجح في الامتحان. مستقبلك مهم. متضيعش وقتك.",
+    "g2p": "ʔinta laːzem tizaːkir kwajjis ʕaʃaːn tingaħ felʔemteħaːn. mostaʔbalak mohemm. matdˤajjaʕʃ waʔtak."
+  },
+  {
+    "text": "أنتي لازم تذاكري كويس عشان تنجحي في الامتحان. مستقبلك مهم. متضيعيش وقتك.",
+    "g2p": "ʔinti laːzem tizaːkri kwajjis ʕaʃaːn tingaħi felʔemteħaːn. mostaʔbalik mohemm. matdˤajjaʕiiʃ waʔtik."
+  },
+  {
+    "text": "انتو لازم تيجوا الحفلة بكرة. هتكون حفلة كبيرة وممتعة. متتأخروش.",
+    "g2p": "ʔintu laːzem tiːgu elħafla bokra. hatkuːn ħafla kibiːra wemomtiʕa. matitʔaxxaruːʃ."
+  },
+  {
+    "text": "أنا بحب مصر أوي. بلد جميلة وشعبها طيب. تاريخها عظيم وحضارتها مبهرة.",
+    "g2p": "ʔana baħibb masˤr ʔawi. balad gamiːla weʃaʕbaha tˤajjib. tariːxha ʕazˤiːm weħadˤaːritha mobhira."
+  },
+  {
+    "text": "الكتاب ده على الترابيزة. ممكن تجيبهولي من فضلك؟ عايز أقرأ فيه.",
+    "g2p": "elketaːb da ʕala etˤtˤarabeːza. momken tigiːbhuːli men fadˤlak? ʕaːjiz ʔaʔra fiːh."
+  },
+  {
+    "text": "القلم في الشنطة. ممكن تجيبيهولي من فضلك؟ عايزة أكتب حاجة.",
+    "g2p": "elʔalam feʃʃantˤa. momken tigiːbiihiːli men fadˤlik? ʕaːjza ʔaktib ħaːga."
+  },
+  {
+    "text": "الأكل من إيد ماما ليه طعم تاني. نفسها في الأكل حلو أوي. ربنا يخليها لينا.",
+    "g2p": "elʔakl men ʔiːd maːma liːh tˤaʕm taːni. nafsaha felʔakl ħelw ʔawi. rabbena jixalliːha liːna."
+  },
+  {
+    "text": "الكتاب ده لـ أحمد. هو سابه هنا إمبارح. هبقى أديهوله لما أشوفه.",
+    "g2p": "elketaːb da liʔaħmad. huwwa saːbu hina ʔembaːreħ. habʔa ʔaddiihiːlu lamma ʔaʃuːfu."
+  },
+  {
+    "text": "الهدية دي لـ سارة بمناسبة عيد ميلادها. يارب تعجبها. اشتريتها من محل كبير.",
+    "g2p": "elhedijja di lisaːra bimonaːsabit ʕiːd milaːdha. jarab tiʕgibha. iʃtareːtha men maħall kibiːr."
+  },
+  {
+    "text": "أنا رايح الشغل بالعربية. الطريق زحمة شوية بس هوصل في الميعاد إن شاء الله.",
+    "g2p": "ʔana raːjiħ eʃʃoɣl belʕarabijja. etˤtˤariːʔ zaħma ʃwajja bas hawsˤal felmiʕaːd ʔin ʃaːʔ allaːh."
+  },
+  {
+    "text": "أنا رايحة الجامعة بالأتوبيس. الأتوبيس أرخص وأسرع من التاكسي. بس بيكون زحمة الصبح.",
+    "g2p": "ʔana rajħa elgamʕa belʔotobiːs. elʔotobiːs ʔarxasˤ waʔasraʕ men ettaksi. bas bijkuːn zaħma esˤsˤobħ."
+  },
+  {
+    "text": "أنا بحب الشاي والقهوة. بس القهوة أكتر. بشربها كل يوم الصبح.",
+    "g2p": "ʔana baħibb eʃʃaːj welʔahwa. bas elʔahwa ʔaktar. baʃrabha koll joːm esˤsˤobħ."
+  },
+  {
+    "text": "أنت عايز تاكل سمك أو فراخ؟ أنا عن نفسي بحب السمك أكتر. صحي ولذيذ.",
+    "g2p": "ʔanta ʕaːjiz taːkul samak ʔaw faraːx? ʔana ʕan nafsi baħibb essamak ʔaktar. sˤeħħi welaziːz."
+  },
+  {
+    "text": "أنتي عايزة تاكلي سمك أو فراخ؟ أنا عن نفسي بحب الفراخ أكتر. ليها طرق كتير.",
+    "g2p": "ʔanti ʕaːjza takli samak ʔaw faraːx? ʔana ʕan nafsi baħibb elfaraːx ʔaktar. liːha tˤoroʔ kitiːr."
+  },
+  {
+    "text": "أنا تعبان لكن لازم أروح الشغل. عندي اجتماع مهم. هاخد مسكن وأروح.",
+    "g2p": "ʔana taʕbaːn laːken laːzem ʔaruːħ eʃʃoɣl. ʕandi egtimaːʕ mohemm. haːxud mosakkin waʔaruːħ."
+  },
+  {
+    "text": "الجو حر بس الهوا حلو. ممكن نقعد في البلكونة شوية. الجو بالليل بيكون أحسن.",
+    "g2p": "elgaww ħarr bas elhawa ħelw. momken noʔʕod felbalkoːna ʃwajja. elgaww belleːl bijkuːn ʔaħsan."
+  },
+  {
+    "text": "أنا عايز أسافر علشان أغير جو. الشغل ضاغط عليا أوي الفترة دي. محتاج أجازة.",
+    "g2p": "ʔana ʕaːjiz ʔasaːfir ʕalaʃaːn ʔaɣajjar gaww. eʃʃoɣl dˤaːɣitˤ ʕalajja ʔawi elfatˤra di. meħtaːg ʔagaːza."
+  },
+  {
+    "text": "أنا بشتغل عشان أصرف على نفسي وعيلتي. الشغل عبادة. ربنا بيعين.",
+    "g2p": "ʔana baʃtaɣal ʕaʃaːn ʔasˤrif ʕala nafsi weʕeːlti. eʃʃoɣl ʕibaːda. rabbena bijʕiːn."
+  },
+  {
+    "text": "أنا بحب الشتا برضو عشان الجو بيكون برد وبنلبس تقيل. بس الصيف أحلى عشان البحر.",
+    "g2p": "ʔana baħibb eʃʃita bardˤu ʕaʃaːn elgaww bijkuːn bard webinilbis tiʔiːl. bas esˤsˤeːf ʔaħla ʕaʃaːn elbaħr."
+  },
+  {
+    "text": "أنا بحب شغلي كمان عشان بتعلم منه حاجات جديدة كل يوم. الخبرة بتيجي بالممارسة.",
+    "g2p": "ʔana baħibb ʃoɣli kamaːn ʕaʃaːn batʕallim minnu ħagaːt gidiːda koll joːm. elxebra bitgiː belmomarsa."
+  },
+  {
+    "text": "الموضوع ده صعب خالص. مش عارف أحله إزاي. محتاج مساعدة.",
+    "g2p": "elmawdˤuːʕ da sˤaʕb xaːlisˤ. miʃ ʕaːrif ʔaħillu ezzaːj. meħtaːg mosaʕda."
+  },
+  {
+    "text": "أنا مش هقدر أجي الحفلة بكرة أبداً. عندي شغل مهم ومش هعرف أعتذر.",
+    "g2p": "ʔana miʃ haʔdar ʔagiː elħafla bokra ʔabadan. ʕandi ʃoɣl mohemm wemiʃ haʕraf ʔaʕtizir."
+  },
+  {
+    "text": "أنا أصلاً مكنتش عايز أروح المشوار ده. بس اضطريت عشان خاطر عيونك.",
+    "g2p": "ʔana ʔasˤlan makuntiʃ ʕaːjiz ʔaruːħ elmiʃwaːr da. bas edˤtˤarreːt ʕaʃaːn xaːtˤir ʕojuːnak."
+  },
+  {
+    "text": "أنا أصلاً مكنتش عايزة أروح المشوار ده. بس اضطريت عشان خاطر عيونك.",
+    "g2p": "ʔana ʔasˤlan makuntiʃ ʕaːjza ʔaruːħ elmiʃwaːr da. bas edˤtˤarreːt ʕaʃaːn xaːtˤir ʕojuːnik."
+  },
+  {
+    "text": "يعني أنت مش جاي معانا؟ طب ليه؟ كنا عاملين حسابك.",
+    "g2p": "jaʕni ʔanta miʃ gaːj maʕaːna? tˤab leːh? konna ʕamliːn ħisaːbak."
+  },
+  {
+    "text": "يعني أنتي مش جاية معانا؟ طب ليه؟ كنا عاملين حسابك.",
+    "g2p": "jaʕni ʔanti miʃ gajja maʕaːna? tˤab leːh? konna ʕamliːn ħisaːbik."
+  },
+  {
+    "text": "أنا تعبان أوي وبقى لازم أنام. الشغل بكرة بدري. تصبح على خير.",
+    "g2p": "ʔana taʕbaːn ʔawi webaʔa laːzem ʔanaːm. eʃʃoɣl bokra badri. tisˤbaħ ʕala xeːr."
+  },
+  {
+    "text": "مثلاً، ممكن نروح السينما أو نقعد على قهوة. المهم نغير جو. أنت إيه رأيك؟",
+    "g2p": "masalan, momken nruːħ essinima ʔaw noʔʕod ʕala ʔahwa. elmohemm niɣajjar gaww. ʔanta ʔeːh raʔjak?"
+  },
+  {
+    "text": "طيب، أنا موافق على اقتراحك. فكرة كويسة. ننفذها إمتى؟",
+    "g2p": "tˤajjib, ʔana mowaːfiʔ ʕala eqtiraːħak. fekra kwajjisa. ninaffizha ʔimta?"
+  },
+  {
+    "text": "أيوة، أنا فاهم قصدك كويس. متقلقش، كل حاجة هتكون تحت السيطرة.",
+    "g2p": "ʔajwa, ʔana faːhim ʔasˤdak kwajjis. matʔallaʔʃ, koll ħaːga hatkuːn taħt essajtˤara."
+  },
+  {
+    "text": "آه، أنا كمان سمعت الخبر ده. بيقولوا حقيقي. ربنا يستر.",
+    "g2p": "ʔaːh, ʔana kamaːn simiʕt elxabar da. bijʔuːlu ħaʔiːʔi. rabbena jestor."
+  },
+  {
+    "text": "لأ، أنا مش هقدر أعمل كده. ده ضد مبادئي. آسف.",
+    "g2p": "laʔ, ʔana miʃ haʔdar ʔaʕmel kida. da dˤidd mabaːdiʔi. ʔaːsif."
+  },
+  {
+    "text": "كلامك صح مية في المية. أنا متفق معاك في كل كلمة.",
+    "g2p": "kalaːmak sˤaħħ mejja felmejja. ʔana mottafiʔ maʕaːk fi koll kelma."
+  },
+  {
+    "text": "لأ طبعاً، ده غلط كبير. مينفعش نعمل كده أبداً. لازم نفكر كويس.",
+    "g2p": "laʔ tˤabʕan, da ɣalatˤ kibiːr. majinfaʕʃ niʕmel kida ʔabadan. laːzem nifakkar kwajjis."
+  },
+  {
+    "text": "أنت بتقول الكلام ده بجد ولا بتهزر؟ لو بتهزر يبقى هزار بايخ.",
+    "g2p": "ʔanta bitʔuːl elkalaːm da bigadd wala bithazzar? law bithazzar jibʔa hazaːr baːjix."
+  },
+  {
+    "text": "أنتي بتقولي الكلام ده بجد ولا بتهزري؟ لو بتهزري يبقى هزار بايخ.",
+    "g2p": "ʔanti bitʔuːli elkalaːm da bigadd wala bithazzari? law bithazzari jibʔa hazaːr baːjix."
+  },
+  {
+    "text": "حاضر، هعمل اللي أنت عايزه. طلباتك أوامر. متشلش هم.",
+    "g2p": "ħaːdˤir, haʕmel elli ʔanta ʕaːjzu. tˤalabaːtak ʔawaːmir. matʃilʃ hamm."
+  },
+  {
+    "text": "حاضر، هعمل اللي أنتي عايزاه. طلباتك أوامر. متشيليش هم.",
+    "g2p": "ħaːdˤir, haʕmel elli ʔanti ʕajzaːh. tˤalabaːtik ʔawaːmir. matʃiliiʃ hamm."
+  },
+  {
+    "text": "إيدي بتوجعني أوي. شكلي اتخبطت فيها جامد. لازم أروح للدكتور.",
+    "g2p": "ʔiːdi bitugaʕni ʔawi. ʃakli etixbatˤt fiːha gaːmid. laːzem ʔaruːħ leddoktoːr."
+  },
+  {
+    "text": "رجلي ورمت بعد ما وقعت. مش قادر أمشي عليها. شكلها اتجزعت.",
+    "g2p": "rigli warmit baʕd ma wiʔiʕt. miʃ qaːdir ʔamʃi ʕaleːha. ʃaklaha etgazaʕit."
+  },
+  {
+    "text": "دراعي اليمين فيه شد عضلي. مش قادر أحركه كويس. محتاج مساج.",
+    "g2p": "diraːʕi eljimiːn fiːh ʃadd ʕadˤali. miʃ qaːdir ʔaħarraku kwajjis. meħtaːg masaːʒ."
+  },
+  {
+    "text": "كتفي بيوجعني لما بشيل حاجة تقيلة. ممكن يكون تمزق في الأربطة. لازم أعمل أشعة.",
+    "g2p": "kitfi bijugaʕni lamma baʃiːl ħaːga tiʔiːla. momken jikuːn tamazzoʔ felʔarbitˤa. laːzem ʔaʕmel ʔaʃiʕʕa."
+  },
+  {
+    "text": "راسي مصدعة أوي. يمكن عشان منمتش كويس إمبارح. هاخد حباية مسكن.",
+    "g2p": "raːsi misˤadˤdˤaʕa ʔawi. jemken ʕaʃaːn manimtiʃ kwajjis ʔembaːreħ. haːxud ħabbajit mosakkin."
+  },
+  {
+    "text": "وشي أحمر من الشمس. نسيت أحط واقي الشمس النهاردة. لازم أدهن كريم مرطب.",
+    "g2p": "wiʃʃi ʔaħmar men eʃʃams. nisiːt ʔaħotˤtˤ waːqi eʃʃams ennaharda. laːzem ʔadhin kriːm moratˤtˤib."
+  },
+  {
+    "text": "عيني بتحرقني من التراب. الجو النهاردة كله تراب وهوا. لازم أغسل وشي.",
+    "g2p": "ʕeːni bitħraʔni men ettoraːb. elgaww ennaharda kollu toraːb wehawa. laːzem ʔaɣsil wiʃʃi."
+  },
+  {
+    "text": "مناخيري مسدودة من البرد. مش عارف أتنفس كويس. لازم أستخدم نقط للأنف.",
+    "g2p": "manaxiːri masduːda men elbard. miʃ ʕaːrif ʔatnaffas kwajjis. laːzem ʔastaɣdim noʔatˤ lelʔanf."
+  },
+  {
+    "text": "بقي فيه قرحة صغيرة بتوجعني لما باكل. ممكن تكون بسبب نقص فيتامينات. لازم أكل فاكهة.",
+    "g2p": "buʔʔi fiːh qarħa sˤoɣajjara bitugaʕni lamma baːkul. momken tikuːn bisabab naʔsˤ fitaminaːt. laːzem ʔaːkul fakha."
+  },
+  {
+    "text": "ودني بتوش لما بسمع صوت عالي. شكل طبلة ودني حساسة. لازم أبعد عن الدوشة.",
+    "g2p": "widni bitwiʃʃ lamma basmaʕ sˤoːt ʕaːli. ʃakl tˤablit widni ħassaːsa. laːzem ʔabʕid ʕan eddawʃa."
+  },
+  {
+    "text": "لساني اتعض وأنا باكل. بيوجعني أوي. الملح بيطهره بس بيحرق.",
+    "g2p": "lisaːni etʕadˤdˤ waʔana baːkul. bijugaʕni ʔawi. elmalħ bijtˤahharu bas bijiħraʔ."
+  },
+  {
+    "text": "سناني محتاجة حشو. فيه سنة بتوجعني لما بشرب حاجة ساقعة. لازم أروح لدكتور السنان.",
+    "g2p": "sinaːni meħtaːga ħaʃw. fiːh sinna bitugaʕni lamma baʃrab ħaːga saʔʕa. laːzem ʔaruːħ lidoktoːr essinaːn."
+  },
+  {
+    "text": "شعري بقى بيقع كتير الفترة دي. يمكن بسبب الإجهاد أو نقص فيتامينات. لازم أستخدم شامبو كويس.",
+    "g2p": "ʃaʕri baʔa bijuʔaʕ kitiːr elfatˤra di. jemken bisabab elʔighaːd ʔaw naʔsˤ fitaminaːt. laːzem ʔastaɣdim ʃambu kwajjis."
+  },
+  {
+    "text": "دقني طولت ومحتاجة تتهذب. هروح للحلاق بكرة. النعومة حلوة برضه.",
+    "g2p": "daʔni tˤawlit wemeħtaːga titihazzib. haruːħ lelħallaːʔ bokra. ennoʕuːma ħelwa bardˤu."
+  },
+  {
+    "text": "رقبتي بتوجعني من كتر القعدة قدام الكمبيوتر. لازم أعمل تمارين إطالة. المساج ممكن يفيد.",
+    "g2p": "raʔabti bitugaʕni men kotr elʔaʕda ʔoddaːm elkompjuːter. laːzem ʔaʕmel tamariːn ʔitˤaːla. elmasaːʒ momken jifiːd."
+  },
+  {
+    "text": "ضهري مقطوم من شيل الحاجات التقيلة. لازم أرتاح ومشلش حاجة تقيلة الفترة دي. ربنا يشفي.",
+    "g2p": "dˤahri maʔtˤuːm men ʃeːl elħagaːt ettiʔiːla. laːzem ʔartaːħ wemiʃilʃ ħaːga tiʔiːla elfatˤra di. rabbena jiʃfi."
+  },
+  {
+    "text": "بطني بتوجعني بعد الأكلة الدسمة دي. شكلي كلت كتير. محتاج أشرب حاجة دافية.",
+    "g2p": "batˤni bitugaʕni baʕd elʔakla eddasma di. ʃakli kalt kitiːr. meħtaːg ʔaʃrab ħaːga dafja."
+  },
+  {
+    "text": "صدري فيه ألم غريب لما باخد نفس عميق. يارب ميكونش حاجة وحشة. لازم أروح أكشف.",
+    "g2p": "sˤidri fiːh ʔalam ɣariːb lamma baːxud nafas ʕamiːʔ. jarab majkunʃ ħaːga weħʃa. laːzem ʔaruːħ ʔakʃif."
+  },
+  {
+    "text": "قلبي بيدق بسرعة أوي لما بجري أو بتوتر. لازم أهدي نفسي وأتنفس ببطء. القلق وحش.",
+    "g2p": "ʔalbi bijduʔʔ bisurʕa ʔawi lamma bagri ʔaw batwattar. laːzem ʔahaddi nafsi waʔatnaffas bibotˤʔ. elʔalaʔ weħeʃ."
+  },
+  {
+    "text": "المخ محتاج جلوكوز وأكسجين عشان يشتغل كويس. الفطار الصحي والنوم الكافي مهمين لتركيز المخ.",
+    "g2p": "elmoxx meħtaːg glokoːz waʔoksiːgiːn ʕaʃaːn jiʃtaɣal kwajjis. elfitˤaːr esˤsˤeħħi wennoːm elkaːfi mohimmiːn litarkiːz elmoxx."
+  },
+  {
+    "text": "اللون الأحمر لون جريء وقوي. بيعبر عن الحب والطاقة. بس كتره ممكن يكون مزعج.",
+    "g2p": "elloːn elʔaħmar loːn gariːʔ weqawi. bijʕabbar ʕan elħobb wetˤtˤaːqa. bas kotru momken jikuːn mozʕig."
+  },
+  {
+    "text": "اللون الأزرق لون السما والبحر. بيريح الأعصاب وبيدي إحساس بالهدوء والاتساع. لون جميل.",
+    "g2p": "elloːn elʔazraʔ loːn essama welbaħr. bijrajjaħ elʔaʕsˤaːb webijiddi ʔeħsaːs belhoduːʔ welʔettisaːʕ. loːn gamiːl."
+  },
+  {
+    "text": "اللون الأخضر لون الطبيعة والزرع. بيرمز للنمو والحياة. مريح للعين وبيحسن المزاج.",
+    "g2p": "elloːn elʔaxdˤar loːn etˤtˤabiːʕa wezzarʕ. bijirmoz lennomoww welħajaːh. moriːħ lelʕeːn webijħassin elmazaːg."
+  },
+  {
+    "text": "اللون الأصفر لون الشمس والبهجة. بيدي إحساس بالسعادة والتفاؤل. بس الأصفر الفاقع ممكن يكون متعب للعين.",
+    "g2p": "elloːn elʔasˤfar loːn eʃʃams welbahga. bijiddi ʔeħsaːs bessaʕaːda wettafaːʔol. bas elʔasˤfar elfaːʔiʕ momken jikuːn metʕib lelʕeːn."
+  },
+  {
+    "text": "اللون الأبيض لون النقاء والصفاء. بيرمز للسلام والبراءة. بيليق مع كل الألوان.",
+    "g2p": "elloːn elʔabjadˤ loːn ennaqaːʔ wesˤsˤafaːʔ. bijirmoz lessalaːm welbaraːʔa. bijliːʔ maʕa koll elʔalwaːn."
+  },
+  {
+    "text": "اللون الأسود لون الأناقة والغموض. ملك الألوان. بيخلي الواحد شكله أرفع. بس مكروه في بعض الثقافات.",
+    "g2p": "elloːn elʔiswid loːn elʔanaːqa welɣomuːdˤ. malik elʔalwaːn. bijxalli elwaːħid ʃaklu ʔarfaʕ. bas makruːh fi baʕdˤ essaqaːfaːt."
+  },
+  {
+    "text": "تفاحة في اليوم تغنيك عن الطبيب. التفاح مليان ألياف وفيتامينات. مفيد جداً للصحة.",
+    "g2p": "tuffaːħa feljoːm tiɣniːk ʕan etˤtˤabiːb. ettuffaːħ maljaːn ʔaljaːf wefitaminaːt. mofiːd giddan lesˤsˤeħħa."
+  },
+  {
+    "text": "برتقالة واحدة بتدي احتياجك اليومي من فيتامين سي. البرتقال مفيد للمناعة ولنضارة البشرة. عصيره منعش.",
+    "g2p": "burtuʔaːla waħda bitiddi eħtijaːgak eljoːmi men fitamiːn siː. elburtuʔaːl mofiːd lelmanaːʕa welinadˤaːrit elbaʃara. ʕasˤiːru monʕiʃ."
+  },
+  {
+    "text": "الموز بيدى طاقة سريعة. عشان كده الرياضيين بيحبوه. كمان بيحسن المزاج عشان فيه تريبتوفان.",
+    "g2p": "elmoːz bijiddi tˤaːqa sariːʕa. ʕaʃaːn kida errejaːdˤijiːn bijħibbuːh. kamaːn bijħassin elmazaːg ʕaʃaːn fiːh triptofaːn."
+  },
+  {
+    "text": "العنب الأحمر فيه مضادات أكسدة أكتر من الأخضر. مفيد للقلب والشرايين. بس متكترش منه عشان السكر.",
+    "g2p": "elʕinab elʔaħmar fiːh modˤaddaːt ʔaksada ʔaktar men elʔaxdˤar. mofiːd lelʔalb weʃʃaraːjiːn. bas matkattarʃ minnu ʕaʃaːn essukkar."
+  },
+  {
+    "text": "الفراولة من الفواكه اللي ممكن تسبب حساسية لبعض الناس. بس طعمها وريحتها حلوين أوي. موسمها قصير.",
+    "g2p": "elfaraːwla men elfawaːkih elli momken tisabbib ħasasiːja libaʕdˤ ennaːs. bas tˤaʕmaha weriħitha ħilwiːn ʔawi. moːsimha ʔasˤiːr."
+  },
+  {
+    "text": "الخوخ والمشمش والتين من فواكه الصيف اللذيذة. مليانين سكريات طبيعية وألياف. جففهم وخليهم للشتا.",
+    "g2p": "elxoːx welmiʃmiʃ wettin men fawaːkih esˤsˤeːf ellaziːza. maljaniːn sokkarijaːt tˤabiːʕijja waʔaljaːf. gaffifhom wexalliːhom leʃʃita."
+  },
+  {
+    "text": "البطيخ والشمام بيرطبوا الجسم في الحر. معظمهم مية. اختار البطيخة التقيلة اللي بتخبط.",
+    "g2p": "elbatˤtˤiːx weʃʃammaːm bijratˤtˤibu elgism felħarr. moʕzˤamhom majja. extaːr elbatˤtˤiːxa ettiʔiːla elli bitxabbatˤ."
+  },
+  {
+    "text": "المانجة فيها أنواع كتير زي العويس والسكري والزبدية. كل نوع ليه طعم وملمس مختلف. أنا بحب العويس.",
+    "g2p": "elmanga fiːha ʔanwaːʕ kitiːr zaj elʕoweːs wessokkari wezzebdija. koll noːʕ liːh tˤaʕm wemalmas moxtalif. ʔana baħibb elʕoweːs."
+  },
+  {
+    "text": "الجوافة البلدي ليها ريحة نفاذة وطعم حلو. عصير الجوافة باللبن مشروب شعبي ومغذي. شيل البذر قبل ما تعملها عصير.",
+    "g2p": "elgawwaːfa elbaladi liːha riːħa naffaːza wetˤaʕm ħelw. ʕasˤiːr elgawwaːfa bellaban maʃruːb ʃaʕbi wemoɣazzi. ʃiːl elbizr ʔabl ma tiʕmilha ʕasˤiːr."
+  },
+  {
+    "text": "الرمان مفيد للأنيميا عشان فيه حديد. بيقوي الدم وبينضف الجسم. عصير الرمان الطبيعي تحفة.",
+    "g2p": "errommaːn mofiːd lelʔaniːmja ʕaʃaːn fiːh ħadiːd. bijʔawwi eddamm webijnadˤdˤaf elgism. ʕasˤiːr errommaːn etˤtˤabiːʕi toħfa."
+  },
+  {
+    "text": "الليمون بالنعناع مشروب منعش جداً في الصيف. بيساعد على الهضم وبيرطب الجسم. ضيف عليه تلج كتير.",
+    "g2p": "ellimuːn bennaʕnaːʕ maʃruːb monʕiʃ giddan fesˤsˤeːf. bijsaːʕid ʕala elhadˤm webijratˤtˤib elgism. dˤiːf ʕaleːh talg kitiːr."
+  },
+  {
+    "text": "الخيار بيحتوي على نسبة عالية من المية. عشان كده مرطب وخفيف على المعدة. بنستخدمه في السلطات ومع الطعمية.",
+    "g2p": "elxijaːr bijiħtawi ʕala nisba ʕalja men elmajja. ʕaʃaːn kida moratˤtˤib wexafiːf ʕala elmeʕda. binistaɣdimu fesˤsˤalatˤaːt wemaʕa etˤtˤaʕmijja."
+  },
+  {
+    "text": "الطماطم ليها فوايد كتير بس كترها ممكن يعمل حموضة. بنستخدمها في الصلصة والسلطة ومعظم الأكلات المصرية.",
+    "g2p": "etˤtˤamaːtˤim liːha fawajid kitiːr bas kotraha momken jiʕmel ħomuːdˤa. binistaɣdimha fesˤsˤalsˤa wesˤsˤalatˤa wemoʕzˤam elʔakalaːt elmasˤrijja."
+  },
+  {
+    "text": "الخس والجرجير والفجل والبصل الأخضر طبق سلطة متكامل. مليان ألياف وفيتامينات ومعادن. مفيد جداً مع أي أكل.",
+    "g2p": "elxass welgargiːr welfigl welbasˤal elʔaxdˤar tˤabaʔ salatˤa motakaːmil. maljaːn ʔaljaːf wefitaminaːt wemaʕaːdin. mofiːd giddan maʕa ʔajj ʔakl."
+  },
+  {
+    "text": "البصل ني أو مطبوخ ليه فوايد كتير. بيقتل البكتيريا وبيقوي المناعة. دموع البصل دليل على قوته.",
+    "g2p": "elbasˤal najj ʔaw matˤbuːx liːh fawajid kitiːr. bijuʔtol elbaktiːrija webijʔawwi elmanaːʕa. domoːʕ elbasˤal daliːl ʕala ʔowwitu."
+  },
+  {
+    "text": "التوم صيدلية كاملة. بيخفض الضغط والكوليسترول وبيقوي القلب. فص توم على الريق الصبح مفيد جداً.",
+    "g2p": "ettoːm sˤajdalijja kamla. bijixfidˤ edˤdˤaɣtˤ welkolestroːl webijʔawwi elʔalb. fasˤsˤ tuːm ʕala erriːʔ esˤsˤobħ mofiːd giddan."
+  },
+  {
+    "text": "البطاطس المحمرة كل الأطفال بيحبوها. بس كترها مضر عشان الزيت. البطاطس المسلوقة أو المشوية أصح.",
+    "g2p": "elbatˤaːtˤis elmeħammara koll elʔatˤfaːl bijħibbuːha. bas kotraha modˤerr ʕaʃaːn ezzeːt. elbatˤaːtˤis elmasluːʔa ʔaw elmaʃwijja ʔasˤaħħ."
+  },
+  {
+    "text": "الفول النابت شوربته مفيدة جداً للمعدة. بينضف القولون وبيساعد على الهضم. أكلة شتوية أصيلة.",
+    "g2p": "elfuːl ennaːbit ʃorbitu mofiːda giddan lelmeʕda. bijnadˤdˤaf elqawloːn webijsaːʕid ʕala elhadˤm. ʔakla ʃitwijja ʔasˤiːla."
+  },
+  {
+    "text": "شوربة العدس الأصفر بالشعرية والجزر والبطاطس وجبة متكاملة. بتدفي في الشتا ومغذية جداً. قدمها مع عيش محمص.",
+    "g2p": "ʃorbit elʕads elʔasˤfar beʃʃiʕrijja welgazar welbatˤaːtˤis wagba motakamla. bitdaffi feʃʃita wemoɣazzija giddan. ʔaddimha maʕa ʕeːʃ moħammasˤ."
+  },
+  {
+    "text": "الرز المعمر باللبن والقشطة والزبدة أكلة فلاحي دسمة ولذيذة. بتتعمل في الفرن وبتاخد وش دهبي.",
+    "g2p": "erroz elmiʕammar bellaban welʔiʃtˤa wezzibda ʔakla fallaːħi dasma welaziːza. bititʕimil felkorn witaxud weʃʃ dahabi."
+  },
+  {
+    "text": "المكرونة بالصلصة الحمرا واللحمة المفرومة أكلة سهلة وسريعة. كل الناس بتحبها. رشة جبنة رومي بتخليها أحلى.",
+    "g2p": "elmakaroːna besˤsˤalsˤa elħamra wellaħma elmafruːma ʔakla sahla wesariːʕa. koll ennaːs bitħibbaha. raʃʃit gibna ruːmi bitxalliːha ʔaħla."
+  },
+  {
+    "text": "العيش الفينو بنعمل منه سندوتشات للمدرسة والشغل. طري وهش. ممكن نحشيه جبنة أو لانشون أو مربى.",
+    "g2p": "elʕeːʃ elfiːno biniʕmel minnu sandwitʃaːt lelmadrasa weʃʃoɣl. tˤari wehaʃʃ. momken niħʃiːh gibna ʔaw lanʃon ʔaw morabba."
+  },
+  {
+    "text": "اللحمة المشوية على الفحم ليها طعم مميز. بتتقدم مع سلطات وطحينة وعيش بلدي. أكلة مناسبة للعزومات.",
+    "g2p": "ellaħma elmaʃwijja ʕala elfaħm liːha tˤaʕm momajjaz. bititʔaddim maʕa salatˤaːt wetˤeħiːna weʕeːʃ baladi. ʔakla monasba lelʕozuːmaːt."
+  },
+  {
+    "text": "الفراخ البانيه سهلة وسريعة التحضير. الأطفال بيحبوها جداً. ممكن تتقدم مع مكرونة أو بطاطس محمرة.",
+    "g2p": "elfaraːx elbaneːh sahla wesariːʕit ettaħdˤiːr. elʔatˤfaːl bijħibbuːha giddan. momken titʔaddim maʕa makaroːna ʔaw batˤaːtˤis meħammara."
+  },

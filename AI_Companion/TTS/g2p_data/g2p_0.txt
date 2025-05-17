@@ -1,0 +1,926 @@
+[
+  {
+    "text": "صباح الخير يا صاحبي. عامل ايه النهاردة؟ أنا الحمد لله كويس ومبسوط.",
+    "g2p": "sabaa7 elkheer ya sa7by. 3aamel eeh ennaharda? ana el7amdu lillaah kwayyes wemabsooT."
+  },
+  {
+    "text": "مساء النور. أخبارك ايه؟ يارب تكون بخير دايماً.",
+    "g2p": "masaa2 ennoor. akhbaarak eeh? ya rab tekoon bekheer dayman."
+  },
+  {
+    "text": "ازيك يا أحمد؟ كل حاجة تمام؟ أنا شوية مشغول اليومين دول.",
+    "g2p": "ezzayyak ya a7mad? kol 7aaga tamaam? ana shwayya mashghool elyomeen dool."
+  },
+  {
+    "text": "أهلاً بيك. أنا كويس جداً، شكراً لسؤالك. وأنت عامل ايه؟",
+    "g2p": "ahlan beek. ana kwayyes geddan, shokran leso2aalak. wenta 3aamel eeh?"
+  },
+  {
+    "text": "أنا رايح الشغل دلوقتي. عندي اجتماع مهم الصبح. هرجع متأخر النهاردة.",
+    "g2p": "ana raaye7 eshshoghl delwa2ty. 3andy egtmaa3 mohem eSSob7. harga3 met2akhkhar ennaharda."
+  },
+  {
+    "text": "أنا باكل كشري في مطعم أبو طارق. الكشري هنا طعمه تحفة. لازم تجربه.",
+    "g2p": "ana baakol koshary fe maT3am abo Taare2. elkoshary hena Ta3mo to7fa. laazem tegarrabo."
+  },
+  {
+    "text": "أنا بشرب قهوة سادة الصبح. القهوة بتفوقني وتخليني أركز. بحب ريحة البن.",
+    "g2p": "ana bashrab 2ahwa saada eSSob7. el2ahwa betfawe2ny wetkhalleeny arakkez. ba7ebb rii7et elbonn."
+  },
+  {
+    "text": "أنا بتفرج على ماتش الأهلي والزمالك. الماتش حماسي جداً. يارب الأهلي يكسب.",
+    "g2p": "ana batfarrag 3ala match elahly wezzamaalek. elmatch 7amaasy geddan. ya rab elahly yeksab."
+  },
+  {
+    "text": "أنا بذاكر عشان عندي امتحان بكرة. المادة صعبة شوية. ادعيلي بالتوفيق.",
+    "g2p": "ana bazaaker 3ashaan 3andy emte7aan bokra. elmadda Sa3ba shwayya. ed3eely bettawfee2."
+  },
+  {
+    "text": "الجو حر أوي النهاردة. درجة الحرارة عالية جداً. محتاجين نشرب مية كتير.",
+    "g2p": "elgaww 7arr 2awy ennaharda. daraget el7araara 3alya geddan. me7tageen neshrab mayya keteer."
+  },
+  {
+    "text": "الأكل المصري جميل ومتنوع. أنا بحب الملوخية والمحشي. ايه أكلتك المفضلة؟",
+    "g2p": "el2akl elmaSry gameel wemetnawwa3. ana ba7ebb elmolokheyya welma7shy. eeh akletak elmofADDala?"
+  },
+  {
+    "text": "الفيلم الجديد في السينما شكله حلو. عايز أروح أشوفه نهاية الأسبوع. تحب تيجي معايا؟",
+    "g2p": "elfilm elgideed fessenema shaklo 7elw. 3aayez aroo7 ashoofo nehaayet el2osboo3. te7ebb teegy ma3aaya?"
+  },
+  {
+    "text": "الكتاب ده مفيد جداً. فيه معلومات قيمة. أنصحك تقراه.",
+    "g2p": "elkitaab da mofeed geddan. feeh ma3loomaat qayyema. anSa7ak te2raah."
+  },
+  {
+    "text": "العربية دي شكلها شيك وسريعة. بس سعرها غالي أوي. نفسي في واحدة زيها.",
+    "g2p": "el3arabeyya di shaklaha shiik wesarii3a. bass se3raha ghaaly 2awy. nefsy fe wa7da zayyaha."
+  },
+  {
+    "text": "المدرسة بتاعتنا كبيرة ونضيفة. المدرسين فيها كويسين. بحب أروح المدرسة كل يوم.",
+    "g2p": "elmadrasa beta3etna kibiira weniDiifa. elmodarresiin fiiha kwayyesiin. ba7ebb aroo7 elmadrasa kol yoom."
+  },
+  {
+    "text": "الحياة في القاهرة زحمة وصعبة أحياناً. بس فيها حاجات حلوة كتير. أنا بحب القاهرة.",
+    "g2p": "el7ayaah felqaahira za7ma weSa3ba a7yaanan. bas fiiha 7agaat 7elwa keteer. ana ba7ebb elqaahira."
+  },
+  {
+    "text": "الشمس طالعة والجو جميل. يلا بينا نروح النادي. نلعب رياضة شوية.",
+    "g2p": "eshshams Tal3a welgaww gameel. yalla biina neroo7 ennaady. nel3ab reyaaDa shwayya."
+  },
+  {
+    "text": "الساعة كام دلوقتي؟ أنا متأخر على الميعاد. لازم أمشي بسرعة.",
+    "g2p": "essaa3a kaam delwa2ty? ana met2akhkhar 3almee3aad. laazem amshy besor3a."
+  },
+  {
+    "text": "بكام القميص ده؟ عاجبني لونه وخامته. ممكن أقيسه؟",
+    "g2p": "bekaam el2ameeS da? 3aagebny loono wekhamto. momken a2iiso?"
+  },
+  {
+    "text": "انت فين يا صاحبي؟ مستنيك بقالي ساعة. خلص وتعالى بسرعة.",
+    "g2p": "enta feen ya sa7by? mestanniik ba2aaly saa3a. khallaS weta3aala besor3a."
+  },
+  {
+    "text": "ايه الأخبار الجديدة؟ سمعت حاجة عن الموضوع؟ طمني عليك.",
+    "g2p": "eeh el2akhbaar elgidiida? seme3t 7aaga 3annelmawDoo3? Tammenny 3aleek."
+  },
+  {
+    "text": "ممكن تساعدني في الموضوع ده؟ أنا محتاج رأيك ضروري. شكراً مقدماً.",
+    "g2p": "momken tsaa3edny felmawDoo3 da? ana me7taag ra2yak Daroory. shokran moqaddaman."
+  },
+  {
+    "text": "أنا عايز أطلب أوردر أونلاين. الموقع ده فيه تخفيضات كويسة. هشتري منه كام حاجة.",
+    "g2p": "ana 3aayez aTlob order online. elmawqe3 da fiih takhfiiDaat kwayyesa. hashtiry menno kaam 7aaga."
+  },
+  {
+    "text": "أنا بحب أسافر كتير. السفر بيفتح العقل وبيعرفنا على ثقافات جديدة. أحسن بلد زرتها كانت ايطاليا.",
+    "g2p": "ana ba7ebb asaafer keteer. essafar beyfta7 el3a2l webey3arrafna 3ala thaqafaat gidiida. a7san balad zortaha kaanet iTaalya."
+  },
+  {
+    "text": "الرياضة مهمة جداً للصحة. أنا بلعب كورة كل أسبوع. بحس بنشاط وحيوية بعدها.",
+    "g2p": "erreyaaDa mohemma geddan leSSe77a. ana bal3ab koora kol osboo3. ba7ess benashaaT we7ayaweyya ba3daha."
+  },
+  {
+    "text": "القراءة هوايتي المفضلة. بقضي وقت فراغي في قراءة الروايات والكتب التاريخية. بتعلم منها كتير.",
+    "g2p": "elqeraa2a hewaayety elmofaDDala. ba2aDDy wa2t faraaghy fe qeraa2et errewayaat welkotob ettariikheyya. bat3allem menha keteer."
+  },
+  {
+    "text": "عندي قطة صغيرة في البيت. اسمها لولو. بحب ألعب معاها جداً.",
+    "g2p": "3andy oTTa Soghayyara felbeet. esmaha lulu. ba7ebb al3ab ma3aaha geddan."
+  },
+  {
+    "text": "أنا بتعلم لغة جديدة الأيام دي. اللغة الألمانية صعبة بس ممتعة. نفسي أتكلمها بطلاقة.",
+    "g2p": "ana bat3allem logha gidiida el2ayyaam di. ellogha el2almaany Sa3ba bas momte3a. nefsy atkallemha beTalaaqa."
+  },
+  {
+    "text": "امبارح كان عيد ميلادي. أصحابي عملولي مفاجأة حلوة. اتبسطت جداً بالهدايا.",
+    "g2p": "embaare7 kaan 3iid milaady. aS7aaby 3amalooly mofag2a 7elwa. etbasaTt geddan belhadaaya."
+  },
+  {
+    "text": "أنا بحاول أكل أكل صحي. الخضار والفاكهة مفيدين للجسم. بقلل السكر والدهون.",
+    "g2p": "ana ba7aawel aakol akl Se77y. elkhoDaar welfakha mofidiin lelgesm. ba2allel essokkar weddohoon."
+  },
+  {
+    "text": "النهاردة الجو برد شوية. لازم نلبس جاكيت تقيل. الشتا قرب ييجي.",
+    "g2p": "ennaharda elgaww bard shwayya. laazem nelbes jaket te2eel. eshsheta 2arrab yeegy."
+  },
+  {
+    "text": "أنا رايح أزور جدي وجدتي. وحشوني جداً. هقعد معاهم طول اليوم.",
+    "g2p": "ana raaye7 azoor geddy wegeddety. wa7ashoony geddan. ha23od ma3aahom Tool elyoom."
+  },
+  {
+    "text": "الشارع ده زحمة على طول. العربيات كتير والصوت عالي. بكره أمشي فيه.",
+    "g2p": "eshshaare3 da za7ma 3ala Tool. el3arabeyyaat keteer weSSoot 3aaly. bakrah amshy feeh."
+  },
+  {
+    "text": "أنا عايز أغير موبايلي. موبايلي القديم بقى بطيء. بفكر أشتري آيفون جديد.",
+    "g2p": "ana 3aayez aghayyar mobily. mobily el2adeem ba2a baTee2. bafakkar ashteery iphone gideed."
+  },
+  {
+    "text": "النت فاصل عندي من الصبح. مش عارف أشتغل ولا أعمل أي حاجة. الشركة قالت هيصلحوه قريب.",
+    "g2p": "ennet faaSel 3andy men eSSob7. mesh 3aaref ashtaghal wala a3mel ay 7aaga. eshsherka 2aalet haySalla7ooh 2orayyeb."
+  },
+  {
+    "text": "بحب أسمع موسيقى هادية وأنا بشتغل. بتساعدني أركز وأنجز شغلي بسرعة. عمرو دياب هو مطربي المفضل.",
+    "g2p": "ba7ebb asma3 mosiiqa hadya wana bashtaghal. betsA3edny arakkez wa2ngez shoghly besor3a. 3amr diab howa moTreby elmofaDDal."
+  },
+  {
+    "text": "مصر بلد جميلة وفيها آثار عظيمة. الأهرامات وأبو الهول من عجائب الدنيا. لازم كل الناس تزورها.",
+    "g2p": "maSr balad gameela wefiiha aathaar 3aZiima. el2ahramaat wa2abolhool men 3agaa2eb eddonya. laazem kol ennaas tezorha."
+  },
+  {
+    "text": "أنا تعبان شوية النهاردة. شكلي خدت برد. هروح بدري عشان أرتاح.",
+    "g2p": "ana ta3baan shwayya ennaharda. shakly khadt bard. haroo7 badry 3ashaan artaa7."
+  },
+  {
+    "text": "القهوة بتاعتك دي مظبوطة. تسلم ايدك. ممكن طريقة عملها؟",
+    "g2p": "el2ahwa beta3tak di maZbooTa. teslam iidak. momken Tarii2et 3amalha?"
+  },
+  {
+    "text": "بكرة الجمعة يعني أجازة. هنام براحتي وأخرج أتفسح. أحلى يوم في الأسبوع.",
+    "g2p": "bokra elgom3a ya3ny agaaza. hanaam beraa7ty wa2khrog atfassa7. a7la yoom fel2osboo3."
+  },
+  {
+    "text": "أنا جعان جداً. عايز أكل أي حاجة بسرعة. ممكن نعمل سندوتشات جبنة؟",
+    "g2p": "ana ga3aan geddan. 3aayez aakol ay 7aaga besor3a. momken ne3mel sandwetshaat gebna?"
+  },
+  {
+    "text": "أنا بحب فصل الصيف عشان البحر والمصيف. الجو بيكون حر بس المية بتبقى حلوة. نفسي أروح اسكندرية.",
+    "g2p": "ana ba7ebb faSl eSSeef 3ashaan elba7r welmaSyaf. elgaww beykoon 7arr bas elmayya beteb2a 7elwa. nefsy aroo7 eskendereyya."
+  },
+  {
+    "text": "اللون الأزرق هو لوني المفضل. بحس انه لون مريح للعين. معظم لبسي لونه أزرق.",
+    "g2p": "elloon el2azra2 howa loony elmofaDDal. ba7ess enno loon morii7 lel3een. mo3Zam lebsy loono azra2."
+  },
+  {
+    "text": "عندي معاد مع دكتور السنان بكرة. سناني بتوجعني شوية. يارب الموضوع يكون بسيط.",
+    "g2p": "3andy ma3aad ma3a doktoor essenan bokra. senaany betewga3ny shwayya. ya rab elmawDoo3 yekoon baseeT."
+  },
+  {
+    "text": "أنا عايز أتعلم طبخ. نفسي أعمل أكلات حلوة زي ماما. الطبخ فن جميل.",
+    "g2p": "ana 3aayez at3allem Tabkh. nefsy a3mel akalaat 7elwa zay mama. eTTabkh fann gameel."
+  },
+  {
+    "text": "المواصلات في مصر صعبة أوي. الزحمة بتضيع وقت كتير. محتاجين حل للمشكلة دي.",
+    "g2p": "elmowaSlaat fe maSr Sa3ba 2awy. ezza7ma betDayya3 wa2t keteer. me7tageen 7all lelmeshkela di."
+  },
+  {
+    "text": "أنا فرحان عشان جبت تقدير كويس في الامتحان. المذاكرة جابت نتيجة. الحمد لله.",
+    "g2p": "ana far7aan 3ashaan gebt ta2deer kwayyes felemte7aan. elmozakra gaabet natiiga. el7amdu lillaah."
+  },
+  {
+    "text": "النهاردة هعمل كيكة شيكولاتة. بحب ريحة الكيكة وهي في الفرن. الولاد هيفرحوا بيها أوي.",
+    "g2p": "ennaharda ha3mel kiika shokolaata. ba7ebb rii7et elkiika weheyya felkorn. elwelaad hayefra7o biiha 2awy."
+  },
+  {
+    "text": "أنا بحب أتمشى على النيل بالليل. الجو بيكون هادي والمنظر جميل. بحس براحة نفسية.",
+    "g2p": "ana ba7ebb atmashsha 3alenniil belleel. elgaww beykoon haady welmanZar gameel. ba7ess beraa7a nafseyya."
+  },
+  {
+    "text": "لازم نشتري طلبات البيت النهاردة. التلاجة فضيت خالص. هنروح السوبر ماركت بالليل.",
+    "g2p": "laazem neshtery Talabaat elbeet ennaharda. ettallaaga feDyet khaaleS. haneroo7 essupermarket belleel."
+  },
+  {
+    "text": "أنا نازل أجيب فطار. عايز فول وطعمية سخنين. أحلى فطار مصري.",
+    "g2p": "ana naazel agiib feTaar. 3aayez fuul weTa3meyya sokhniin. a7la feTaar maSry."
+  },
+  {
+    "text": "الكهربا قطعت فجأة. الجو حر ومش عارفين نشغل التكييف. يارب تيجي بسرعة.",
+    "g2p": "elkahraaba 2aTa3et fag2a. elgaww 7arr wemesh 3arfiin neshaghghal ettakyiif. ya rab teegy besor3a."
+  },
+  {
+    "text": "صوتي رايح خالص النهاردة. شكلي هتكلم بالإشارة. محتاج أشرب حاجة سخنة.",
+    "g2p": "Sooty raaye7 khaaleS ennaharda. shakly hatkallem bel2eshaara. me7taag ashrab 7aaga sokhna."
+  },
+  {
+    "text": "أنا بحب التاريخ المصري القديم. الفراعنة كانوا حضارة عظيمة. نفسي أزور الأقصر وأسوان.",
+    "g2p": "ana ba7ebb ettariikh elmaSry el2adeem. elfara3na kaano 7aDaara 3aZiima. nefsy azoor el2oqSor wa2aswaan."
+  },
+  {
+    "text": "الامتحان كان سهل الحمد لله. جاوبت على كل الأسئلة. أتمنى أجيب درجة كويسة.",
+    "g2p": "elemte7aan kaan sahl el7amdu lillaah. gawebt 3ala kol el2as2ela. atmanna agiib daraga kwayyesa."
+  },
+  {
+    "text": "أنا بتعلم سواقة الأيام دي. السواقة محتاجة تركيز وهدوء. خايف شوية بس متحمس.",
+    "g2p": "ana bat3allem sewaa2a el2ayyaam di. essewaa2a me7taaga tarkiiz wehodoo2. khaayef shwayya bas met7ammes."
+  },
+  {
+    "text": "الجو النهاردة مغيم وشكله هيمطر. بحب ريحة المطر أوي. يارب تكون مطرة خير.",
+    "g2p": "elgaww ennaharda meghayyem weshaklo hayemTor. ba7ebb rii7et elmaTar 2awy. ya rab tekoon maTaret kheer."
+  },
+  {
+    "text": "أنا محتاج أجازة ضروري. حاسس بإرهاق وتعب من الشغل. نفسي أسافر أغير جو.",
+    "g2p": "ana me7taag agaaza Daroory. 7aases be2erhaaq weta3ab men eshshoghl. nefsy asaafer aghayyar gaww."
+  },
+  {
+    "text": "عيد الأضحى قرب كل سنة وانتوا طيبين. هنشتري خروف العيد. بحب لمة العيلة في العيد.",
+    "g2p": "3iid el2aD7a 2arrab kol sana wento Tayyebiin. haneshtery kharoof el3iid. ba7ebb lammet el3eela fel3iid."
+  },
+  {
+    "text": "الكمبيوتر بتاعي بطيء جداً ومحتاج يتغير. بفكر أجمع كمبيوتر جديد بمواصفات عالية. عشان الألعاب والشغل.",
+    "g2p": "elkombyooter beta3y baTii2 geddan weme7taag yetghayyar. bafakkar agamma3 kombyooter gideed bemowaSafaat 3alya. 3ashaan el2al3aab weshshoghl."
+  },
+  {
+    "text": "رمضان كريم عليكم جميعاً. شهر الصيام والعبادة والخير. بحب أجواء رمضان جداً.",
+    "g2p": "ramaDaan kariim 3aleekom gamii3an. shahr eSSeyaam wel3ebaada welkheer. ba7ebb agwaa2 ramaDaan geddan."
+  },
+  {
+    "text": "أنا رايح المكتبة أستعير كام كتاب. القراءة بتوسع المدارك. بحب أقرأ في مجالات مختلفة.",
+    "g2p": "ana raaye7 elmaktaba asta3iir kaam kitaab. elqeraa2a betwassa3 elmadaarek. ba7ebb a2ra fe magaalaat mokhtalefa."
+  },
+  {
+    "text": "الطقس النهاردة متقلب. الصبح كان حر ودلوقتي الجو برد. لازم ناخد بالنا.",
+    "g2p": "eTTa2s ennaharda mota2alleb. eSSob7 kaan 7arr wedelwa2ty elgaww bard. laazem naakhod balna."
+  },
+  {
+    "text": "أنا بحاول أنظم وقتي كويس. بعمل جدول للمهام اليومية. التنظيم بيساعد على الإنجاز.",
+    "g2p": "ana ba7aawel anaZZam wa2ty kwayyes. ba3mel gadwal lelmahaam elyawmeyya. ettanZiim beysaa3ed 3al2engaaz."
+  },
+  {
+    "text": "النوم بدري والصحيان بدري مفيد للصحة. بحاول أغير نظام نومي. بس السهر حلو برضه.",
+    "g2p": "ennoom badry weSSa7ayaan badry mofeed leSSe77a. ba7aawel aghayyar nezaam noomy. bass essahar 7elw barDo."
+  },
+  {
+    "text": "عندي مشوار مهم في وسط البلد النهاردة. المشكلة ان وسط البلد دايماً زحمة. هحاول أروح بدري.",
+    "g2p": "3andy meshwaar mohem fe weST elbalad ennaharda. elmoshkela en weST elbalad dayman za7ma. ha7aawel aroo7 badry."
+  },
+  {
+    "text": "أنا بفكر أبدأ مشروع صغير خاص بيا. محتاج أدرس السوق كويس. الموضوع محتاج تخطيط ومجهود.",
+    "g2p": "ana bafakkar abda2 mashroo3 Soghayyar khaaS beyya. me7taag adros essoo2 kwayyes. elmawDoo3 me7taag takhTiiT wemaghood."
+  },
+  {
+    "text": "الأخبار النهاردة فيها حاجات كتير مهمة. لازم أتابع نشرة الأخبار. عشان أعرف ايه اللي بيحصل في الدنيا.",
+    "g2p": "el2akhbaar ennaharda fiiha 7agaat keteer mohemma. laazem ataabe3 nashret el2akhbaar. 3ashaan a3raf eeh elly bye7Sal feddonya."
+  },
+  {
+    "text": "أنا بحب أطبخ أكلات جديدة ومختلفة. بجرب وصفات من النت. ساعات بتطلع حلوة وساعات لأ.",
+    "g2p": "ana ba7ebb aTbokh akalaat gidiida wemokhtalefa. bagarrab waSafaat men ennet. sa3aat beteTla3 7elwa wesa3aat la2."
+  },
+  {
+    "text": "التكنولوجيا غيرت حياتنا خالص. كل حاجة بقت أسهل وأسرع. بس ليها سلبيات برضه.",
+    "g2p": "etteknologya ghayyaret 7ayatna khaaleS. kol 7aaga ba2et ashal wa2asra3. bas liiha salbeyyaat barDo."
+  },
+  {
+    "text": "الورد جميل جداً وبيدي بهجة للمكان. بحب أشتري ورد وأحطه في البيت. ريحته حلوة أوي.",
+    "g2p": "elward gameel geddan webeyeddy bahga lelmakkan. ba7ebb ashteery ward wa2a7oTTo felbeet. rii7to 7elwa 2awy."
+  },
+  {
+    "text": "أنا عايز أعمل عمرة قريب. نفسي أزور الكعبة والمدينة المنورة. يارب يكتبهالي.",
+    "g2p": "ana 3aayez a3mel 3omra 2orayyeb. nefsy azoor elka3ba welmadiina elmonawwara. ya rab yektebhaaly."
+  },
+  {
+    "text": "الضحك مفيد للصحة وبيقلل التوتر. بحب أتفرج على أفلام كوميدي. بتخليني أنسى أي هموم.",
+    "g2p": "eDDe7k mofeed leSSe77a webey2allel ettawattor. ba7ebb atfarrag 3ala aflaam komiidy. betkhalliiny ansa ay homoom."
+  },
+  {
+    "text": "أنا بحاول أتعلم الصبر. الحياة فيها تحديات كتير. الصبر مفتاح الفرج.",
+    "g2p": "ana ba7aawel at3allem eSSabr. el7ayaah fiiha ta7addeyaat keteer. eSSabr moftaa7 elfaraag."
+  },
+  {
+    "text": "عندي عزومة كبيرة بكرة. لازم أجهز الأكل من النهاردة. يارب الأكل يعجبهم.",
+    "g2p": "3andy 3ozooma kibiira bokra. laazem agahhez el2akl men ennaharda. ya rab el2akl ye3gebhom."
+  },
+  {
+    "text": "أنا بحب أكتب خواطر وقصص قصيرة. الكتابة بتخليني أعبر عن مشاعري. نفسي أنشر كتاب ليا في يوم من الأيام.",
+    "g2p": "ana ba7ebb akteb khawaaTer weqeSaS qaSiira. elkitaaba betkhalliiny a3abbar 3an masha3ry. nefsy anshor kitaab leyya fe yoom men el2ayyaam."
+  },
+  {
+    "text": "الطفولة أحلى أيام العمر. كلها براءة ولعب. ياريت الأيام دي ترجع تاني.",
+    "g2p": "eTTofoola a7la ayyaam el3omr. kollaha baraa2a wele3b. ya reet el2ayyaam di terga3 taany."
+  },
+  {
+    "text": "أنا بحب أساعد الناس على قد ما أقدر. مساعدة الغير بتدي إحساس بالسعادة. العمل التطوعي مهم.",
+    "g2p": "ana ba7ebb asaa3ed ennaas 3ala 2add ma a2dar. mosa3det elgheer beteddy e7saas bessa3aada. el3amal ettaTawwo3y mohem."
+  },
+  {
+    "text": "الخضروات الطازجة مهمة لنظام غذائي صحي. بحاول أكل سلطة كل يوم. مليانة فيتامينات ومعادن.",
+    "g2p": "elkhoDrawaat eTTaazga mohemma lenezaam ghezaa2y Se77y. ba7aawel aakol salaTa kol yoom. malyaana vitaminat wema3aaden."
+  },
+  {
+    "text": "أنا بستمتع بمشاهدة الأفلام الوثائقية. بتعلم منها حاجات جديدة عن العالم. خصوصاً عن الطبيعة والحيوانات.",
+    "g2p": "ana bastamte3 bemoshahdet el2aflaam elwathaa2eqeyya. bat3allem menha 7agaat gidiida 3an el3aalam. khoSooSan 3an eTTabii3a wel7ayawanaat."
+  },
+  {
+    "text": "النجاح محتاج مجهود وتعب وصبر. مفيش حاجة بتيجي بالساهل. لازم نشتغل على نفسنا كويس.",
+    "g2p": "ennagaa7 me7taag maghood weta3ab weSabr. mafiish 7aaga beteggy bessaahel. laazem neshtaghal 3ala nafsena kwayyes."
+  },
+  {
+    "text": "أنا بحب أزور المتاحف والمعارض الفنية. الفن بيعبر عن ثقافة الشعوب. بستمتع بجمال اللوحات والمنحوتات.",
+    "g2p": "ana ba7ebb azoor elmataa7ef welma3aareD elfanniyya. elfann bey3abbar 3an thaqafet eshsho3oob. bastamte3 begamaal ellaw7aat welman7ootaat."
+  },
+  {
+    "text": "العائلة هي أهم حاجة في الدنيا. السند والدعم الحقيقي. ربنا يخليهم ليا.",
+    "g2p": "el3aa2ela heyya ahamm 7aaga feddonya. essanad wedda3m el7a2ii2y. rabbena yekhalliihom leyya."
+  },
+  {
+    "text": "أنا بحب أسمع أغاني فيروز الصبح. صوتها بيريح الأعصاب. بحس بهدوء وسلام.",
+    "g2p": "ana ba7ebb asma3 aghaany fayrooz eSSob7. Sotha beyrayya7 el2a3Saab. ba7ess behodoo2 wesalaam."
+  },
+  {
+    "text": "الصدق منجاة والكذب مهلكة. لازم نكون صادقين في كل أقوالنا وأفعالنا. عشان ربنا يبارك لنا.",
+    "g2p": "eSSedq mangaah welkedb mahlaka. laazem nekoon Sadqiin fe kol aqwaalna wa2af3aalna. 3ashaan rabbena yebaarek lena."
+  },
+  {
+    "text": "أنا بحب أتعلم حاجات جديدة كل يوم. المعرفة ملهاش حدود. العلم نور والجهل ظلام.",
+    "g2p": "ana ba7ebb at3allem 7agaat gidiida kol yoom. elma3refa malhaash 7odood. el3elm noor welgahl Zalaam."
+  },
+  {
+    "text": "العمل الجماعي بيحقق نتائج أفضل. كل واحد بيكمل التاني. التعاون أساس النجاح.",
+    "g2p": "el3amal elgamaa3y bey7a22a2 nataa2eg afDal. kol waa7ed beykammel ettaany. etta3aawon asaas ennagaa7."
+  },
+  {
+    "text": "أنا بحب أعمل حلويات شرقية في البيت. الكنافة والبقلاوة طعمهم روعة. بس سعراتهم عالية شوية.",
+    "g2p": "ana ba7ebb a3mel 7alaweyyaat shar2eyya felbeet. elkonaafa welba2laawa Ta3mohom raw3a. bass so3raathom 3alya shwayya."
+  },
+  {
+    "text": "التخطيط للمستقبل مهم جداً. لازم يكون عندنا أهداف واضحة. ونسعى لتحقيقها بكل طاقتنا.",
+    "g2p": "ettakhTiiT lelmosta2bal mohem geddan. laazem yekoon 3andena ahdaaf waD7a. wenas3a leta7qiiqha bekol Taqetna."
+  },
+  {
+    "text": "أنا بحب البحر جداً. منظر الأمواج وصوتها بيريحني. السباحة في البحر ممتعة أوي.",
+    "g2p": "ana ba7ebb elba7r geddan. manZar el2amwaag weSoot-ha beyrayya7ny. essebaa7a felba7r momte3a 2awy."
+  },
+  {
+    "text": "الأمانة صفة عظيمة. لازم نكون أمناء في كل تعاملاتنا. ربنا بيحب الأمين.",
+    "g2p": "el2amaana Sefa 3aZiima. laazem nekoon omana2 fe kol ta3amolaatna. rabbena bey7ebb el2amiin."
+  },
+  {
+    "text": "أنا بحب أشارك في الأعمال الخيرية. مساعدة المحتاجين واجب علينا. بتدي إحساس بالرضا عن النفس.",
+    "g2p": "ana ba7ebb ashaarek fel2a3maal elkhayreyya. mosa3det elme7taagiin waageb 3aleena. beteddy e7saas berreDa 3an ennafs."
+  },
+  {
+    "text": "الصديق الوفي كنز لا يفنى. لازم نختار أصحابنا كويس. الصاحب ساحب.",
+    "g2p": "eSSadiiq elwafy kenz la yafna. laazem nekhtaar aS7abna kwayyes. eSSaa7eb saa7eb."
+  },
+  {
+    "text": "أنا بحب أتابع أخبار التكنولوجيا والاختراعات الجديدة. العالم بيتطور بسرعة كبيرة. لازم نواكب التطور ده.",
+    "g2p": "ana ba7ebb ataabe3 akhbaar etteknologya welekhteraa3aat elgidiida. el3aalam beyTaTWar besor3a kibiira. laazem newaakeb ettaTawwor da."
+  },
+  {
+    "text": "الوقت كالسيف إن لم تقطعه قطعك. لازم نستغل كل دقيقة في حاجة مفيدة. عشان منندمش بعدين.",
+    "g2p": "elwa2t kassayf en lam taqTa3ho qaTa3ak. laazem nestaghell kol de2ii2a fe 7aaga mofiida. 3ashaan manendamesh ba3deen."
+  },
+  {
+    "text": "أنا بحب أزرع نباتات في البلكونة. الخضرة بتدي منظر جميل. وبتنقي الجو.",
+    "g2p": "ana ba7ebb azra3 nabataat felbalakona. elkhoDra beteddy manZar gameel. webetna22y elgaww."
+  },
+  {
+    "text": "التسامح صفة الأقوياء. لازم نسامح اللي غلط في حقنا. عشان قلوبنا تفضل نضيفة.",
+    "g2p": "ettasaamo7 Sefat el2aqweyaa2. laazem nesaame7 elly gheleT fe 7a22ena. 3ashaan qoloobna tefDal neDiifa."
+  },
+  {
+    "text": "أنا بحب المشي لمسافات طويلة. رياضة بسيطة ومفيدة جداً. بتحرق سعرات حرارية وبتحسن المزاج.",
+    "g2p": "ana ba7ebb elmashy lemasafaat Tawiila. reyaaDa basiiTa wemofiida geddan. bete7ra2 so3raat 7arareyya wet7assen elmazaag."
+  },
+  {
+    "text": "الاحترام المتبادل أساس أي علاقة ناجحة. لازم نحترم آراء بعض. حتى لو مختلفين.",
+    "g2p": "el2e7teraam elmotabaadel asaas ay 3elaaqa nag7a. laazem ne7terem aaraa2 ba3D. 7atta law mokhtelfiin."
+  },
+  {
+    "text": "أنا بحب أجمع الطوابع والعملات القديمة. هواية ممتعة ومفيدة. بتعرفني على تاريخ الدول.",
+    "g2p": "ana ba7ebb agamma3 eTTawaabe3 wel3omlaat el2adiima. hewaaya momte3a wemofiida. bet3arrafny 3ala tariikh eddowal."
+  },
+  {
+    "text": "الابتسامة في وش أخيك صدقة. أبسط حاجة ممكن تقدمها للناس. وبتنشر طاقة إيجابية.",
+    "g2p": "el2ebtesaama fe wesh akhiik Sadaqa. absaT 7aaga momken te2addemha lennaas. webetnshor Taaqa iigaabeyya."
+  },
+  {
+    "text": "أنا بحب أتعلم مهارات يدوية زي الكروشيه والرسم. بتساعد على التركيز والإبداع. وبطلع منها منتجات جميلة.",
+    "g2p": "ana ba7ebb at3allem maharaat yadaweyya zay elkrosheeh werrasm. betsaa3ed 3ala ettarkiiz wel2ebdaa3. webaTla3 menha montagaat gameela."
+  },
+  {
+    "text": "الحفاظ على البيئة مسئوليتنا كلنا. لازم نقلل استخدام البلاستيك. ونحافظ على نظافة كوكبنا.",
+    "g2p": "el7efaaZ 3albi2a mas2oleyyeetna kollena. laazem ne2allel estekhdaam elblastek. wene7aafeZ 3ala naZaafet kawkabna."
+  },
+  {
+    "text": "أنا بحب أجرب أنواع مختلفة من الشاي. كل نوع ليه طعم وريحة مميزة. الشاي الأخضر مفيد جداً.",
+    "g2p": "ana ba7ebb agarrab anwaa3 mokhtalefa men eshshaay. kol noo3 leeh Ta3m werii7a momayyaza. eshshaay el2akhDar mofeed geddan."
+  },
+  {
+    "text": "الأمل هو اللي بيدينا قوة نكمل. مهما كانت الظروف صعبة. لازم دايماً يكون عندنا أمل في بكرة أحسن.",
+    "g2p": "el2amal howa elly beyeddiina qowwa nekammel. mahma kaanet eZZoroof Sa3ba. laazem dayman yekoon 3andena amal fe bokra a7san."
+  },
+  {
+    "text": "أنا بحب أقرأ عن علم النفس وتطوير الذات. بحاول أفهم نفسي والناس أكتر. عشان أعيش حياة أفضل.",
+    "g2p": "ana ba7ebb a2ra 3an 3elm ennafs weTaTwiir ezzaat. ba7aawel afham nafsy wennaas aktar. 3ashaan a3iish 7ayaah afDal."
+  },
+  {
+    "text": "الشكر لله على كل نعمه. الصحة والستر وراحة البال أهم النعم. الحمد لله دائماً وأبداً.",
+    "g2p": "eshshokr lillaah 3ala kol ne3amo. eSSe77a wessatr weraa7et elbaal ahamm enne3am. el7amdu lillaah daa2eman wa2abadan."
+  },
+  {
+    "text": "أنا بحب أتابع الأفلام الكلاسيكية القديمة. فيها فن وقصص جميلة. بتمثل فترة زمنية مختلفة.",
+    "g2p": "ana ba7ebb ataabe3 el2aflaam elklasiikeyya el2adiima. fiiha fann weqeSaS gameela. betmassel fatra zamaneyya mokhtalefa."
+  },
+  {
+    "text": "الاجتهاد في العمل والدراسة أساس التقدم. ربنا مبيضيعش تعب حد. كل مجتهد نصيب.",
+    "g2p": "el2egtehaad fel3amal wedderasa asaas ettaqaddom. rabbena mabeyDayya3sh ta3ab 7add. kol mogtahed naSiib."
+  },
+  {
+    "text": "أنا بحب أزور الأماكن التاريخية في مصر. بحس بعظمة الحضارة المصرية القديمة. تاريخنا فخر لينا.",
+    "g2p": "ana ba7ebb azoor el2amaaken ettariikheyya fe maSr. ba7ess be3aZamet el7aDaara elmaSreyya el2adiima. tariikhna fakhr liina."
+  },
+  {
+    "text": "التفاؤل بيخلي الحياة أحلى. النظرة الإيجابية للأمور بتفرق كتير. تفاءلوا بالخير تجدوه.",
+    "g2p": "ettafaa2ol beykhally el7ayaah a7la. ennaZra el2iigaabeyya lel2omoor betefre2 keteer. tafaa2alo belkheer tagedooh."
+  },
+  {
+    "text": "أنا بحب أتعلم عن الفضاء والنجوم. الكون واسع ومليان أسرار. علم الفلك شيق جداً.",
+    "g2p": "ana ba7ebb at3allem 3an elfaDaa2 wennogoom. elkoon waase3 wemalyaan asraar. 3elm elfalak shayyeq geddan."
+  },
+  {
+    "text": "دعاء الوالدين من أسباب التوفيق في الحياة. رضاهم كنز كبير. ربنا يبارك فيهم ويحفظهم.",
+    "g2p": "do3aa2 elwaaledayn men asbaab ettawfiiq fel7ayaah. reDaahom kenz kibiir. rabbena yebaarek fiihom weye7faZhom."
+  },
+  {
+    "text": "أنا بحب أروح السوق الشعبي. فيه كل حاجة وبأسعار كويسة. وبحس فيه بروح البلد.",
+    "g2p": "ana ba7ebb aroo7 essoo2 eshsha3by. fiih kol 7aaga webe2as3aar kwayyesa. weba7ess fiih beroo7 elbalad."
+  },
+  {
+    "text": "الوفاء بالعهد من صفات المؤمن. لازم نكون قد كلمتنا. عشان الناس تثق فينا.",
+    "g2p": "elwafaa2 bel3ahd men Sefaat elmo2men. laazem nekoon 2add kelmetna. 3ashaan ennaas tethaq fiina."
+  },
+  {
+    "text": "أنا بحب أشارك في المسابقات الثقافية. بتنمي معلوماتي العامة. وبتخليني أبحث وأقرأ أكتر.",
+    "g2p": "ana ba7ebb ashaarek felmosab2aat eththaqaafeyya. betnammy ma3loomaaty el3aamma. webetkhalliiny ab7ath wa2a2ra aktar."
+  },
+  {
+    "text": "النظام والترتيب بيخلوا الحياة أسهل. كل حاجة في مكانها بتوفر وقت ومجهود. بحاول أكون منظم دايماً.",
+    "g2p": "ennaZaam wettartiib beykhallo el7ayaah ashal. kol 7aaga fe makaanha betwaffar wa2t wemaghood. ba7aawel akoon monaZZam dayman."
+  },
+  {
+    "text": "أنا بحب أتصور صور فوتوغرافية جميلة. بحب أوثق اللحظات الحلوة. الصور ذكريات لا تنسى.",
+    "g2p": "ana ba7ebb atSawwar Sewar fotooghrafeyya gameela. ba7ebb awaththeq ella7aZaat el7elwa. eSSewar zekrayaat la tonsa."
+  },
+  {
+    "text": "الرضا بالقضاء والقدر بيريح القلب. كل حاجة بتحصل لحكمة. ربنا دايماً بيختار لنا الأحسن.",
+    "g2p": "erreDa belqaDaa2 welqadar beyrayya7 el2alb. kol 7aaga bete7Sal le7ekma. rabbena dayman beyekhtaar lena el2a7san."
+  },
+  {
+    "text": "أنا بحب أتابع برامج الطبخ على التليفزيون. بتعلم منها وصفات جديدة. وبستمتع بشوف الشيفات وهما بيطبخوا.",
+    "g2p": "ana ba7ebb ataabe3 baraameg eTTabkh 3alettelevizyoon. bat3allem menha waSafaat gidiida. webastamte3 beshoof eshshefaat wehomma beyoTbokho."
+  },
+  {
+    "text": "صلة الرحم واجبة ومهمة. زيارة الأقارب بتقوي العلاقات. وبتدخل البركة على البيوت.",
+    "g2p": "Selet erra7em waageba wemohemma. zeyaaret el2aqaareb betqawwy el3elaaqaat. webetdakhal elbaraka 3albeyoot."
+  },
+  {
+    "text": "أنا بحب أروح المكتبات العامة. مكان هادي ومناسب للقراءة والمذاكرة. وبلاقي فيها كتب قيمة جداً.",
+    "g2p": "ana ba7ebb aroo7 elmaktabaat el3aamma. makaan haady wemonaseb lelqeraa2a welmozakra. webelaa2y fiiha kotob qayyema geddan."
+  },
+  {
+    "text": "العقل السليم في الجسم السليم. لازم نهتم بصحتنا الجسدية والعقلية. عشان نعيش حياة متوازنة.",
+    "g2p": "el3aql essaliim felgesm essaliim. laazem nehtamm beSe77etna elgasadeyya wel3aqleyya. 3ashaan ne3iish 7ayaah motawazna."
+  },
+  {
+    "text": "أنا بحب أتأمل الطبيعة الخلابة. منظر السما والبحر والجبال بيريح النفس. سبحان الخالق.",
+    "g2p": "ana ba7ebb at2ammal eTTabii3a elkhallaaba. manZar essama welba7r welgebaal beyrayya7 ennafs. sob7aan elkhaaleq."
+  },
+  {
+    "text": "إتقان العمل من الإيمان. لازم نعمل كل حاجة بضمير وإخلاص. عشان ربنا يوفقنا.",
+    "g2p": "etqaan el3amal men el2iimaan. laazem ne3mel kol 7aaga beDamiir we2ekhlaaS. 3ashaan rabbena yewaffe2na."
+  },
+  {
+    "text": "أنا بحب أتعلم لغات مختلفة. كل لغة بتفتح باب على ثقافة جديدة. نفسي أتكلم أكتر من لغة بطلاقة.",
+    "g2p": "ana ba7ebb at3allem loghaat mokhtalefa. kol logha betefta7 baab 3ala thaqafa gidiida. nefsy atkallem aktar men logha beTalaaqa."
+  },
+  {
+    "text": "الزواج مودة ورحمة. اختيار شريك الحياة قرار مهم جداً. ربنا يرزق الجميع بالذرية الصالحة.",
+    "g2p": "ezzawaag mawadda wera7ma. ekhteyaar shariik el7ayaah qaraar mohem geddan. rabbena yorzoq elgamii3 bezorreyya eSSal7a."
+  },
+  {
+    "text": "أنا بحب أعمل مفاجآت حلوة لأصحابي وعيلتي. الفرحة اللي بشوفها في عينيهم بتسعدني. المفاجآت بتجدد المحبة.",
+    "g2p": "ana ba7ebb a3mel mofag2aat 7elwa le2aS7aaby we3elty. elfar7a elly bashoofha fe 3eneehom betes3edny. elmofag2aat betgadded elma7abba."
+  },
+  {
+    "text": "حسن الخلق من أهم الصفات الحميدة. التعامل الطيب مع الناس بيخلي الحياة أجمل. الدين المعاملة.",
+    "g2p": "7osn elkholoq men ahamm eSSefaat el7amiida. etta3aamol eTTayyeb ma3a ennaas beykhally el7ayaah agmal. eddiin elmo3amala."
+  },
+  {
+    "text": "أنا بحب أحل ألغاز وكلمات متقاطعة. بتنشط العقل وتزود التركيز. وبتسلي الوقت.",
+    "g2p": "ana ba7ebb a7ell alghaaz wekalimaat motaqaT3a. betnashsheT el3aql wetzawwed ettarkiiz. webetsally elwa2t."
+  },
+  {
+    "text": "الادخار مهم لتأمين المستقبل. لازم نتعلم إزاي نحوش جزء من دخلنا. عشان الظروف الطارئة.",
+    "g2p": "el2eddekhaar mohem leta2miin elmosta2bal. laazem net3allem ezzaay ne7awwesh goz2 men dakhlena. 3ashaan eZZoroof eTTaare2a."
+  },
+  {
+    "text": "أنا بحب أتابع تطورات الذكاء الاصطناعي. مجال واعد ومثير للاهتمام. هيغير حاجات كتير في حياتنا.",
+    "g2p": "ana ba7ebb ataabe3 taTawworaat ezzakaa2 el2eSTenaa3y. magaal waa3ed wemothiir lel2ehtemaam. hayghayyar 7agaat keteer fe 7ayatna."
+  },
+  {
+    "text": "القدوة الحسنة ليها تأثير كبير على تربية الأجيال. لازم نكون نموذج كويس لأولادنا. عشان يطلعوا صالحين.",
+    "g2p": "elqodwa el7asana liiha ta2thiir kibiir 3ala tarbeyyet el2agyaal. laazem nekoon namoozag kwayyes le2awladna. 3ashaan yeTla3o Sali7iin."
+  },
+  {
+    "text": "أنا بحب أستكشف أماكن جديدة في مدينتي. كل مكان ليه قصة وحكاية. مصر مليانة كنوز.",
+    "g2p": "ana ba7ebb astakshef amaaken gidiida fe madiinety. kol makaan leeh qeSSa we7kaaya. maSr malyaana konooz."
+  },
+  {
+    "text": "العطاء أجمل من الأخذ. لما بتساعد حد بتحس بسعادة حقيقية. ربنا يجعله في ميزان حسناتنا.",
+    "g2p": "el3aTaa2 agmal men el2akhz. lamma betsaa3ed 7add bete7ess besa3aada 7a2iiqeyya. rabbena yeg3alo fe miizaan 7asanaatna."
+  },
+  {
+    "text": "أنا بحب أتعلم الخط العربي بأنواعه المختلفة. فن جميل وراقي. بيدي شكل جمالي للكتابة.",
+    "g2p": "ana ba7ebb at3allem elkhaTT el3araby be2anwaa3o elmokhtalefa. fann gameel weraaqy. beyeddy shakl gamaaly lelkitaba."
+  },
+  {
+    "text": "التواضع من شيم الكرام. مهما وصلت لمكانة عالية لازم تفضل متواضع. عشان الناس تحبك.",
+    "g2p": "ettawaaDo3 men shiyam elkeraam. mahma weSelt lemakaana 3alya laazem tefDal motawaaDe3. 3ashaan ennaas te7ebbak."
+  },
+  {
+    "text": "أنا بحب أعمل أعمال يدوية بالخرز والإكسسوارات. هواية ممتعة وممكن تكون مصدر دخل. بطلع منها أشكال تحفة.",
+    "g2p": "ana ba7ebb a3mel a3maal yadaweyya belkharaz wel2eksSowaaraat. hewaaya momte3a wemomken tekoon maSdar dakhl. baTla3 menha ashkaal to7fa."
+  },
+  {
+    "text": "الاستغفار بيفتح الأبواب المغلقة. وبيجلب الرزق والبركة. لازم نداوم عليه.",
+    "g2p": "el2esteghfaar beyfta7 el2abwaab elmoghlaqa. webeyegleb errezk welbaraka. laazem nedaawem 3aleeh."
+  },
+  {
+    "text": "أنا بحب أسمع قصص النجاح الملهمة. بتديني حافز وطاقة إيجابية. وبتعلمني إزاي أتغلب على الصعاب.",
+    "g2p": "ana ba7ebb asma3 qeSaS ennagaa7 elmolhema. beteddiiny 7aafez weTaaqa iigaabeyya. webet3allemny ezzaay atghallab 3ala eSSa3aab."
+  },
+  {
+    "text": "بر الوالدين من أعظم الأعمال عند الله. طاعتهم واجبة علينا. رضاهم من رضا الرب.",
+    "g2p": "berr elwaaledayn men a3Zam el2a3maal 3endallaah. Taa3ethom waageba 3aleena. reDaahom men reDa errab."
+  },
+  {
+    "text": "أنا بحب أتفرج على برامج المسابقات الغنائية. فيها مواهب جميلة وأصوات رائعة. بستمتع بأداء المتسابقين.",
+    "g2p": "ana ba7ebb atfarrag 3ala baraameg elmosab2aat elghenaa2eyya. fiiha mawaaheb gameela wa2aSwaat raa2e3a. bastamte3 be2adaa2 elmotasaabeqiin."
+  },
+  {
+    "text": "طلب العلم فريضة على كل مسلم ومسلمة. العلم بيرفع شأن صاحبه. وبيفيده في الدنيا والآخرة.",
+    "g2p": "Talab el3elm fariiDa 3ala kol moslem wemoslema. el3elm beyerfa3 sha2n Saa7bo. webeyfiido feddonya wel2aakhera."
+  },
+  {
+    "text": "أنا بحب أزور الحدائق العامة والمتنزهات. الطبيعة الخضرا بتريح العين وبتجدد النشاط. مكان حلو للخروجات العائلية.",
+    "g2p": "ana ba7ebb azoor el7adaa2eq el3aamma welmotanazzahaat. eTTabii3a elkhaDra betrayya7 el3een webetgadded ennashaaT. makaan 7elw lelkhoroogaat el3aa2eleyya."
+  },
+  {
+    "text": "الكلمة الطيبة صدقة. ممكن كلمة بسيطة تسعد إنسان. وتغير يومه للأحسن.",
+    "g2p": "elkelma eTTayyeba Sadaqa. momken kelma basiiTa tes3ed ensaan. wetghayyar yoomo lel2a7san."
+  },
+  {
+    "text": "أنا بحب أتعلم عن الإسعافات الأولية. مهمة جداً في حالات الطوارئ. ممكن تنقذ حياة إنسان.",
+    "g2p": "ana ba7ebb at3allem 3an el2es3aafaat el2awwaleyya. mohemma geddan fe 7alaat eTTawaare2. momken tonqez 7ayaat ensaan."
+  },
+  {
+    "text": "العدل أساس الملك. لو كل واحد خد حقه مفيش مشاكل هتحصل. ربنا أمرنا بالعدل.",
+    "g2p": "el3adl asaas elmolk. law kol waa7ed khad 7a22o mafiish mashaakel hate7Sal. rabbena amarna bel3adl."
+  },
+  {
+    "text": "أنا بحب أعمل تجارب علمية بسيطة في البيت. بتعلم منها حاجات جديدة. وبتكون ممتعة ومسلية.",
+    "g2p": "ana ba7ebb a3mel tagaareb 3elmeyya basiiTa felbeet. bat3allem menha 7agaat gidiida. webetkoon momte3a wemosalleyya."
+  },
+  {
+    "text": "الاعتذار عن الخطأ فضيلة. مش عيب إن الواحد يغلط. العيب إنه ميصلحش غلطه.",
+    "g2p": "el2e3tezaar 3an elkhaTa2 faDiila. mesh 3eeb en elwaa7ed yeghlaT. el3eeb enno maySalla7sh ghalaTo."
+  },
+  {
+    "text": "أنا بحب أشارك في حملات التبرع بالدم. عمل إنساني نبيل. ممكن ينقذ حياة مريض.",
+    "g2p": "ana ba7ebb ashaarek fe 7amalaat ettabarro3 beddam. 3amal ensaany nabiil. momken yonqez 7ayaat mariiD."
+  },
+  {
+    "text": "الحكمة ضالة المؤمن أنى وجدها فهو أحق بها. لازم نسعى لطلب الحكمة. عشان ننور بيها طريقنا.",
+    "g2p": "el7ekma Daallet elmo2men anna wagadaha fahowa a7aqqo beha. laazem nas3a leTalab el7ekma. 3ashaan nenawwar biiha Tariqna."
+  },
+  {
+    "text": "أنا بحب أروح الأوبرا أحضر حفلات موسيقية. الموسيقى الكلاسيكية ليها سحر خاص. بتسمو بالروح.",
+    "g2p": "ana ba7ebb aroo7 el2opera a7Dar 7afalaat mosiiqeyya. elmosiiqa elklasiikeyya liiha se7r khaaS. betasmo berroo7."
+  },
+  {
+    "text": "إكرام الضيف واجب. من عاداتنا وتقاليدنا الأصيلة. الضيف بييجي برزقه.",
+    "g2p": "ekraam eDDeef waageb. men 3adaatna wetaqaliidna el2aSiila. eDDeef beyiigy berez2o."
+  },
+  {
+    "text": "أنا بحب أتعلم عن تاريخ الفن التشكيلي. المدارس الفنية المختلفة ليها طابع مميز. بستمتع بتحليل الأعمال الفنية.",
+    "g2p": "ana ba7ebb at3allem 3an tariikh elfann ettashkiily. elmadaares elfanniyya elmokhtalefa liiha Taabe3 momayyez. bastamte3 beta7liil el2a3maal elfanniyya."
+  },
+  {
+    "text": "النظافة من الإيمان. لازم نحافظ على نظافة بيوتنا وشوارعنا. عشان صحتنا وصحة مجتمعنا.",
+    "g2p": "ennaZaafa men el2iimaan. laazem ne7aafeZ 3ala naZaafet beyootna weshaware3na. 3ashaan Se77etna weSe77et mogtama3na."
+  },
+  {
+    "text": "أنا بحب أعمل ألبومات صور لعيلتي. بجمع فيها كل الذكريات الحلوة. عشان تبقى شاهد على أجمل أيامنا.",
+    "g2p": "ana ba7ebb a3mel albumaat Sewar le3elty. bagamma3 fiiha kol ezzekrayaat el7elwa. 3ashaan teb2a shaahed 3ala agmal ayyaamna."
+  },
+  {
+    "text": "القناعة كنز لا يفنى. لما بنرضى باللي ربنا قسمه لنا بنعيش مرتاحين. الطمع بيضيع كل حاجة.",
+    "g2p": "elqanaa3a kenz la yafna. lamma benerDa bellii rabbena 2asamo lena bene3iish mertaa7iin. eTTama3 beyDayya3 kol 7aaga."
+  },
+  {
+    "text": "أنا بحب أشارك في ورش عمل ودورات تدريبية. بتعلم منها مهارات جديدة. وبتفيدني في شغلي وحياتي.",
+    "g2p": "ana ba7ebb ashaarek fe werash 3amal wedawraat tadriibeyya. bat3allem menha maharaat gidiida. webetfiidny fe shoghly we7ayaaty."
+  },
+  {
+    "text": "الستر من ربنا نعمة كبيرة. لازم ندعي ربنا يسترنا في الدنيا والآخرة. الستر بيحفظ الإنسان.",
+    "g2p": "essatr men rabbena ne3ma kibiira. laazem ned3y rabbena yestorna feddonya wel2aakhera. essatr beye7faZ el2ensaan."
+  },
+  {
+    "text": "أنا بحب أروح الشاطئ وقت الغروب. منظر الشمس وهي بتغرب في البحر ساحر. بحس بهدوء وجمال.",
+    "g2p": "ana ba7ebb aroo7 eshshaaTe2 wa2t elghoroob. manZar eshshams weheyya betoghrob felba7r saa7er. ba7ess behodoo2 wegamaal."
+  },
+  {
+    "text": "التعاون على البر والتقوى من أحسن الأعمال. لما بنساعد بعض الخير بيعم. والمجتمع بيتقدم.",
+    "g2p": "etta3aawon 3alberr wettaqwa men a7san el2a3maal. lamma bensaa3ed ba3D elkheer bey3omm. welmogtama3 beyet2addem."
+  },
+  {
+    "text": "أنا بحب أتعلم عن الحضارات القديمة المختلفة. كل حضارة ليها إنجازات عظيمة. بتورينا قد إيه الإنسان قادر على الإبداع.",
+    "g2p": "ana ba7ebb at3allem 3an el7aDaaraat el2adiima elmokhtalefa. kol 7aDaara liiha engaazaat 3aZiima. betwarriina 2add eeh el2ensaan qaader 3al2ebdaa3."
+  },
+  {
+    "text": "الشورى مبدأ إسلامي عظيم. أخذ رأي الآخرين بيساعد على اتخاذ القرارات الصائبة. وفيها بركة.",
+    "g2p": "eshshoora mabda2 eslaamy 3aZiim. akhz ra2y el2aakhariin beysaa3ed 3ala ettekhaaz elqaraaraat eSSaa2eba. wefiiha baraka."
+  },
+  {
+    "text": "أنا بحب أجمع التحف والأنتيكات القديمة. كل قطعة ليها قصة وتاريخ. بحس إني بمتلك جزء من الماضي.",
+    "g2p": "ana ba7ebb agamma3 etto7af wel2antiikaat el2adiima. kol qeT3a liiha qeSSa wetariikh. ba7ess enny bamtalek goz2 men elmaaDy."
+  },
+  {
+    "text": "الحياء شعبة من الإيمان. صفة جميلة بتزين الإنسان. وبتخليه يتجنب المعاصي.",
+    "g2p": "el7ayaa2 sho3ba men el2iimaan. Sefa gameela betzayyen el2ensaan. webetkhalliih yetagannab elma3aaSy."
+  },
+  {
+    "text": "أنا بحب أتابع برامج اكتشاف المواهب للأطفال. بيكون فيها أطفال مبدعين وموهوبين. بيفرحوني جداً.",
+    "g2p": "ana ba7ebb ataabe3 baraameg ekteshaaf elmawaaheb lel2aTfaal. beykoon fiiha aTfaal mobde3iin wemawhoobiin. beyfarra7oony geddan."
+  },
+  {
+    "text": "الرفق بالحيوان من تعاليم ديننا. لازم نعاملهم برحمة. ومنأذيهمش أبداً.",
+    "g2p": "errefq bel7ayawaan men ta3aaliim diinena. laazem ne3aamelhom bera7ma. wemen2aziihomsh abadan."
+  },
+  {
+    "text": "أنا بحب أعمل ديكورات بسيطة للبيت بنفسي. بتدي لمسة جمالية للمكان. وبحس بفرحة الإنجاز.",
+    "g2p": "ana ba7ebb a3mel diikoraat basiiTa lelbeet benafsy. beteddy lamsa gamaaleyya lelmakkan. weba7ess befar7et el2engaaz."
+  },
+  {
+    "text": "ذكر الله بيطمن القلوب. التسبيح والتهليل والتكبير بيريحوا النفس. وبيزودوا الحسنات.",
+    "g2p": "zekrallaah beyTammen elqoloob. ettasbii7 wettahliil wettakbiir beyrayya7o ennafs. webeyzawwado el7asanaat."
+  },
+  {
+    "text": "أنا بحب أقرأ السيرة النبوية الشريفة. حياة النبي محمد صلى الله عليه وسلم كلها دروس وعبر. هو قدوتنا.",
+    "g2p": "ana ba7ebb a2ra essiira ennabawiyya eshshariifa. 7ayaat ennabey mo7ammad Sallallaah 3aleeh wasallam kollaha doroos we3ebar. howa qodwetna."
+  },
+  {
+    "text": "إماطة الأذى عن الطريق صدقة. عمل بسيط بس أجره كبير عند ربنا. بيحافظ على سلامة الناس.",
+    "g2p": "emaaTet el2aza 3an eTTariiq Sadaqa. 3amal basiiT bas agro kibiir 3and rabbena. beye7aafeZ 3ala salaamet ennaas."
+  },
+  {
+    "text": "أنا بحب أتابع أخبار الرياضات المختلفة. مش بس كورة القدم. كل رياضة ليها متعتها وقوانينها.",
+    "g2p": "ana ba7ebb ataabe3 akhbaar erreyaaDaat elmokhtalefa. mesh bas kooret elqadam. kol reyaaDa liiha mot3etha weqawaniinha."
+  },
+  {
+    "text": "التوبة بابها مفتوح دايماً. ربنا غفور رحيم. أهم حاجة نرجع ونتوب بصدق.",
+    "g2p": "ettawba baabha maftoo7 dayman. rabbena ghafoor ra7iim. ahamm 7aaga nerga3 wenetoob beSedq."
+  },
+  {
+    "text": "أنا بحب أعمل إعادة تدوير للحاجات القديمة في البيت. بحولها لحاجات مفيدة وجديدة. بحافظ على البيئة وببدع.",
+    "g2p": "ana ba7ebb a3mel e3aadet tadwiir lel7agaat el2adiima felbeet. ba7awwelha le7agaat mofiida wegidiida. ba7aafeZ 3albi2a webabde3."
+  },
+  {
+    "text": "الصحبة الصالحة بتعين على الخير. لازم نختار أصحابنا اللي يقربونا من ربنا. ويبعدونا عن الشر.",
+    "g2p": "eSSo7ba eSSaal7a bet3iin 3alkheer. laazem nekhtaar aS7abna elly yeqarraboona men rabbena. weyeb3edoona 3an eshsharr."
+  },
+  {
+    "text": "أنا بحب أتابع أخبار الفلك واكتشافات الكواكب الجديدة. الكون ده مليان عجائب. سبحان الله.",
+    "g2p": "ana ba7ebb ataabe3 akhbaar elfalak wekteshafaat elkawaakeb elgidiida. elkoon da malyaan 3agaa2eb. sob7aanallaah."
+  },
+  {
+    "text": "النية الطيبة أساس كل عمل. إنما الأعمال بالنيات. ربنا بيجازي كل واحد على قد نيته.",
+    "g2p": "enniyya eTTayyeba asaas kol 3amal. ennama el2a3maal benneyyaat. rabbena beygaazy kol waa7ed 3ala 2add neyyeto."
+  },
+  {
+    "text": "أنا بحب أزور دور الأيتام وكبار السن. بقضي معاهم وقت حلو. وبحاول أفرحهم على قد ما أقدر.",
+    "g2p": "ana ba7ebb azoor door el2aytaam wekebaar essenn. ba2aDDy ma3aahom wa2t 7elw. weba7aawel afarra7hom 3ala 2add ma a2dar."
+  },
+  {
+    "text": "الاستثمار في التعليم هو أفضل استثمار. العلم هو اللي بيبني الأمم. وبيحقق التقدم والازدهار.",
+    "g2p": "el2estesmaar fettA3liim howa afDal estesmaar. el3elm howa elly beyebny el2omam. webey7a22eq ettaqaddom wel2ezdehaar."
+  },
+  {
+    "text": "أنا بحب أتعلم مهارات التفاوض والإقناع. مهمة جداً في الشغل والحياة. بتساعد على تحقيق الأهداف.",
+    "g2p": "ana ba7ebb at3allem maharaat ettafaawoD wel2eqnaa3. mohemma geddan feshshoghl wel7ayaah. betsaa3ed 3ala ta7qiiq el2ahdaaf."
+  },
+  {
+    "text": "الجهاد الأكبر هو جهاد النفس. أصعب أنواع الجهاد. لازم نحاول نتحكم في أهواءنا وشهواتنا.",
+    "g2p": "elgehaad el2akbar howa gehaad ennafs. aS3ab anwaa3 elgehaad. laazem ne7aawel net7akkem fe ahwaa2na weshaawaatna."
+  },
+  {
+    "text": "أنا بحب أتابع قنوات اليوتيوب التعليمية. فيها محتوى مفيد ومتنوع. وبقدر أتعلم منها في أي وقت.",
+    "g2p": "ana ba7ebb ataabe3 qanawaat elyootyoob etta3liimeyya. fiiha mo7tawa mofeed wemotenawwe3. weba2dar at3allem menha fe ay wa2t."
+  },
+  {
+    "text": "الزكاة ركن من أركان الإسلام. بتطهر المال وتزكيه. وفيها تكافل اجتماعي بين الغني والفقير.",
+    "g2p": "ezzakaah rokn men arkaan el2eslaam. betaTahhar elmaal wetzakkiih. wefiiha takaafol egtemaa3y been elghany welfa2iir."
+  },
+  {
+    "text": "أنا بحب أعمل كروت معايدة يدوية في المناسبات. بتكون هدية قيمة ومعبرة. بتفرح اللي بياخدها.",
+    "g2p": "ana ba7ebb a3mel koroot mo3aayada yadaweyya felmonasabaat. betkoon hedeyya qayyema wemo3abbera. betfarra7 elly beyakhodha."
+  },
+  {
+    "text": "الحلم سيد الأخلاق. لازم نكون حليمين ونتحكم في غضبنا. عشان منخسرش اللي حوالينا.",
+    "g2p": "el7elm sayyed el2akhlaaq. laazem nekoon 7aliimiin wenet7akkem fe ghaDabna. 3ashaan manekhsarsh elly 7awaleena."
+  },
+  {
+    "text": "أنا بحب أقرأ قصص الأنبياء. فيها عبر ومواعظ كتير. بتعلمنا إزاي نعيش حياتنا صح.",
+    "g2p": "ana ba7ebb a2ra qeSaS el2anbeyaa2. fiiha 3ebar wemawaa3eZ keteer. bet3allemna ezzaay ne3iish 7ayatna Sa77."
+  },
+  {
+    "text": "ترك ما لا يعنيك من حسن إسلام المرء. لازم منتدخلش في خصوصيات الناس. ونركز في حياتنا وبس.",
+    "g2p": "tark ma la ya3niik men 7osn eslaam elmar2. laazem manetdakhkhalsh fe khoSooSeyyaat ennaas. wenerakkez fe 7ayatna webas."
+  },
+  {
+    "text": "أنا بحب أشارك في الأنشطة الطلابية في الجامعة. بتنمي مهاراتي وبتعرفني على ناس جديدة. وبتخلي فترة الدراسة ممتعة.",
+    "g2p": "ana ba7ebb ashaarek fel2ansheTa eTTollaabeyya felgam3a. betnammy maharaaty webet3arrafny 3ala naas gidiida. webetkhally fatret edderaasa momte3a."
+  },
+  {
+    "text": "الصلاة عماد الدين. أول ما يحاسب عليه العبد يوم القيامة. لازم نحافظ عليها في وقتها.",
+    "g2p": "eSSalaah 3emaad eddiin. awwal ma yo7aasab 3aleeh el3abd yoom elqeyaama. laazem ne7aafeZ 3aleeha fe wa2tha."
+  },
+  {
+    "text": "أنا بحب أعمل أكلات صحية قليلة السعرات. بحاول أحافظ على وزني وصحتي. الأكل الصحي مهم جداً.",
+    "g2p": "ana ba7ebb a3mel akalaat Se77eyya qaliilet esso3raat. ba7aawel a7aafeZ 3ala wazny weSe77ety. el2akl eSSe77y mohem geddan."
+  },
+  {
+    "text": "الستر على المسلم من أعظم القربات إلى الله. لازم منشهرش بحد غلط. وندعيله بالهداية.",
+    "g2p": "essatr 3almoslem men a3Zam elqorobaat elaallaah. laazem maneshahharsh be7add gheleT. wened3iilo belhedaaya."
+  },
+  {
+    "text": "أنا بحب أتعلم عن الإدارة والتخطيط الاستراتيجي. مهمة لأي حد عايز ينجح في شغله. بتساعد على تحقيق الأهداف بكفاءة.",
+    "g2p": "ana ba7ebb at3allem 3an el2edaara wettakhTiiT el2estraatiigy. mohemma le2ay 7add 3aayez yenga7 fe shoghlo. betsaa3ed 3ala ta7qiiq el2ahdaaf bekafaa2a."
+  },
+  {
+    "text": "الجنة تحت أقدام الأمهات. رضا الأم من رضا الرب. لازم نبر أمهاتنا ونسمع كلامهم.",
+    "g2p": "elganna ta7t aqdaam el2ommahaat. reDa el2omm men reDa errab. laazem neberr ommahaatna wenesma3 kalaamhom."
+  },
+  {
+    "text": "أنا بحب أتابع المباريات الرياضية العالمية الكبيرة. زي كأس العالم والأولمبياد. بتكون منافسات قوية وممتعة.",
+    "g2p": "ana ba7ebb ataabe3 elmobarayaat erreyaaDeyya el3aalameyya elkibiira. zay ka2s el3aalam wel2olempeyaad. betkoon monafasaat qawiyya wemomte3a."
+  },
+  {
+    "text": "الأمر بالمعروف والنهي عن المنكر واجب على كل مسلم. بس لازم يكون بالحكمة والموعظة الحسنة. عشان الناس تتقبل.",
+    "g2p": "el2amr belma3roof wennahy 3an elmonkar waageb 3ala kol moslem. bass laazem yekoon bel7ekma welmaw3eZa el7asana. 3ashaan ennaas tetaqabbal."
+  },
+  {
+    "text": "أنا بحب أعمل مشروبات طبيعية منعشة في الصيف. زي الليمون بالنعناع وعصير المانجا. بترطب الجسم وبتحسس بالانتعاش.",
+    "g2p": "ana ba7ebb a3mel mashroobaat Tabii3eyya mon3esha feSSeef. zay ellamoon benne3naa3 we3aSiir elmanga. betraTTeb elgesm wet7asses bel2ente3aash."
+  },
+  {
+    "text": "لا يؤمن أحدكم حتى يحب لأخيه ما يحب لنفسه. لازم نتمنى الخير لبعض. ونساعد بعض على قد ما نقدر.",
+    "g2p": "la yo2men a7adokom 7atta yo7ebb le2akhiih ma yo7ebb lenafseh. laazem netmanna elkheer leba3D. wensaa3ed ba3D 3ala 2add ma ne2dar."
+  },
+  {
+    "text": "أنا بحب أتابع أخبار الموضة والأزياء. بحب أشوف التصميمات الجديدة والألوان الترندي. بس بختار اللي يناسبني.",
+    "g2p": "ana ba7ebb ataabe3 akhbaar elmooDa wel2azyaa2. ba7ebb ashoof ettaSmiimaat elgidiida wel2alwaan ettrendy. bass bakhtaar elly yenasbny."
+  },
+  {
+    "text": "الاستشارة قبل اتخاذ القرارات المهمة سنة نبوية. بتساعد على رؤية الأمور من زوايا مختلفة. وبتجنبنا الوقوع في الخطأ.",
+    "g2p": "el2esteshaara qabl ettekhaaz elqaraaraat elmohemma sonna nabawiyya. betsaa3ed 3ala ro2yet el2omoor men zawaaya mokhtalefa. webetgannabna elwoqoo3 felkhaTa2."
+  },
+  {
+    "text": "أنا بحب أعمل قوائم تشغيل للموسيقى والأغاني المفضلة عندي. بسمعها وأنا بشتغل أو بسوق. بتغير مودي للأحسن.",
+    "g2p": "ana ba7ebb a3mel qawaa2em tashghiil lelmosiiqa wel2aghaany elmofaDDala 3andy. basma3ha wana bashtaghal aw basoo2. betghayyar muudy lel2a7san."
+  },
+  {
+    "text": "خيركم خيركم لأهله. لازم نعامل أهل بيتنا كويس. ونكون ليهم السند والدعم.",
+    "g2p": "khayrokom khayrokom le2ahleh. laazem ne3aamel ahl beetna kwayyes. wenekoon liihom essanad wedda3m."
+  },
+  {
+    "text": "أنا بحب أتعلم فنون الدفاع عن النفس. بتدي ثقة بالنفس. وممكن أحتاجها في يوم من الأيام.",
+    "g2p": "ana ba7ebb at3allem fonoon eddefaa3 3an ennafs. beteddy thiqa bennafs. wemomken a7taagha fe yoom men el2ayyaam."
+  },
+  {
+    "text": "المؤمن القوي خير وأحب إلى الله من المؤمن الضعيف. لازم نهتم بصحتنا وقوتنا. عشان نقدر نعبد ربنا كويس.",
+    "g2p": "elmo2men elqawy khayr wa2a7abb elaallaah men elmo2men eDDa3iif. laazem nehtamm beSe77etna weqowwetna. 3ashaan ne2dar no3bod rabbena kwayyes."
+  },
+  {
+    "text": "أنا بحب أعمل أبحاث صغيرة عن مواضيع بتشد انتباهي. بستمتع بعملية البحث وجمع المعلومات. وبستفيد منها كتير.",
+    "g2p": "ana ba7ebb a3mel ab7aath Soghayyara 3an mawaaDii3 betshedd entebaahy. bastamte3 be3amaleyyet elba7th wegam3 elma3loomaat. webastafiid menha keteer."
+  },
+  {
+    "text": "الدين يسر وليس عسر. لازم نفهم ديننا صح. ومنصعبش الأمور على نفسنا ولا على غيرنا.",
+    "g2p": "eddiin yosr walaysa 3osr. laazem nefham diinena Sa77. wemanSa33absh el2omoor 3ala nafsena wala 3ala gherna."
+  },
+  {
+    "text": "أنا بحب أتابع أفلام الأنيميشن والكرتون. مش بس للأطفال. فيها قصص حلوة ورسومات جميلة.",
+    "g2p": "ana ba7ebb ataabe3 aflaam el2animeeshan welkartoon. mesh bas lel2aTfaal. fiiha qeSaS 7elwa werosomaat gameela."
+  },
+  {
+    "text": "الصدقة تطفئ غضب الرب. وبتدفع البلاء. لازم نتصدق على قد ما نقدر.",
+    "g2p": "eSSadaqa toTfe2 ghaDab errab. webetadfa3 elbalaa2. laazem netaSaddaq 3ala 2add ma ne2dar."
+  },
+  {
+    "text": "أنا بحب أتعلم تصميم الجرافيك والمونتاج. مهارات مطلوبة في سوق العمل. وبقدر أعبر بيها عن أفكاري.",
+    "g2p": "ana ba7ebb at3allem taSmiim elgrafiik welmontaag. maharaat maTlooba fe soo2 el3amal. weba2dar a3abbar biiha 3an afkaary."
+  },
+  {
+    "text": "المسجد الأقصى أولى القبلتين وثالث الحرمين الشريفين. ليه مكانة كبيرة في قلوب المسلمين. يارب يتحرر قريب.",
+    "g2p": "elmasged el2aqSa oola elqeblatayn wethaaleth el7aramayn eshshariifayn. leeh makaana kibiira fe qoloob elmoslemiin. ya rab yet7arrar 2orayyeb."
+  },
+  {
+    "text": "أنا بحب أعمل حلويات غربية زي التشيز كيك والبراونيز. طعمها لذيذ وشكلها حلو. الولاد بيحبوها أوي.",
+    "g2p": "ana ba7ebb a3mel 7alaweyyaat gharbeyya zay ettshiiz kiik welbraawniiz. Ta3maha laziiz weshaklaha 7elw. elwelaad bey7ebbooha 2awy."
+  },
+  {
+    "text": "من حسن إسلام المرء تركه ما لا يعنيه. لازم منتدخلش في شؤون غيرنا. ونركز في إصلاح نفسنا.",
+    "g2p": "men 7osn eslaam elmar2 tarkoh ma la ya3niih. laazem manetdakhkhalsh fe sho2oon gherna. wenerakkez fe eSlaa7 nafsena."
+  },
+  {
+    "text": "أنا بحب أتابع أخبار علوم البحار والمحيطات. عالم غامض ومليان كائنات عجيبة. بستمتع بالاكتشافات الجديدة.",
+    "g2p": "ana ba7ebb ataabe3 akhbaar 3oloom elbe7aar welmo7iiTaat. 3aalam ghaameD wemalyaan ka2enaat 3agiiba. bastamte3 belekteshafaat elgidiida."
+  },
+  {
+    "text": "الصيام مش بس امتناع عن الأكل والشرب. ده كمان تهذيب للنفس. وتربية على الصبر والتقوى.",
+    "g2p": "eSSeyaam mesh bas emtenaa3 3an el2akl weshshorb. da kamaan tahziib lennafs. wetarbeya 3ala eSSabr wettaqwa."
+  },
+  {
+    "text": "أنا بحب أعمل سكراب بوك لذكرياتي. بجمع فيه الصور والتذاكر والحاجات اللي بتفكرني بأيام حلوة. بيكون تحفة فنية.",
+    "g2p": "ana ba7ebb a3mel skraab bok lezekrayaaty. bagamma3 fiih eSSewar wettazaaker wel7agaat elly betfakkarny be2ayyaam 7elwa. beykoon to7fa fanneyya."
+  },
+  {
+    "text": "المؤمن مرآة أخيه. لازم ننصح بعض بالخير. ونساعد بعض على الطاعة.",
+    "g2p": "elmo2men mer2aat akhiih. laazem nenSa7 ba3D belkheer. wensaa3ed ba3D 3ala eTTaa3a."
+  },
+  {
+    "text": "أنا بحب أتعلم عن الآثار الإسلامية في مختلف الدول. بتعكس عظمة الحضارة الإسلامية. وجمال فنونها المعمارية.",
+    "g2p": "ana ba7ebb at3allem 3an el2aathaar el2eslaameyya fe mokhtalef eddowal. betA3kes 3aZamet el7aDaara el2eslaameyya. wegamaal fonoonha elme3maareyya."
+  },
+  {
+    "text": "الحج ركن من أركان الإسلام لمن استطاع إليه سبيلاً. رحلة إيمانية عظيمة. بتغفر الذنوب وبترجع كيوم ولدتك أمك.",
+    "g2p": "el7agg rokn men arkaan el2eslaam leman estaTaa3a elayh sabiilan. re7la iimaaneyya 3aZiima. betoghfer ezzonoob weterga3 kayawm waladattok ommok."
+  },
+  {
+    "text": "أنا بحب أعمل معجنات ومخبوزات في البيت. زي البيتزا والعيش الفينو. ريحتها بتملى البيت خير وبركة.",
+    "g2p": "ana ba7ebb a3mel mo3agganaat wemakhboozaat felbeet. zay elbiitza wel3eesh elfiino. rii7etha betemla elbeet kheer wabaraka."
+  },
+  {
+    "text": "لا تغضب ولك الجنة. الغضب بيضيع الحسنات. وبيسبب مشاكل كتير.",
+    "g2p": "la taghDab walak elganna. elghaDab beyDayya3 el7asanaat. webeySabbeb mashaakel keteer."
+  },
+  {
+    "text": "أنا بحب أتابع أخبار سوق الأسهم والبورصة. مجال محتاج دراسة وفهم. ممكن يكون مصدر دخل كويس لو اتعمل صح.",
+    "g2p": "ana ba7ebb ataabe3 akhbaar soo2 el2ashom welborSa. magaal me7taag deraasa wefahm. momken yekoon maSdar dakhl kwayyes law et3amal Sa77."
+  },
+  {
+    "text": "العمرة إلى العمرة كفارة لما بينهما. رحلة جميلة بتجدد الإيمان. وبتريح القلب والنفس.",
+    "g2p": "el3omra ela el3omra kaffaara lema baynahoma. re7la gameela betgadded el2iimaan. webetrayya7 el2alb wennafs."
+  },
+  {
+    "text": "أنا بحب أعمل عصاير فريش في البيت بالفاكهة الموسمية. صحية ومغذية. وأحسن من العصاير المعلبة.",
+    "g2p": "ana ba7ebb a3mel 3aSaa2er fresh felbeet belfakha elmawsemeyya. Se77eyya wemoghazzeya. wa2a7san men el3aSaa2er elmo3allaba."
+  },
+  {
+    "text": "الجار قبل الدار. لازم نختار جيراننا كويس. ونعاملهم بالحسنى.",
+    "g2p": "elgaar qabl eddaar. laazem nekhtaar giraanna kwayyes. wene3aamelhom bel7osna."
+  },
+  {
+    "text": "أنا بحب أتابع المسلسلات التاريخية. بتعلمني عن فترات زمنية مختلفة. وبستمتع بالقصص والأحداث.",
+    "g2p": "ana ba7ebb ataabe3 elmosalsalaat ettariikheyya. bet3allemny 3an fataraat zamaneyya mokhtalefa. webastamte3 belqeSaS wel2a7daath."
+  },
+  {
+    "text": "من كان يؤمن بالله واليوم الآخر فليقل خيراً أو ليصمت. الكلمة مسئولية. لازم نفكر قبل ما نتكلم.",
+    "g2p": "man kaana yo2men bellaah welyawm el2aakher falyaqol khayran aw leyaSmot. elkelma mas2ooleyya. laazem nefakkar qabl ma netkallem."
+  },
+  {
+    "text": "أنا بحب أعمل ديكورات للمناسبات زي أعياد الميلاد ورمضان. بتضيف بهجة وفرحة للجو. وبخلي البيت شكله مختلف.",
+    "g2p": "ana ba7ebb a3mel diikoraat lelmonasabaat zay a3yaad elmiilaad weramaDaan. betDiif bahga wefar7a lelqaww. webakhally elbeet shaklo mokhtalef."
+  },
+  {
+    "text": "كلكم راع وكلكم مسئول عن رعيته. كل واحد فينا ليه مسئولية. لازم نأديها على أكمل وجه.",
+    "g2p": "kollokom raa3en wakollokom mas2ool 3an ra3eyyateh. kol waa7ed fiina leeh mas2ooleyya. laazem ne2addiiha 3ala akmal wagh."
+  },
+  {
+    "text": "أنا بحب أقرأ في علم الأديان المقارن. بيوسع مداركي وبيعرفني على ثقافات ومعتقدات مختلفة. بحترم كل الأديان.",
+    "g2p": "ana ba7ebb a2ra fe 3elm el2adyaan elmoqaaran. beywassa3 madaareky webey3arrafny 3ala thaqafaat wemo3taqadaat mokhtalefa. ba7terem kol el2adyaan."
+  },
+  {
+    "text": "الدال على الخير كفاعله. لما بتنصح حد بحاجة كويسة بتاخد نفس الأجر. لازم نشجع بعض على الخير.",
+    "g2p": "eddaal 3alkheer kafaa3eleh. lamma betenSa7 7add be7aaga kwayyesa betaakhod nafs el2agr. laazem neshagga3 ba3D 3alkheer."
+  },
+  {
+    "text": "أنا بحب أعمل أكلات من مطابخ عالمية مختلفة. زي المطبخ الإيطالي والهندي والصيني. كل مطبخ ليه نكهته الخاصة.",
+    "g2p": "ana ba7ebb a3mel akalaat men maTaabekh 3aalameyya mokhtalefa. zay elmaTbakh el2iiTaaly welhendy weSSeeny. kol maTbakh leeh nakheto elkhaaSSa."
+  },
+  {
+    "text": "لا تحقرن من المعروف شيئاً ولو أن تلقى أخاك بوجه طلق. أصغر عمل خير ليه أجر كبير عند ربنا. الابتسامة صدقة.",
+    "g2p": "la ta7qeranna men elma3roof shay2an walaw an talqa akhaak bewaghen Talq. aSghar 3amal kheer leeh agr kibiir 3and rabbena. el2ebtesaama Sadaqa."
+  }
+]

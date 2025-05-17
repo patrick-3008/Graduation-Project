@@ -1,0 +1,766 @@
+[
+  {
+    "text": "النهاردة صحيت بدري عشان أخلص شوية حاجات في البيت. غسلت المواعين وروقت الأوضة ونشرت الغسيل. لسه فاضل أطبخ الغدا وأنزل أشتري طلبات من السوبر ماركت.",
+    "g2p": "ennaharda Se7iit badry 3ashaan akhallaS shwayyet 7agaat felbeet. ghasalt elmawa3iin werawe2t el2ooDa wenashart elghasiil. lessa faaDel aTbokh elghada wa2anzel ashteery Talabaat men essupermarket."
+  },
+  {
+    "text": "صاحبي محمد ده شخصية جدعة أوي. دايماً بيقف جنب أصحابه في الشدة. وكمان دمه خفيف وبيحب الهزار. كلنا بنحبه وبنحترمه.",
+    "g2p": "Sa7by mo7ammad da shakhSeyya gad3a 2awy. dayman beyo2af gamb aS7aabo feshshedda. wekamaan dammo khafiif webey7ebb elhezaar. kollena ben7ebbo wene7termo."
+  },
+  {
+    "text": "اتفرجت امبارح على مسلسل جديد شكله حلو أوي. القصة بتاعته مشوقة والأحداث سريعة. الممثلين كمان عاملين أدوارهم كويس جداً. متحمس أشوف باقي الحلقات.",
+    "g2p": "etfarragt embaare7 3ala mosalsal gidiid shaklo 7elw 2awy. elqeSSa beta3to moshawweqa wel2a7daath sarii3a. elmomasseliin kamaan 3amliin adwaarhom kwayyes geddan. met7ammes ashoof baa2y el7ala2aat."
+  },
+  {
+    "text": "الجو النهاردة شكله هيبقى حر. بفكر أروح أقعد على أي كافيه فيه تكييف. أو ممكن نروح النادي بالليل لما الجو يطري شوية.",
+    "g2p": "elgaww ennaharda shaklo hayeb2a 7arr. bafakkar aroo7 a23od 3ala ay kafeeh fiih takyiif. aw momken neroo7 ennaady belleel lamma elgaww yeTry shwayya."
+  },
+  {
+    "text": "لو سمحت، ممكن أعرف أقرب محطة مترو من هنا فين؟ أنا تايه ومش عارف أروح إزاي. ولو تعرف أتوبيس يوصلني لوسط البلد يبقى كتر خيرك.",
+    "g2p": "law sama7t, momken a3raf a2rab ma7aTTet metro men hena feen? ana taayeh wemesh 3aaref aroo7 ezzaay. welaw te3raf otobiis yewaSSalny leweST elbalad yeb2a kottar kherak."
+  },
+  {
+    "text": "أنا جعان موت وعايز أكل حاجة حلوة. ممكن نطلب بيتزا أو نعمل مكرونة بشاميل في البيت؟ أي حاجة سريعة وطعمها حلو وخلاص.",
+    "g2p": "ana ga3aan moot we3aayez aakol 7aaga 7elwa. momken noTlob biitza aw ne3mel makarona bashameel felbeet? ay 7aaga sarii3a weTa3maha 7elw wekhalaaS."
+  },
+  {
+    "text": "بفكر أغير ديكور الشقة شوية. عايز أدهن الحيطان لون جديد وأشتري شوية زرع. التغيير مطلوب وبيحسن النفسية.",
+    "g2p": "bafakkar aghayyar diikoor eshsha22a shwayya. 3aayez adhen el7iiTaan loon gidiid wa2ashtery shwayyet zar3. ettaghyiir maTloob webey7assen ennafseyya."
+  },
+  {
+    "text": "أنا لازم أبدأ أعمل رياضة بانتظام. صحتي بقت مش أحسن حاجة. هحاول أنزل الجيم تلات مرات في الأسبوع وأمشي كل يوم نص ساعة.",
+    "g2p": "ana laazem abda2 a3mel reyaaDa bentzaam. Se77ety ba2et mesh a7san 7aaga. ha7aawel anzel elgym talaat marraat fel2osboo3 wa2amshy kol yoom noSS saa3a."
+  },
+  {
+    "text": "عيد ميلاد أختي قرب ولازم أجيبلها هدية حلوة. هي بتحب القراءة، ممكن أجيبلها مجموعة كتب جديدة. أو ممكن أجيبلها برفان بتحبه.",
+    "g2p": "3iid miilaad okhty 2arrab welaazem agiibellaha hedeyya 7elwa. heyya bet7ebb elqeraa2a, momken agiibellaha magmoo3et kotob gidiida. aw momken agiibellaha barfaan bet7ebbo."
+  },
+  {
+    "text": "عندي مشوار ضروري بكرة الصبح في مصلحة حكومية. يارب أخلص الورق بسرعة وميكنش فيه زحمة. المصالح الحكومية دي هم.",
+    "g2p": "3andy meshwaar Daroory bokra eSSob7 fe maSla7a 7okoomiyya. ya rab akhallaS elwara2 besor3a wemaykonsh fiih za7ma. elmaSaale7 el7okoomiyya di hamm."
+  },
+  {
+    "text": "أنا بحب أوي أتمشى على الكورنيش بالليل. منظر النيل والأنوار بيبقى تحفة. الجو بيكون هادي ومريح للأعصاب.",
+    "g2p": "ana ba7ebb 2awy atmashsha 3alkorniish belleel. manZar enniil wel2anwaar beyeb2a to7fa. elgaww beykoon haady wemorii7 lel2a3Saab."
+  },
+  {
+    "text": "النت عندي فاصل بقاله يومين. كلمت خدمة العملا وقالوا هييجوا يصلحوه بكرة. أنا شغلي كله واقف بسبب الموضوع ده.",
+    "g2p": "ennet 3andy faaSel ba2aalo yomeen. kallemt khedmet el3omala we2aalo hayiigo yeSalla7ooh bokra. ana shoghly kollo waa2ef besabab elmawDoo3 da."
+  },
+  {
+    "text": "أنا بفكر أخد كورس لغة إنجليزية عشان أحسن مستوايا. اللغة مهمة جداً في الشغل والسفر. لازم أطور من نفسي باستمرار.",
+    "g2p": "ana bafakkar aakhod kors logha engliizeyya 3ashaan a7assen mostawaaya. ellogha mohemma geddan feshshoghl wessafar. laazem aTawwar men nafsy bestemraar."
+  },
+  {
+    "text": "عايز أسافر الساحل الشمالي في الصيف الجاي. الجو هناك بيبقى روعة والبحر تحفة. محتاجين نغير جو ونفصل شوية من ضغط الشغل.",
+    "g2p": "3aayez asaafer essaa7el eshshamaaly feSSeef elgaay. elgaww henaak beyeb2a raw3a welba7r to7fa. me7tagiin neghayyar gaww wenefSel shwayya men DaghT eshshoghl."
+  },
+  {
+    "text": "أنا بحب أسمع أغاني أم كلثوم وعبد الحليم حافظ. أغاني الزمن الجميل ليها طعم تاني. كلماتها وألحانها عبقرية.",
+    "g2p": "ana ba7ebb asma3 aghaany omm kalthoom we3abdel7aliim 7aafez. aghaany ezzaman elgamiil liiha Ta3m taany. kalimaatha wa2al7aanha 3abqareyya."
+  },
+  {
+    "text": "بنتي الصغيرة عندها حفلة في المدرسة بكرة. هي متحمسة جداً وهتلبس فستان جديد. يارب تفرح وتنبسط.",
+    "g2p": "benty eSSoghayyara 3andaha 7afla felmadrasa bokra. heyya met7ammesa geddan wehatelbes fustaan gidiid. ya rab tefra7 wetenbeseT."
+  },
+  {
+    "text": "أنا بحاول أقلل شرب القهوة شوية. بشربها كتير أوي وده مش صحي. هحاول أستبدلها بشاي أخضر أو ينسون.",
+    "g2p": "ana ba7aawel a2allel shorb el2ahwa shwayya. bashrabha keteer 2awy weda mesh Se77y. ha7aawel astabdelha beshaay akhDar aw yansoon."
+  },
+  {
+    "text": "الشارع اللي جنبنا فيه حفرة كبيرة. العربيات كلها بتبوظ منها. لازم نكلم الحي ييجوا يصلحوها بسرعة.",
+    "g2p": "eshshaare3 elly gambena fiih 7ofra kibiira. el3arabeyyaat kollaha betbooz menha. laazem nekallem el7ayy yiigo yeSalla7ooha besor3a."
+  },
+  {
+    "text": "أنا بحب أقرأ روايات تاريخية. بتعرفني على أحداث وشخصيات مهمة. وبتاخدني عالم تاني خالص.",
+    "g2p": "ana ba7ebb a2ra rewayaat tariikheyya. bet3arrafny 3ala a7daath weshakhSeyyaat mohemma. webetakhodny 3aalam taany khaaleS."
+  },
+  {
+    "text": "عندي عزومة بكرة ولازم أجهز كل حاجة من النهاردة. هعمل محشي وفراخ وملوخية. يارب الأكل يعجبهم.",
+    "g2p": "3andy 3ozooma bokra welaazem agahhez kol 7aaga men ennaharda. ha3mel ma7shy weferaakh wemolokheyya. ya rab el2akl ye3gebhom."
+  },
+  {
+    "text": "الموبايل بتاعي بطاريته بتبوظ بسرعة. شكله كده محتاج يتغير. بفكر أشتري واحد جديد الأسبوع الجاي.",
+    "g2p": "elmobayl beta3y baTTareyyeto betbooz besor3a. shaklo keda me7taag yetghayyar. bafakkar ashteery waa7ed gidiid el2osboo3 elgaay."
+  },
+  {
+    "text": "النهاردة الجو جميل ومشمس. ممكن ننزل نتمشى في الحديقة أو نروح أي مكان مفتوح. محتاجين نستمتع بالشمس شوية.",
+    "g2p": "ennaharda elgaww gameel wemoshmes. momken nenzel netmashsha fel7adiiqa aw neroo7 ay makaan maftoo7. me7tagiin nestamte3 beshshams shwayya."
+  },
+  {
+    "text": "أنا بحب أوي أتابع برامج الطبخ. بتعلم منها وصفات جديدة وأفكار حلوة للأكل. الشيفات بيكونوا شاطرين أوي.",
+    "g2p": "ana ba7ebb 2awy ataabe3 baraameg eTTabkh. bat3allem menha waSafaat gidiida wa2afkaar 7elwa lel2akl. eshshefaat beykoono shaTriin 2awy."
+  },
+  {
+    "text": "ابني عنده امتحان صعب بكرة. قاعد بيذاكر من الصبح. يارب يوفقه ويحل كويس.",
+    "g2p": "ebny 3ando emte7aan Sa3b bokra. 2aa3ed beyzaaker men eSSob7. ya rab yewaffa2o weye7ell kwayyes."
+  },
+  {
+    "text": "أنا عايز أتعلم العزف على الجيتار. بحس إنها آلة موسيقية جميلة وصوتها حلو. هبدأ أدور على مدرس كويس.",
+    "g2p": "ana 3aayez at3allem el3azf 3algiitaar. ba7ess ennaha aala mosiiqeyya gameela weSoot-ha 7elw. habda2 adawwar 3ala modarres kwayyes."
+  },
+  {
+    "text": "الأسعار كلها غليت أوي الفترة دي. الواحد مبقاش عارف يعمل إيه. ربنا يسترها علينا.",
+    "g2p": "el2as3aar kollaha ghelyet 2awy elfatra di. elwaa7ed maba2aash 3aaref ye3mel eeh. rabbena yostorha 3aleena."
+  },
+  {
+    "text": "أنا بحب أزور الأماكن الأثرية في مصر. عندنا حضارة عظيمة وتاريخ كبير. لازم نفتخر ببلدنا.",
+    "g2p": "ana ba7ebb azoor el2amaaken el2athareyya fe maSr. 3andena 7aDaara 3aZiima wetariikh kibiir. laazem neftekhkher bebaladna."
+  },
+  {
+    "text": "جارتنا عاملة عملية بكرة. لازم نروح نزورها ونطمن عليها. الجار للجار.",
+    "g2p": "garetna 3amla 3amaleyya bokra. laazem neroo7 nezorha weneTammen 3aleeha. elgaar lelgaar."
+  },
+  {
+    "text": "أنا بحاول أنظم وقتي كويس عشان أقدر أخلص كل اللي ورايا. بعمل قائمة بالمهام كل يوم. التنظيم مهم جداً.",
+    "g2p": "ana ba7aawel anaZZam wa2ty kwayyes 3ashaan a2dar akhallaS kol elly waraaya. ba3mel qa2ema belmahaam kol yoom. ettanZiim mohem geddan."
+  },
+  {
+    "text": "أنا بحب أوي أعمل حلويات شرقية في البيت. الكنافة والبقلاوة والقطايف طعمهم تحفة. بس سعراتهم عالية شوية.",
+    "g2p": "ana ba7ebb 2awy a3mel 7alaweyyaat shar2eyya felbeet. elkonaafa welba2laawa welqaTaayef Ta3mohom to7fa. bass so3raathom 3alya shwayya."
+  },
+  {
+    "text": "الفيلم اللي شوفته امبارح كان ممل أوي. ندمت إني ضيعت وقتي فيه. القصة كانت ضعيفة والأحداث بطيئة.",
+    "g2p": "elfilm elly shofto embaare7 kaan momell 2awy. nedemt enny Dayya3t wa2ty fiih. elqeSSa kaanet Da3iifa wel2a7daath baTii2a."
+  },
+  {
+    "text": "أنا بفكر أشتري عربية جديدة. عربيتي القديمة بقت بتعطل كتير. محتاج عربية عملية وموفرة في البنزين.",
+    "g2p": "ana bafakkar ashteery 3arabeyya gidiida. 3arabeyyety el2adiima ba2et bet3aTTal keteer. me7taag 3arabeyya 3amaleyya wemowaffera felbanziin."
+  },
+  {
+    "text": "النهاردة عيد ميلاد صاحبتي الانتيم. لازم أعملها مفاجأة حلوة. هي تستاهل كل خير.",
+    "g2p": "ennaharda 3iid miilaad Sa7bety el2antiim. laazem a3mel-laha mofag2a 7elwa. heyya testahel kol kheer."
+  },
+  {
+    "text": "أنا بحب أقرأ كتب عن تطوير الذات وعلم النفس. بتساعدني أفهم نفسي والناس أحسن. وبتديني أفكار إيجابية.",
+    "g2p": "ana ba7ebb a2ra kotob 3an taTwiir ezzaat we3elm ennafs. betsaa3edny afham nafsy wennaas a7san. webeteddiiny afkaar iigaabeyya."
+  },
+  {
+    "text": "الزحمة في شوارع القاهرة لا تطاق. الواحد بيضيع نص عمره في المواصلات. لازم يشوفوا حل للمشكلة دي.",
+    "g2p": "ezza7ma fe shawaare3 elqaahira la toTaaq. elwaa7ed beyDayya3 noSS 3omro felmowaSlaat. laazem yeshoofo 7all lelmeshkela di."
+  },
+  {
+    "text": "أنا بحب أربي قطط في البيت. حيوانات لطيفة ومسلية. بس محتاجين رعاية واهتمام.",
+    "g2p": "ana ba7ebb arabby oTaT felbeet. 7ayawanaat laTiifa wemosalleyya. bass me7tagiin re3aaya wehtemaam."
+  },
+  {
+    "text": "بكرة أول يوم ليا في الشغل الجديد. أنا متحمس ومتوتر في نفس الوقت. يارب تكون بداية كويسة.",
+    "g2p": "bokra awwal yoom leyya feshshoghl elgidiid. ana met7ammes wemetwattar fe nafs elwa2t. ya rab tekoon bedaaya kwayyesa."
+  },
+  {
+    "text": "أنا بحب أجمع الطوابع والعملات القديمة. هواية ممتعة ومفيدة. بتعرفني على تاريخ الدول المختلفة.",
+    "g2p": "ana ba7ebb agamma3 eTTawaabe3 wel3omlaat el2adiima. hewaaya momte3a wemofiida. bet3arrafny 3ala tariikh eddowal elmokhtalefa."
+  },
+  {
+    "text": "الجو النهاردة برد وممطر. أحسن حاجة الواحد يقعد في البيت يشرب حاجة سخنة ويتفرج على فيلم. الجو ده بتاع بطاطين.",
+    "g2p": "elgaww ennaharda bard wemomTer. a7san 7aaga elwaa7ed yo23od felbeet yeshrab 7aaga sokhna weyetfarrag 3ala film. elgaww da beta3 baTaTiin."
+  },
+  {
+    "text": "أنا بحاول أتعلم الطبخ من ماما. نفسها في الأكل تحفة. نفسي أبقى شاطرة زيها في المطبخ.",
+    "g2p": "ana ba7aawel at3allem eTTabkh men mama. nafasaha fel2akl to7fa. nefsy ab2a shaTra zayyaha felmaTbakh."
+  },
+  {
+    "text": "المواصلات العامة في مصر محتاجة تطوير كبير. الأتوبيسات والمترو دايماً زحمة ومش نضيفة. لازم يهتموا بيها أكتر.",
+    "g2p": "elmowaSlaat el3aamma fe maSr me7taaga taTwiir kibiir. el2otobiisaat welmetro dayman za7ma wemesh neDiifa. laazem yehtammo biiha aktar."
+  },
+  {
+    "text": "أنا بحب أروح المكتبة أقرأ كتب وأذاكر في هدوء. المكان هناك بيكون مريح وبيساعد على التركيز. وبلاقي كتب قيمة.",
+    "g2p": "ana ba7ebb aroo7 elmaktaba a2ra kotob wa2azaaker fe hodoo2. elmakaan henaak beykoon morii7 webeysaa3ed 3ala ettarkiiz. webelaa2y kotob qayyema."
+  },
+  {
+    "text": "عندي صداع فظيع من إمبارح. شكلي خدت برد أو ضغط الشغل مأثر عليا. لازم أرتاح شوية وأخد مسكن.",
+    "g2p": "3andy Sodaa3 faZii3 men embaare7. shakly khadt bard aw DaghT eshshoghl me2aththar 3alayya. laazem artaa7 shwayya wa2aakhod mosakken."
+  },
+  {
+    "text": "أنا بحب أوي ألوان الباستيل الهادية. بحس إنها مريحة للعين وبتدي إحساس بالهدوء. معظم لبسي وديكور بيتي منها.",
+    "g2p": "ana ba7ebb 2awy alwaan elbasteel elhadya. ba7ess ennaha morii7a lel3een webeteddy e7saas belhodoo2. mo3Zam lebsy wediikoor beety menha."
+  },
+  {
+    "text": "ابني الصغير بدأ يمشي ويتكلم. فرحان بيه أوي. كل يوم بيكتشف حاجة جديدة. الأطفال دول نعمة كبيرة.",
+    "g2p": "ebny eSSoghayyar bada2 yemshy weyetkallem. far7aan biih 2awy. kol yoom beyekteshef 7aaga gidiida. el2aTfaal dool ne3ma kibiira."
+  },
+  {
+    "text": "أنا بحاول ألتزم بنظام غذائي صحي. باكل خضار وفاكهة كتير وبقلل السكريات والدهون. الصحة تاج على رؤوس الأصحاء.",
+    "g2p": "ana ba7aawel altazem benezaam ghezaa2y Se77y. baakol khoDaar wefakha keteer weba2allel essokareyyaat weddohoon. eSSe77a taag 3ala ro2oos el2aSe77aa2."
+  },
+  {
+    "text": "النهاردة يوم الجمعة يعني أجازة. هقضي اليوم مع العيلة. هنروح نتغدى بره ونعمل شوبنج. أحلى يوم في الأسبوع.",
+    "g2p": "ennaharda yoom elgom3a ya3ny agaaza. ha2aDDy elyoomen ma3a el3eela. haneroo7 netghadda barra wene3mel shobing. a7la yoom fel2osboo3."
+  },
+  {
+    "text": "أنا بحب أتابع أخبار التكنولوجيا والاختراعات الجديدة. العالم بيتطور بسرعة رهيبة. لازم نواكب التطور ده.",
+    "g2p": "ana ba7ebb ataabe3 akhbaar etteknologya welekhteraa3aat elgidiida. el3aalam beyTaTWar besor3a rahiiba. laazem newaakeb ettaTawwor da."
+  },
+  {
+    "text": "عندي فرح صاحبي الأسبوع الجاي. لازم أشتري فستان جديد وأروح الكوافير. متحمسة جداً للفرح.",
+    "g2p": "3andy fara7 Sa7by el2osboo3 elgaay. laazem ashteery fustaan gidiid wa2aroo7 elkwafeer. met7ammesa geddan lelFara7."
+  },
+  {
+    "text": "أنا بحب أزرع نباتات زينة في البلكونة. الخضرة بتدي منظر جميل وبتنقي الجو. بحس براحة نفسية لما بشوفها.",
+    "g2p": "ana ba7ebb azra3 nabataat ziina felbalakona. elkhoDra beteddy manZar gameel webetna22y elgaww. ba7ess beraa7a nafseyya lamma bashoofha."
+  },
+  {
+    "text": "الواحد لما بيكون متضايق بيحب يفضفض مع حد قريب منه. الكلام بيريح وبيخفف الحمل. الصاحب الجدع كنز.",
+    "g2p": "elwaa7ed lamma beykoon metDaaye2 bey7ebb yefaDfaD ma3a 7add qorayyeb menno. elkalaam beyrayya7 webeykhaffef el7eml. eSSaa7eb elgada3 kenz."
+  },
+  {
+    "text": "أنا بحب أتعلم لغات جديدة. كل لغة بتفتحلي باب على ثقافة مختلفة. حالياً بتعلم ألماني وصعب شوية بس ممتع.",
+    "g2p": "ana ba7ebb at3allem loghaat gidiida. kol logha betefta7ly baab 3ala thaqafa mokhtalefa. 7aaleyyan bat3allem almaany weSa3b shwayya bass momte3."
+  },
+  {
+    "text": "رمضان قرب كل سنة وانتوا طيبين. بحب أجواء رمضان ولمة العيلة والفوانيس. شهر كله خير وبركة.",
+    "g2p": "ramaDaan 2arrab kol sana wento Tayyebiin. ba7ebb agwaa2 ramaDaan welammet el3eela welfawaniis. shahr kollo kheer wabaraka."
+  },
+  {
+    "text": "أنا بحب أوي أروح السينما وأتفرج على الأفلام الجديدة. خصوصاً أفلام الأكشن والخيال العلمي. تجربة ممتعة.",
+    "g2p": "ana ba7ebb 2awy aroo7 essinema wa2atfarrag 3al2aflaam elgidiida. khoSooSan aflaam el2akshan welkhayaal el3elmy. tagreba momte3a."
+  },
+  {
+    "text": "الكهربا بتقطع كتير أوي اليومين دول. الواحد مش عارف يعمل إيه في الحر ده. يارب المشكلة دي تتحل قريب.",
+    "g2p": "elkahraaba beto2Ta3 keteer 2awy elyomeen dool. elwaa7ed mesh 3aaref ye3mel eeh fel7arr da. ya rab elmoshkela di tet7all 2orayyeb."
+  },
+  {
+    "text": "أنا بحب أوي أعمل كيكة شيكولاتة في البيت. ريحتها بتبقى مالية الشقة. والولاد بيفرحوا بيها جداً.",
+    "g2p": "ana ba7ebb 2awy a3mel kiiket shokolaata felbeet. rii7etha beteb2a malya eshsha22a. welwelaad beyefra7o biiha geddan."
+  },
+  {
+    "text": "المرور الصبح بيكون صعب جداً. الواحد بيقعد بالساعات في الطريق. لازم أخرج بدري عن كده بكتير.",
+    "g2p": "elmoroor eSSob7 beykoon Sa3b geddan. elwaa7ed beyo23od bessaa3aat feTTarii2. laazem akhrog badry 3an keda bekteer."
+  },
+  {
+    "text": "أنا بحب أوي الأكل البيتي. بيكون أنضف وأصح من أكل بره. وماما نفسها في الأكل ملوش حل.",
+    "g2p": "ana ba7ebb 2awy el2akl elbeety. beykoon anDaf wa2aSa77 men akl barra. wemama nafasaha fel2akl malosh 7all."
+  },
+  {
+    "text": "النهاردة قابلت واحد صاحبي من أيام الدراسة بالصدفة. بقالنا سنين متقابلناش. اتبسطت جداً بالمقابلة دي.",
+    "g2p": "ennaharda 2aabelt waa7ed Sa7by men ayyaam edderaasa beSSoDfa. ba2aalna seniin meta2abelnaash. etbasaTt geddan belmo2abla di."
+  },
+  {
+    "text": "أنا بحب أوي فصل الشتا. بحب جو المطر والبرد والدفا. وبحب لبس الشتا التقيل.",
+    "g2p": "ana ba7ebb 2awy faSl eshsheta. ba7ebb gaww elmaTar welbard weddafa. weba7ebb lebs eshsheta ette2eel."
+  },
+  {
+    "text": "عندي اجتماع مهم بكرة في الشغل. لازم أكون مركز ومحضر كويس. الاجتماع ده هيترتب عليه حاجات كتير.",
+    "g2p": "3andy egtemaa3 mohem bokra feshshoghl. laazem akoon merakkiz weme7aDDar kwayyes. el2egtemaa3 da hayetrattab 3aleeh 7agaat keteer."
+  },
+  {
+    "text": "أنا بحب أوي أروح الأماكن الهادية اللي مفيهاش دوشة. بحب أستمتع بالهدوء والطبيعة. بتريح الأعصاب.",
+    "g2p": "ana ba7ebb 2awy aroo7 el2amaaken elhadya elly mafiihaash dawsha. ba7ebb astamte3 belhodoo2 weTTabii3a. betrayya7 el2a3Saab."
+  },
+  {
+    "text": "بفكر أعمل مشروع صغير خاص بيا. محتاج أدرس السوق كويس وأشوف إيه المطلوب. نفسي أكون مستقل مادياً.",
+    "g2p": "bafakkar a3mel mashroo3 Soghayyar khaaS beyya. me7taag adros essoo2 kwayyes wa2ashoof eeh elmaTloob. nefsy akoon mostaqell maddeyan."
+  },
+  {
+    "text": "أنا بحب أوي أقرأ قصص الأطفال لبنتي قبل ما تنام. بتفرح بيها جداً. وبتساعدها تنام بسرعة.",
+    "g2p": "ana ba7ebb 2awy a2ra qeSaS el2aTfaal lebenty qabl ma tenaam. betefra7 biiha geddan. webetsaa3edha tenaam besor3a."
+  },
+  {
+    "text": "الجو حر جداً النهاردة. درجة الحرارة معدية الأربعين. الواحد مش طايق نفسه. محتاجين تكييف ضروري.",
+    "g2p": "elgaww 7arr geddan ennaharda. daraget el7araara me3addeyya el2arbe3iin. elwaa7ed mesh Taayeq nafso. me7tagiin takyiif Daroory."
+  },
+  {
+    "text": "أنا بحب أوي أتابع مباريات كرة القدم. خصوصاً ماتشات الأهلي. بتفرج عليها مع صحابي وبنكون متحمسين جداً.",
+    "g2p": "ana ba7ebb 2awy ataabe3 mobarayaat koret elqadam. khoSooSan matshaat el2ahly. batfarrag 3aleeha ma3a aS7aaby webenkoon met7ammesiin geddan."
+  },
+  {
+    "text": "لازم أروح أشتري شوية حاجات للبيت من السوبر ماركت. التلاجة فضيت خالص. هعمل قائمة بالطلبات عشان منساش حاجة.",
+    "g2p": "laazem aroo7 ashteery shwayyet 7agaat lelbeet men essupermarket. ettallaaga feDyet khaaleS. ha3mel qa2ema beTTalabaat 3ashaan mansaash 7aaga."
+  },
+  {
+    "text": "أنا بحب أوي أسافر وأشوف أماكن جديدة. السفر بيوسع المدارك وبيعرفنا على ثقافات مختلفة. نفسي ألف العالم كله.",
+    "g2p": "ana ba7ebb 2awy asaafer wa2ashoof amaaken gidiida. essafar beywassa3 elmadaarek webey3arrafna 3ala thaqafaat mokhtalefa. nefsy aleff el3aalam kollo."
+  },
+  {
+    "text": "النهاردة صحيت متأخر ونزلت الشغل جري. يارب ألحق أخلص اللي ورايا. مابحبش أتأخر على مواعيدي.",
+    "g2p": "ennaharda Se7iit met2akhkhar wenezelt eshshoghl gary. ya rab al7a2 akhallaS elly waraaya. maba7ebbesh at2akhkhar 3ala mawa3iidy."
+  },
+  {
+    "text": "أنا بحب أوي ريحة القهوة الصبح. بتفوقني وبتخليني أبدأ يومي بنشاط. القهوة دي مزاج.",
+    "g2p": "ana ba7ebb 2awy rii7et el2ahwa eSSob7. betfawe2ny webetkhalliiny abda2 yoomy benashaaT. el2ahwa di mazaag."
+  },
+  {
+    "text": "عندي برد شديد وصوتي رايح خالص. لازم أشرب حاجات سخنة وأرتاح في البيت. يارب أخف بسرعة.",
+    "g2p": "3andy bard shadiid weSooty raaye7 khaaleS. laazem ashrab 7agaat sokhna wa2artaa7 felbeet. ya rab akheff besor3a."
+  },
+  {
+    "text": "أنا بحب أوي أعمل شوبنج وأشتري لبس جديد. بحس بسعادة لما بجدد في شكلي. الموضة بتتغير بسرعة.",
+    "g2p": "ana ba7ebb 2awy a3mel shobing wa2ashteery lebs gidiid. ba7ess besa3aada lamma bagadded fe shakly. elmooDa betetghayyar besor3a."
+  },
+  {
+    "text": "النهاردة اتغديت سمك مشوي ورز صيادية. الأكل كان طعمه تحفة. أنا بعشق السمك بكل أنواعه.",
+    "g2p": "ennaharda etghaddeet samak mashwy werozz Sayyadeyya. el2akl kaan Ta3mo to7fa. ana ba3sha2 essamak bekol anwaa3o."
+  },
+  {
+    "text": "أنا بحب أوي أروح المصيف في الصيف. بحب البحر والرملة والشمس. المصيف بيغير مودي تماماً.",
+    "g2p": "ana ba7ebb 2awy aroo7 elmaSyaf feSSeef. ba7ebb elba7r werramla weshshams. elmaSyaf beyghayyar muudy tamaaman."
+  },
+  {
+    "text": "بكرة عندي معاد مع دكتور السنان. سناني بتوجعني بقالها كام يوم. يارب الموضوع يطلع بسيط.",
+    "g2p": "bokra 3andy ma3aad ma3a doktoor essenan. senaany betewga3ny ba2aalha kaam yoom. ya rab elmawDoo3 yeTla3 basiiT."
+  },
+  {
+    "text": "أنا بحب أوي أسمع مزيكا هادية وأنا بشتغل. بتساعدني أركز وبتخليني أهدى. المزيكا ليها تأثير سحري.",
+    "g2p": "ana ba7ebb 2awy asma3 mazziika hadya wana bashtaghal. betsaa3edny arakkez webetkhalliiny ahda. elmazziika liiha ta2thiir se7ry."
+  },
+  {
+    "text": "لازم أنضف الشقة النهاردة. بقالها كام يوم متبهدلة. التنضيف بياخد وقت ومجهود بس بيريح الأعصاب.",
+    "g2p": "laazem anaDDaf eshsha22a ennaharda. ba2aalha kaam yoom metbahdela. ettanDiif beyakhod wa2t wemaghood bass beyrayya7 el2a3Saab."
+  },
+  {
+    "text": "أنا بحب أوي أتمشى في الشوارع القديمة في وسط البلد. بحس كأني رجعت بالزمن. المباني هناك ليها طابع خاص.",
+    "g2p": "ana ba7ebb 2awy atmashsha feshshawaare3 el2adiima fe weST elbalad. ba7ess ka2enny rege3t bezaman. elmabaany henaak liiha Taabe3 khaaS."
+  },
+  {
+    "text": "النهاردة الجو حلو أوي. لا حر ولا برد. جو ربيعي جميل. ممكن ننزل نتمشى أو نروح أي مكان مفتوح.",
+    "g2p": "ennaharda elgaww 7elw 2awy. la 7arr wala bard. gaww rabii3y gameel. momken nenzel netmashsha aw neroo7 ay makaan maftoo7."
+  },
+  {
+    "text": "أنا بحب أوي أتفرج على أفلام وثائقية عن الحيوانات والطبيعة. بتعلم منها حاجات كتير. وبتوريني عظمة خلق الله.",
+    "g2p": "ana ba7ebb 2awy atfarrag 3ala aflaam wathaa2eqeyya 3an el7ayawanaat weTTabii3a. bat3allem menha 7agaat keteer. webetwarriiny 3aZamet khal2 allaah."
+  },
+  {
+    "text": "عندي فرح واحدة صاحبتي قريب. بفكر ألبس إيه وأعمل شعري إزاي. الأفراح بتكون مناسبة حلوة للبس والشياكة.",
+    "g2p": "3andy fara7 wa7da Sa7bety 2orayyeb. bafakkar albes eeh wa2a3mel sha3ry ezzaay. el2afraa7 betkoon monasba 7elwa lel-lebs weshshiyaaka."
+  },
+  {
+    "text": "أنا بحب أوي أعمل هدايا يدوية لأصحابي. بحس إنها بتكون ليها قيمة أكبر. وبتعبر عن مجهودي وحبي ليهم.",
+    "g2p": "ana ba7ebb 2awy a3mel hadaaya yadaweyya le2aS7aaby. ba7ess ennaha betkoon liiha qiima akbar. webet3abbar 3an maghoody we7obby liihom."
+  },
+  {
+    "text": "الواحد لازم يهتم بصحته النفسية زي الجسدية بالظبط. الضغط النفسي ممكن يدمر أي حد. لازم نلاقي طرق نخفف بيها عن نفسنا.",
+    "g2p": "elwaa7ed laazem yehtamm beSe77eto ennafseyya zay elgasadeyya bezzaBT. eDDaghT ennafsy momken yedammar ay 7add. laazem nelaa2y Toro2 nekhaffef biiha 3an nafsena."
+  },
+  {
+    "text": "أنا بحب أوي أقرأ شعر. بحس إن الشعر بيعبر عن المشاعر بطريقة مختلفة وجميلة. شعراء العامية المصرية عباقرة.",
+    "g2p": "ana ba7ebb 2awy a2ra she3r. ba7ess en eshshe3r bey3abbar 3an elmashaa3er beTarii2a mokhtalefa wagameela. sho3araa2 el3aammeyya elmaSreyya 3abaaqera."
+  },
+  {
+    "text": "النهاردة فطرت فول وطعمية. أحلى فطار مصري أصيل. بيديني طاقة أكمل بيها اليوم.",
+    "g2p": "ennaharda feTert fuul weTa3meyya. a7la feTaar maSry aSiil. beyeddiiny Taaqa akammel biiha elyoomen."
+  },
+  {
+    "text": "أنا بحب أوي أروح الأماكن التاريخية وأتصور هناك. بحس بعظمة التاريخ وبكون فخورة ببلدي. مصر أم الدنيا.",
+    "g2p": "ana ba7ebb 2awy aroo7 el2amaaken ettariikheyya wa2atSawwar henaak. ba7ess be3aZamet ettariikh webakoon fakhoora bebalady. maSr omm eddonya."
+  },
+  {
+    "text": "بكرة الجمعة أجازة. هنام براحتي وأصحى متأخر. ممكن أخرج بالليل مع صحابي أو أقعد في البيت أتفرج على فيلم.",
+    "g2p": "bokra elgom3a agaaza. hanaam beraa7ty wa2aS7a met2akhkhar. momken akhrog belleel ma3a aS7aaby aw a23od felbeet atfarrag 3ala film."
+  },
+  {
+    "text": "أنا بحب أوي أعمل ديكورات بسيطة في البيت بنفسي. بتدي لمسة جمالية وبتغير شكل المكان. بحس بمتعة وأنا بعملها.",
+    "g2p": "ana ba7ebb 2awy a3mel diikoraat basiiTa felbeet benafsy. beteddy lamsa gamaaleyya webetghayyar shakl elmakaan. ba7ess bemot3a wana ba3melha."
+  },
+  {
+    "text": "المرور واقف خالص في صلاح سالم. بقالي ساعة في نفس المكان. يارب أتحرك شوية عشان ألحق معادي.",
+    "g2p": "elmoroor waa2ef khaaleS fe Salaa7 saalem. ba2aaly saa3a fe nafs elmakaan. ya rab at7arrak shwayya 3ashaan al7a2 ma3aady."
+  },
+  {
+    "text": "أنا بحب أوي أكل الفاكهة في الصيف. بتكون منعشة ومرطبة. المانجا والبطيخ من الفواكه المفضلة عندي.",
+    "g2p": "ana ba7ebb 2awy aakol elfakha feSSeef. betkoon mon3esha wemoraTTeba. elmanga welbaTTiikh men elfawaakeh elmofaDDala 3andy."
+  },
+  {
+    "text": "عندي شغل كتير متراكم عليا. لازم أبدأ أخلصه عشان مدخلش في ضغط. التنظيم هيساعدني أنجز بسرعة.",
+    "g2p": "3andy shoghl keteer motaraakem 3alayya. laazem abda2 akhallaSo 3ashaan madkholsh fe DaghT. ettanZiim haysaa3edny angez besor3a."
+  },
+  {
+    "text": "أنا بحب أوي أزور أهرامات الجيزة. بحس بعظمة الفراعنة وقدرتهم على بناء الصرح العظيم ده. مكان ساحر.",
+    "g2p": "ana ba7ebb 2awy azoor ahramaat elgiiza. ba7ess be3aZamet elfara3na weqodrethom 3ala benaa2 eSSar7 el3aZiim da. makaan saa7er."
+  },
+  {
+    "text": "النهاردة الجو مغيم وشكله هيمطر. بحب ريحة المطر أوي. الجو ده بيخليني أحس بالراحة والهدوء.",
+    "g2p": "ennaharda elgaww meghayyem weshaklo hayemTor. ba7ebb rii7et elmaTar 2awy. elgaww da beykhalliiny a7ess berraa7a welhodoo2."
+  },
+  {
+    "text": "أنا بحب أوي أعمل سلطات متنوعة. بتكون صحية ومغذية. وبحط فيها كل أنواع الخضار والبروتين.",
+    "g2p": "ana ba7ebb 2awy a3mel salaTaat motanawwe3a. betkoon Se77eyya wemoghazzeya. weba7oTT fiiha kol anwaa3 elkhoDaar welbrootiin."
+  },
+  {
+    "text": "صاحبتي ولدت النهاردة وجابت بنوتة زي القمر. فرحانة بيها جداً. لازم أروحلها بكرة أبارك وأشوف البيبي.",
+    "g2p": "Sa7bety wledet ennaharda wegaabet banoota zay el2amar. far7aana biiha geddan. laazem aroo7ellaha bokra abaarek wa2ashoof elbeeby."
+  },
+  {
+    "text": "أنا بحب أوي أقرأ مقالات علمية. بتزود ثقافتي ومعلوماتي. وبحب أتعلم حاجات جديدة كل يوم.",
+    "g2p": "ana ba7ebb 2awy a2ra maqaalaat 3elmeyya. betzawwed thaqaafty wema3loomaaty. weba7ebb at3allem 7agaat gidiida kol yoom."
+  },
+  {
+    "text": "الأسعار في الكافيهات بقت غالية جداً. كوباية القهوة سعرها بقى مبالغ فيه. الواحد هيعمل قهوته في البيت بعد كده.",
+    "g2p": "el2as3aar felkafeehaat ba2et ghalya geddan. kobbaayet el2ahwa se3raha ba2a mobaalagh fiih. elwaa7ed haye3mel qahweto felbeet ba3d keda."
+  },
+  {
+    "text": "أنا بحب أوي أتابع برامج المسابقات. بيكون فيها تنافس وتشويق. وبستمتع بأداء المتسابقين.",
+    "g2p": "ana ba7ebb 2awy ataabe3 baraameg elmosab2aat. beykoon fiiha tanaafos wetashwiiq. webastamte3 be2adaa2 elmotasaabeqiin."
+  },
+  {
+    "text": "النهاردة طبخت مكرونة بالصلصة وكفتة. الأكل كان طعمه حلو والولاد حبوه. الطبخ متعة بالنسبة لي.",
+    "g2p": "ennaharda Tabakht makarona beSSalSa wekofta. el2akl kaan Ta3mo 7elw welwelaad 7abbooh. eTTabkh mot3a bennesba leyya."
+  },
+  {
+    "text": "أنا بحب أوي أروح الأماكن الطبيعية زي الصحرا والجبال. بحس بالحرية والاتساع. المناظر هناك بتكون خلابة.",
+    "g2p": "ana ba7ebb 2awy aroo7 el2amaaken eTTabii3eyya zay eSSa7ra welgebaal. ba7ess bel7orreyya wel2ettesaa3. elmanaaZer henaak betkoon khallaaba."
+  },
+  {
+    "text": "بكرة عندي امتحان مهم في الجامعة. لازم أراجع كويس وأركز. يارب أحل كويس وأجيب تقدير عالي.",
+    "g2p": "bokra 3andy emte7aan mohem felgam3a. laazem araage3 kwayyes wa2arakkez. ya rab a7ell kwayyes wa2agiib ta2diir 3aaly."
+  },
+  {
+    "text": "أنا بحب أوي أعمل إكسسوارات يدوية. بستخدم الخرز والأحجار الملونة. هواية ممتعة وممكن تكون مشروع صغير.",
+    "g2p": "ana ba7ebb 2awy a3mel eksSowaaraat yadaweyya. bastakhdem elkharaz wel2a7gaar elmolawwana. hewaaya momte3a wemomken tekoon mashroo3 Soghayyar."
+  },
+  {
+    "text": "الموبايل بتاعي وقع مني واتكسر. زعلان عليه أوي. لازم أروح أصلحه أو أشتري واحد جديد. مش عارف أعمل إيه.",
+    "g2p": "elmobayl beta3y we2e3 menny wetkasar. za3laan 3aleeh 2awy. laazem aroo7 aSalla7o aw ashteery waa7ed gidiid. mesh 3aaref a3mel eeh."
+  },
+  {
+    "text": "أنا بحب أوي أسمع أغاني فيروز الصبح. صوتها بيديني إحساس بالراحة والهدوء. ببدأ يومي بمزاج حلو.",
+    "g2p": "ana ba7ebb 2awy asma3 aghaany fayrooz eSSob7. Soot-ha beyeddiiny e7saas berraa7a welhodoo2. babda2 yoomy bemazaag 7elw."
+  },
+  {
+    "text": "النهاردة عملت عزومة كبيرة لأصحابي. طبختلهم أكل كتير ومتنوع. اتبسطنا وقضينا وقت حلو مع بعض.",
+    "g2p": "ennaharda 3amalt 3ozooma kibiira le2aS7aaby. Tabakhtelhom akl keteer wemotenawwe3. etbasaTna we2aDDeyna wa2t 7elw ma3a ba3D."
+  },
+  {
+    "text": "أنا بحب أوي أروح القلعة وأتفرج على منظر القاهرة من فوق. بحس بعظمة المدينة وتاريخها. مكان مميز جداً.",
+    "g2p": "ana ba7ebb 2awy aroo7 el2al3a wa2atfarrag 3ala manZar elqaahira men foo2. ba7ess be3aZamet elmediina wetariikhaha. makaan momayyez geddan."
+  },
+  {
+    "text": "بنتي الصغيرة تعبانة شوية وعندها سخونية. قلقانة عليها أوي. هوديها للدكتور بكرة الصبح عشان يطمني.",
+    "g2p": "benty eSSoghayyara ta3baana shwayya we3andaha sokhooneyya. 2al2aana 3aleeha 2awy. hawaddiiha leddoktoor bokra eSSob7 3ashaan yeTammenny."
+  },
+  {
+    "text": "أنا بحب أوي أقرأ كتب في مجال التسويق والمبيعات. بحاول أطور من نفسي في شغلي. المعرفة قوة.",
+    "g2p": "ana ba7ebb 2awy a2ra kotob fe magaal ettaswiiq welmabii3aat. ba7aawel aTawwar men nafsy fe shoghly. elma3refa qowwa."
+  },
+  {
+    "text": "الجو النهاردة حلو بس فيه تراب. الواحد مش عارف يلبس صيفي ولا شتوي. تقلبات الجو دي صعبة.",
+    "g2p": "elgaww ennaharda 7elw bass fiih toraab. elwaa7ed mesh 3aaref yelbes Seefy wala shetwy. taqallobaat elgaww di Sa3ba."
+  },
+  {
+    "text": "أنا بحب أوي أعمل كيكة برتقال. ريحتها بتكون فظيعة وطعمها خفيف. وصفة سهلة وسريعة.",
+    "g2p": "ana ba7ebb 2awy a3mel kiiket borto2aal. rii7etha betkoon faZii3a weTa3maha khafiif. waSfa sahla wesarii3a."
+  },
+  {
+    "text": "صاحبي سافر بره يكمل تعليمه. وحشني جداً. بنتكلم كل يوم على النت عشان نطمن على بعض.",
+    "g2p": "Sa7by saafer barra yekammel ta3liimo. wa7eshny geddan. benetkallem kol yoom 3alennet 3ashaan neTammen 3ala ba3D."
+  },
+  {
+    "text": "أنا بحب أوي أروح معارض الكتب. بشتري كتب كتير وبحضر ندوات. بحس إنها فرصة ثقافية عظيمة.",
+    "g2p": "ana ba7ebb 2awy aroo7 ma3aareD elkotob. bashteery kotob keteer weba7Dar nadawaat. ba7ess ennaha forSa thaqafeyya 3aZiima."
+  },
+  {
+    "text": "النهاردة رجعت من الشغل تعبان جداً. يوم طويل ومرهق. محتاج أنام بدري عشان أقدر أصحى فايق بكرة.",
+    "g2p": "ennaharda rege3t men eshshoghl ta3baan geddan. yoom Tawiil wemorheq. me7taag anaam badry 3ashaan a2dar aS7a faayeq bokra."
+  },
+  {
+    "text": "أنا بحب أوي أسمع بودكاست عن مواضيع مختلفة. بستفيد منها وبسلي وقتي في المواصلات. فكرة حلوة جداً.",
+    "g2p": "ana ba7ebb 2awy asma3 bodkaast 3an mawaaDii3 mokhtalefa. bastafiid menha webasally wa2ty felmowaSlaat. fekra 7elwa geddan."
+  },
+  {
+    "text": "أنا بحب أتابع المسلسلات الأجنبية جداً. القصص بتكون مختلفة والإنتاج قوي. بستنى الحلقات الجديدة بفارغ الصبر.",
+    "g2p": "ana ba7ebb ataabe3 elmosalsalaat el2agnabeyya geddan. elqeSaS betkoon mokhtalefa wel2entaag qawy. bastanna el7ala2aat elgidiida befaaregh eSSabr."
+  },
+  {
+    "text": "الكمبيوتر بتاعي بقى بطيء أوي. محتاج أعمله صيانة أو أغيره. مش عارف أشتغل عليه كويس.",
+    "g2p": "elkombyooter beta3y ba2a baTii2 2awy. me7taag a3mello Seyaana aw aghayyaro. mesh 3aaref ashtaghal 3aleeh kwayyes."
+  },
+  {
+    "text": "أنا بحب أوي أعمل مربى في البيت. بتكون طبيعية ومفيهاش مواد حافظة. مربى الفراولة والتين تحفة.",
+    "g2p": "ana ba7ebb 2awy a3mel morabba felbeet. betkoon Tabii3eyya wemafiihaash mawaadd 7afZa. morabbet elfaraawla wettiin to7fa."
+  },
+  {
+    "text": "النهاردة الجو رطوبة عالية جداً. الواحد حاسس إنه مخنوق. التكييف هو الحل الوحيد.",
+    "g2p": "ennaharda elgaww roTooba 3alya geddan. elwaa7ed 7aases enno makhnoo2. ettakyiif howa el7all elwa7iid."
+  },
+  {
+    "text": "أنا بحب أوي أروح المكتبات القديمة اللي بتبيع كتب مستعملة. بلاقي فيها كنوز بأسعار رخيصة. ريحة الكتب القديمة مميزة.",
+    "g2p": "ana ba7ebb 2awy aroo7 elmaktabaat el2adiima elly betbii3 kotob mosta3mala. balaa2y fiiha konooz be2as3aar rekhiiSa. rii7et elkotob el2adiima momayyaza."
+  },
+  {
+    "text": "عندي مقابلة شغل مهمة الأسبوع الجاي. لازم أجهز نفسي كويس وأكون واثق من نفسي. يارب ربنا يوفقني.",
+    "g2p": "3andy mo2ablet shoghl mohemma el2osboo3 elgaay. laazem agahhez nafsy kwayyes wa2akoon waatheq men nafsy. ya rab rabbena yewaffe2ny."
+  },
+  {
+    "text": "أنا بحب أوي أعمل بيتزا في البيت. بتكون أحلى وأنضف من بتاعة بره. والولاد بيحبوها جداً.",
+    "g2p": "ana ba7ebb 2awy a3mel biitza felbeet. betkoon a7la wa2anDaf men beta3et barra. welwelaad bey7ebbooha geddan."
+  },
+  {
+    "text": "الواحد محتاج أجازة يسافر فيها أي مكان هادي. يغير جو ويفصل من ضغط الحياة. السفر بيرجع الواحد فايق.",
+    "g2p": "elwaa7ed me7taag agaaza yesaafer fiiha ay makaan haady. yeghayyar gaww weyefSel men DaghT el7ayaah. essafar beyeragga3 elwaa7ed faayeq."
+  },
+  {
+    "text": "أنا بحب أوي أسمع أغاني التسعينات. بتفكرني بأيام الطفولة والذكريات الحلوة. جيل مميز.",
+    "g2p": "ana ba7ebb 2awy asma3 aghaany ettes3iinaat. betfakkarny be2ayyaam eTTofoola wezzekrayaat el7elwa. giil momayyez."
+  },
+  {
+    "text": "النهاردة عيد جوازنا. جوزي عملي مفاجأة حلوة وجابلي هدية. اتبسطت جداً. ربنا يخلينا لبعض.",
+    "g2p": "ennaharda 3iid gawazna. goozy 3amally mofag2a 7elwa wegaably hedeyya. etbasaTt geddan. rabbena yekhalliina leba3D."
+  },
+  {
+    "text": "أنا بحب أوي أقرأ عن تاريخ مصر القديم. الفراعنة كانوا حضارة عظيمة ومبهرة. آثارهم شاهدة على كده.",
+    "g2p": "ana ba7ebb 2awy a2ra 3an tariikh maSr el2adeem. elfara3na kaano 7aDaara 3aZiima wemobhera. aathaarhom shaaheda 3ala keda."
+  },
+  {
+    "text": "الجو النهاردة برد أوي. لازم نلبس تقيل وندفي نفسنا كويس. الشتا السنة دي شكله قارس.",
+    "g2p": "elgaww ennaharda bard 2awy. laazem nelbes te2eel wenedaffy nafsena kwayyes. eshsheta essana di shaklo qaares."
+  },
+  {
+    "text": "أنا بحب أوي أعمل عصير ليمون بالنعناع. بيكون منعش ومفيد. خصوصاً في الجو الحر.",
+    "g2p": "ana ba7ebb 2awy a3mel 3aSiir lamoon benne3naa3. beykoon mon3esh wemofiid. khoSooSan felgaww el7arr."
+  },
+  {
+    "text": "ابني عنده ماتش كورة مهم بكرة. هو متحمس جداً وعايز يكسب. هروح أشجعه وأقف جنبه.",
+    "g2p": "ebny 3ando match koora mohem bokra. howa met7ammes geddan we3aayez yeksab. haroo7 ashagga3o wa2a2af gambo."
+  },
+  {
+    "text": "أنا بحب أوي أروح الأماكن اللي فيها زرع وخضرة. بحس براحة نفسية وهدوء. الطبيعة ليها سحر خاص.",
+    "g2p": "ana ba7ebb 2awy aroo7 el2amaaken elly fiiha zar3 wekhoDra. ba7ess beraa7a nafseyya wehodoo2. eTTabii3a liiha se7r khaaS."
+  },
+  {
+    "text": "النهاردة يوم طويل في الشغل. رجعت البيت مهدود. محتاج كوباية شاي وأقعد أرتاح شوية.",
+    "g2p": "ennaharda yoom Tawiil feshshoghl. rege3t elbeet mahdood. me7taag kobbaayet shaay wa2a23od artaa7 shwayya."
+  },
+  {
+    "text": "أنا بحب أوي أتابع أخبار الفن والفنانين. بحب أعرف إيه الجديد في الساحة الفنية. الفن جزء مهم من حياتنا.",
+    "g2p": "ana ba7ebb 2awy ataabe3 akhbaar elfann welfannaniin. ba7ebb a3raf eeh elgidiid fessaa7a elfanniyya. elfann goz2 mohem men 7ayatna."
+  },
+  {
+    "text": "الشارع قدام بيتنا مكسر ومليان حفر. العربيات بتمشي بصعوبة. لازم نشتكي للحي عشان يصلحوه.",
+    "g2p": "eshshaare3 2oddaam beetna mekassar wemalyaan 7ofar. el3arabeyyaat temshy beSo3ooba. laazem neshteky lel7ayy 3ashaan yeSalla7ooh."
+  },
+  {
+    "text": "أنا بحب أوي أعمل شوربة عدس في الشتا. بتكون دافية ومغذية. وطعمها حلو أوي مع العيش المحمص.",
+    "g2p": "ana ba7ebb 2awy a3mel shorbet 3ads feshsheta. betkoon dafya wemoghazzeya. weTa3maha 7elw 2awy ma3a el3eesh elmo7ammaS."
+  },
+  {
+    "text": "جاري الجديد شكله محترم وهادي. لسه متعرفتش عليه كويس. يارب يكون جار كويس ونرتاح مع بعض.",
+    "g2p": "gaary elgidiid shaklo mo7taram wehaady. lessa meta3arraftesh 3aleeh kwayyes. ya rab yekoon gaar kwayyes weneraa7 ma3a ba3D."
+  },
+  {
+    "text": "أنا بحب أوي أقرأ في مجال التنمية البشرية. بتديني طاقة إيجابية وبتساعدني أطور من نفسي. القراءة مفيدة جداً.",
+    "g2p": "ana ba7ebb 2awy a2ra fe magaal ettanmeya elbashareyya. beteddiiny Taaqa iigaabeyya webetsaa3edny aTawwar men nafsy. elqeraa2a mofiida geddan."
+  },
+  {
+    "text": "الجو النهاردة هوا جامد. الشبابيك بتخبط. لازم نقفل كل حاجة كويس عشان التراب ميدخلش.",
+    "g2p": "elgaww ennaharda hawa gaamed. eshshabaabiik betkhabbaT. laazem ne2fel kol 7aaga kwayyes 3ashaan ettoraab mayedkhulsh."
+  },
+  {
+    "text": "أنا بحب أوي أعمل كفتة مشوية في البيت. بتكون صحية ولذيذة. والولاد بيحبوها أكتر من بتاعة بره.",
+    "g2p": "ana ba7ebb 2awy a3mel kofta mashweyya felbeet. betkoon Se77eyya welaziiza. welwelaad bey7ebbooha aktar men beta3et barra."
+  },
+  {
+    "text": "صاحبتي هتتجوز الشهر الجاي. فرحنالها جداً. لازم أبدأ أجهز نفسي وأشوف هلبس إيه في الفرح.",
+    "g2p": "Sa7bety hatetgawwez eshshahr elgaay. fera7nalha geddan. laazem abda2 agahhez nafsy wa2ashoof halbes eeh felFara7."
+  },
+  {
+    "text": "أنا بحب أوي أروح خان الخليلي وأشتري تحف وهدايا تذكارية. بحس بروح مصر القديمة هناك. مكان ساحر.",
+    "g2p": "ana ba7ebb 2awy aroo7 khaan elkhaliily wa2ashteery to7af wehadaaya tezkaareyya. ba7ess beroo7 maSr el2adiima henaak. makaan saa7er."
+  },
+  {
+    "text": "النهاردة اتعشيت أكل خفيف. زبادي وفاكهة. بحاول أخفف عشاني عشان أنام مرتاح وميحصليش حموضة.",
+    "g2p": "ennaharda et3ashsheet akl khafiif. zabaady wefakha. ba7aawel akhaffef 3ashaany 3ashaan anaam mertaa7 wemaye7Sallysh 7omooDa."
+  },
+  {
+    "text": "أنا بحب أوي أتابع برامج المواهب. بيكون فيها ناس موهوبة جداً في مجالات مختلفة. بستمتع بأدائهم.",
+    "g2p": "ana ba7ebb 2awy ataabe3 baraameg elmawaaheb. beykoon fiiha naas mawhooba geddan fe magaalaat mokhtalefa. bastamte3 be2adaa2hom."
+  },
+  {
+    "text": "المواصلات زحمة جداً الصبح. الطريق اللي بياخد نص ساعة خدته في ساعة ونص. لازم أطلع بدري عن كده بكتير.",
+    "g2p": "elmowaSlaat za7ma geddan eSSob7. eTTarii2 elly beyakhod noSS saa3a khadto fe saa3a wenoSS. laazem aTla3 badry 3an keda bekteer."
+  },
+  {
+    "text": "أنا بحب أوي أعمل رز بلبن في البيت. بيكون طعمه كريمي وحلو. والولاد بيعشقوه.",
+    "g2p": "ana ba7ebb 2awy a3mel rozz belaban felbeet. beykoon Ta3mo kriimy we7elw. welwelaad beye3sha2ooh."
+  },
+  {
+    "text": "أخويا نجح في الثانوية العامة وجاب مجموع كبير. فرحانين بيه جداً. عملناله حفلة صغيرة في البيت.",
+    "g2p": "akhoya naga7 fessanaweyya el3aamma wegaab magmoo3 kibiir. far7aaniin biih geddan. 3amalnaalo 7afla Soghayyara felbeet."
+  },
+  {
+    "text": "أنا بحب أوي أقرأ روايات بوليسية وتشويق. بحب أحاول أحل اللغز مع البطل. بتشدني جداً.",
+    "g2p": "ana ba7ebb 2awy a2ra rewayaat boliiseyya wetashwiiq. ba7ebb a7aawel a7ell elloGhz ma3a elbaTal. betsheddeny geddan."
+  },
+  {
+    "text": "الجو حر أوي ومش لاقي ريموت التكييف. قلبت عليه الشقة كلها. أنا هتجنن من الحر.",
+    "g2p": "elgaww 7arr 2awy wemesh laa2y riimoot ettakyiif. 2allabt 3aleeh eshsha22a kollaha. ana hatgannen men el7arr."
+  },
+  {
+    "text": "أنا بحب أوي أعمل سلطة فواكه. بتكون منعشة ومغذية. وبحط فيها كل أنواع الفاكهة اللي بحبها.",
+    "g2p": "ana ba7ebb 2awy a3mel salaTet fawaakeh. betkoon mon3esha wemoghazzeya. weba7oTT fiiha kol anwaa3 elfakha elly ba7ebbaha."
+  },
+  {
+    "text": "جوزي راجع من السفر بكرة. وحشني جداً. هعمله الأكل اللي بيحبه وأستناه.",
+    "g2p": "goozy raage3 men essafar bokra. wa7eshny geddan. ha3mello el2akl elly bey7ebbo wa2astannaah."
+  },
+  {
+    "text": "أنا بحب أوي أروح السينمات القديمة. ليها طابع خاص وبتفكرني بزمن فات. بحس فيها بروح الأصالة.",
+    "g2p": "ana ba7ebb 2awy aroo7 essinemaat el2adiima. liiha Taabe3 khaaS webetfakkarny bezaman faat. ba7ess fiiha beroo7 el2aSala."
+  },
+  {
+    "text": "النهاردة يوم ممل أوي. مفيش حاجة جديدة أعملها. بفكر أنزل أتمشى شوية أغير جو.",
+    "g2p": "ennaharda yoom momell 2awy. mafiish 7aaga gidiida a3melha. bafakkar anzel atmashsha shwayya aghayyar gaww."
+  },
+  {
+    "text": "أنا بحب أوي أسمع قرآن بصوت الشيخ المنشاوي. صوته بيريح الأعصاب وبيخليني أحس بخشوع. ربنا يرحمه.",
+    "g2p": "ana ba7ebb 2awy asma3 qor2aan beSoot eshsheekh elmenshaawy. Sootoh beyrayya7 el2a3Saab webeykhalliiny a7ess bekhoshoo3. rabbena yer7amo."
+  },
+  {
+    "text": "لازم أبدأ أجهز شنطة السفر. مسافرة المصيف بعد بكرة. متحمسة جداً للبحر والجو الحلو.",
+    "g2p": "laazem abda2 agahhez shanTet essafar. mesafra elmaSyaf ba3d bokra. met7ammesa geddan lelba7r welgaww el7elw."
+  },
+  {
+    "text": "أنا بحب أوي أتابع صفحات الطبخ على السوشيال ميديا. باخد منها أفكار ووصفات جديدة. بتسهل عليا كتير.",
+    "g2p": "ana ba7ebb 2awy ataabe3 Safa7aat eTTabkh 3ala essoshal medya. baakhod menha afkaar wawaSafaat gidiida. betsahhel 3alayya keteer."
+  },
+  {
+    "text": "النت بطيء جداً النهاردة. مش عارف أفتح أي حاجة. شكل الشركة بتعمل صيانة أو فيه مشكلة.",
+    "g2p": "ennet baTii2 geddan ennaharda. mesh 3aaref afta7 ay 7aaga. shakl eshsherka bet3mel Seyaana aw fiih moshkela."
+  },
+  {
+    "text": "أنا بحب أوي أعمل محشي ورق عنب. بيكون طعمه تحفة. بس بياخد وقت ومجهود كبير في اللف.",
+    "g2p": "ana ba7ebb 2awy a3mel ma7shy wara2 3enab. beykoon Ta3mo to7fa. bass beyakhod wa2t wemaghood kibiir fellaff."
+  },
+  {
+    "text": "بنتي عندها مسابقة رسم في المدرسة. هي موهوبة جداً في الرسم. يارب تكسب وتفرح.",
+    "g2p": "benty 3andaha mosab2et rasm felmadrasa. heyya mawhooba geddan ferrasm. ya rab teksab wetefra7."
+  },
+  {
+    "text": "أنا بحب أوي أروح الأماكن اللي فيها عروض فنية وثقافية. بستمتع بالفن وبحس إنه بيغذي الروح. مصر مليانة فنون.",
+    "g2p": "ana ba7ebb 2awy aroo7 el2amaaken elly fiiha 3orooD fanneyya wethaqafeyya. bastamte3 belfann weba7ess enno beyghazzy erroo7. maSr malyaana fonoon."
+  },
+  {
+    "text": "النهاردة الجو صافي والسما زرقا. منظر يفتح النفس. أحسن حاجة الواحد يستمتع بالجو ده.",
+    "g2p": "ennaharda elgaww Saafy wessama zar2a. manZar yefta7 ennafs. a7san 7aaga elwaa7ed yestamte3 belgaww da."
+  },
+  {
+    "text": "أنا بحب أوي أسمع أغاني وردة الجزائرية. صوتها قوي ومليان إحساس. أغانيها كلها تحف فنية.",
+    "g2p": "ana ba7ebb 2awy asma3 aghaany warda elgazaa2ereyya. Sootha qawy wemalyaan e7saas. aghaaniiha kollaha to7af fanneyya."
+  },
+  {
+    "text": "النهاردة الدنيا زحمة بشكل غير طبيعي. الشوارع كلها واقفة. الواحد كره الخروج من البيت.",
+    "g2p": "ennaharda eddonya za7ma beshakl gheer Tabii3y. eshshawaare3 kollaha wa2fa. elwaa7ed kereh elkhoroog men elbeet."
+  },
+  {
+    "text": "أنا بحب أوي أعمل فراخ مشوية في الفرن. بتكون صحية وطعمها حلو. والولاد بيحبوها مع الرز والمكرونة.",
+    "g2p": "ana ba7ebb 2awy a3mel feraakh mashweyya felkorn. betkoon Se77eyya weTa3maha 7elw. welwelaad bey7ebbooha ma3a errozz welmakarona."
+  },
+  {
+    "text": "أنا بحب أوي أقرأ عن علم الفلك والنجوم. بحس بعظمة الكون وقدرة الخالق. مجال شيق ومثير.",
+    "g2p": "ana ba7ebb 2awy a2ra 3an 3elm elfalak wennogoom. ba7ess be3aZamet elkoon weqodret elkhaaleq. magaal shayyeq wemothiir."
+  },
+  {
+    "text": "الجو قالب فجأة وبقى برد. كنت لابسة صيفي. لازم أرجع أغير هدومي وألبس حاجة تقيلة.",
+    "g2p": "elgaww 2aalb fag2a weba2a bard. kont labsa Seefy. laazem arga3 aghayyar hedoomy wa2albes 7aaga te2iila."
+  },
+  {
+    "text": "أنا بحب أوي أعمل صينية بطاطس بالفراخ. أكلة سهلة وسريعة وطعمها يجنن. كل البيت بيحبها.",
+    "g2p": "ana ba7ebb 2awy a3mel Saniyyet baTaaTes belferaakh. akla sahla wesarii3a weTa3maha yegannen. kol elbeet bey7ebbaha."
+  },
+  {
+    "text": "أنا بحب أوي أتابع برامج المسابقات الثقافية. بتزود معلوماتي وبستمتع بالتنافس بين المتسابقين. بحاول أجاوب معاهم.",
+    "g2p": "ana ba7ebb 2awy ataabe3 baraameg elmosab2aat eththaqaafeyya. betzawwed ma3loomaaty webastamte3 bettanaafos been elmotasaabeqiin. ba7aawel agaweb ma3aahom."
+  },
+  {
+    "text": "النهاردة مزاجي مش رايق خالص. حاسس بملل وزهق. محتاج أعمل أي حاجة تخرجني من المود ده.",
+    "g2p": "ennaharda mazaagy mesh raayeq khaaleS. 7aases bemallal wezahaq. me7taag a3mel ay 7aaga tekharregny men elmood da."
+  },
+  {
+    "text": "أنا بحب أوي أسمع أغاني محمد منير. صوته مميز وأغانيه ليها طابع خاص. الكينج ده حالة فريدة.",
+    "g2p": "ana ba7ebb 2awy asma3 aghaany mo7ammad moniir. Sootoh momayyez wa2aghaaniih liiha Taabe3 khaaS. elkiing da 7aala fariida."
+  },
+  {
+    "text": "النهاردة يوم الجمعة. صحيت متأخر وفطرت براحتي. هقضي اليوم في البيت أرتاح وأتفرج على التليفزيون.",
+    "g2p": "ennaharda yoom elgom3a. Se7iit met2akhkhar wefeTert beraa7ty. ha2aDDy elyoom felbeet artaa7 wa2atfarrag 3alettelevizyoon."
+  },
+  {
+    "text": "أنا بحب أوي أعمل ملوخية بالأرانب. أكلة مصرية أصيلة وطعمها لا يقاوم. بس الأرانب غالية شوية.",
+    "g2p": "ana ba7ebb 2awy a3mel molokheyya bel2araanb. akla maSreyya aSiila weTa3maha la yoqaawam. bass el2araanb ghalya shwayya."
+  },
+  {
+    "text": "أنا بحب أوي أقرأ روايات عالمية مترجمة. بتعرفني على ثقافات وأدب مختلف. القراءة بتفتح العقل.",
+    "g2p": "ana ba7ebb 2awy a2ra rewayaat 3aalameyya motargama. bet3arrafny 3ala thaqafaat wa2adab mokhtalef. elqeraa2a betefta7 el3aql."
+  },
+  {
+    "text": "الجو حر جداً وعايز أشرب حاجة ساقعة. هعمل عصير مانجا فريش. أحسن حاجة في الحر ده.",
+    "g2p": "elgaww 7arr geddan we3aayez ashrab 7aaga sa23a. ha3mel 3aSiir manga fresh. a7san 7aaga fel7arr da."
+  },
+  {
+    "text": "أنا بحب أوي أعمل شوربة لسان عصفور. بتكون خفيفة ومغذية. والولاد بيحبوها لما بيكونوا تعبانين.",
+    "g2p": "ana ba7ebb 2awy a3mel shorbet lesaan 3aSfoor. betkoon khafiifa wemoghazzeya. welwelaad bey7ebbooha lamma beykoono ta3baaniin."
+  },
+  {
+    "text": "أنا بحب أوي أتابع أخبار الرياضة العالمية. كل الألعاب مش بس الكورة. بحب أعرف إيه الجديد في عالم الرياضة.",
+    "g2p": "ana ba7ebb 2awy ataabe3 akhbaar erreyaaDa el3aalameyya. kol el2al3aab mesh bas elkoora. ba7ebb a3raf eeh elgidiid fe 3aalam erreyaaDa."
+  },
+  {
+    "text": "النهاردة صحيت بدري عشان ألحق أروح مشوار مهم. خلصته الحمد لله ورجعت البيت. هنام شوية عشان تعبان.",
+    "g2p": "ennaharda Se7iit badry 3ashaan al7a2 aroo7 meshwaar mohem. khallaSto el7amdu lillaah werege3t elbeet. hanaam shwayya 3ashaan ta3baan."
+  },
+  {
+    "text": "أنا بحب أوي أسمع أغاني عمرو دياب القديمة. بتفكرني بأيام الجامعة والشباب. أغانيه ليها ذكريات حلوة.",
+    "g2p": "ana ba7ebb 2awy asma3 aghaany 3amr diab el2adiima. betfakkarny be2ayyaam elgam3a weshshabaab. aghaaniih liiha zekrayaat 7elwa."
+  },
+  {
+    "text": "النهاردة الجو جميل وهادي. الشمس طالعة والهوا حلو. أحسن حاجة الواحد ينزل يتمشى في مكان مفتوح.",
+    "g2p": "ennaharda elgaww gameel wehaady. eshshams Tal3a welhawa 7elw. a7san 7aaga elwaa7ed yenzel yetmashsha fe makaan maftoo7."
+  },
+  {
+    "text": "أنا بحب أوي أعمل سمك مقلي ورز صيادية. أكلة بحرية تحفة. بس ريحة القلي بتملى الشقة.",
+    "g2p": "ana ba7ebb 2awy a3mel samak ma2ly werozz Sayyadeyya. akla ba7areyya to7fa. bass rii7et el2aly betemla eshsha22a."
+  },
+  {
+    "text": "أنا بحب أوي أقرأ في مجال التاريخ الإسلامي. بحس بعظمة الحضارة الإسلامية وإنجازاتها. تاريخ مشرف.",
+    "g2p": "ana ba7ebb 2awy a2ra fe magaal ettariikh el2eslaamy. ba7ess be3aZamet el7aDaara el2eslaameyya we2engaazaatha. tariikh mosharref."
+  },
+  {
+    "text": "الجو حر أوي والكهربا قطعت. مش عارف أعمل إيه في نفسي. التكييف والمروحة مش شغالين. ربنا يستر.",
+    "g2p": "elgaww 7arr 2awy welkahraaba 2aTa3et. mesh 3aaref a3mel eeh fe nafsy. ettakyiif welmarwa7a mesh shaghghaaliin. rabbena yostor."
+  },
+  {
+    "text": "أنا بحب أوي أعمل كفتة داوود باشا. أكلة لذيذة وسهلة. والولاد بيحبوها مع الرز الأبيض.",
+    "g2p": "ana ba7ebb 2awy a3mel koftet dawood baasha. akla laziiza wesahla. welwelaad bey7ebbooha ma3a errozz el2abyaD."
+  },
+  {
+    "text": "أنا بحب أوي أتابع أخبار الاقتصاد والبورصة. بحاول أفهم إيه اللي بيحصل في العالم. مجال مهم ومؤثر.",
+    "g2p": "ana ba7ebb 2awy ataabe3 akhbaar el2eqteSaad welborSa. ba7aawel afham eeh elly bye7Sal fel3aalam. magaal mohem wemo2athther."
+  },
+  {
+    "text": "النهاردة صحيت من النوم مصدع ومش فايق. شكلي منمتش كويس. محتاج كوباية قهوة تفوقني.",
+    "g2p": "ennaharda Se7iit men ennoom meSadda3 wemesh faayeq. shakly menemtesh kwayyes. me7taag kobbaayet 2ahwa tefawe2ny."
+  },
+  {
+    "text": "أنا بحب أوي أسمع أغاني نجاة الصغيرة. صوتها كله رقة وإحساس. أغانيها بتدخل القلب على طول.",
+    "g2p": "ana ba7ebb 2awy asma3 aghaany nagaat eSSaghiira. Sootha kollo re22a we2e7saas. aghaaniiha betedkhul el2alb 3ala Tool."
+  },
+  {
+    "text": "النهاردة الجو برد ومطر. أحسن حاجة الواحد يقعد في البيت تحت البطانية ويشرب حاجة سخنة. جو شتوي أصيل.",
+    "g2p": "ennaharda elgaww bard wemaTar. a7san 7aaga elwaa7ed yo23od felbeet ta7t elbaTTaneyya weyeshrab 7aaga sokhna. gaww shetwy aSiil."
+  },
+  {
+    "text": "أنا بحب أوي أعمل مكرونة نجرسكو. أكلة دسمة وغنية وطعمها يجنن. بس بتاخد وقت في التحضير.",
+    "g2p": "ana ba7ebb 2awy a3mel makarona negresko. akla dasma weghaneyya weTa3maha yegannen. bass betakhod wa2t feTTa7Diir."
+  },
+  {
+    "text": "أنا بحب أوي أقرأ في مجال علم النفس الاجتماعي. بيساعدني أفهم سلوك الناس وتفاعلاتهم. مجال ممتع جداً.",
+    "g2p": "ana ba7ebb 2awy a2ra fe magaal 3elm ennafs el2egtemaa3y. beysaa3edny afham solook ennaas wetafa3olaathom. magaal momte3 geddan."
+  },
+  {
+    "text": "الجو حر أوي ومش قادر أركز في أي حاجة. نفسي أروح مكان فيه بحر أو حمام سباحة. محتاج أرطب على نفسي.",
+    "g2p": "elgaww 7arr 2awy wemesh qaader arakkez fe ay 7aaga. nefsy aroo7 makaan fiih ba7r aw 7ammaam sebaa7a. me7taag araTTeb 3ala nafsy."
+  },
+  {
+    "text": "أنا بحب أوي أعمل بامية باللحمة الضاني. أكلة مصرية تقيلة وطعمها خطير. بس بتكون دسمة أوي.",
+    "g2p": "ana ba7ebb 2awy a3mel baamya bella7ma eDDaany. akla maSreyya te2iila weTa3maha khaTiir. bass betkoon dasma 2awy."
+  },
+  {
+    "text": "أنا بحب أوي أتابع أخبار الفضاء والاكتشافات الجديدة. الكون ده مليان أسرار وعجائب. نفسي أعرف أكتر عنه.",
+    "g2p": "ana ba7ebb 2awy ataabe3 akhbaar elfaDaa2 welekteshafaat elgidiida. elkoon da malyaan asraar we3agaa2eb. nefsy a3raf aktar 3anno."
+  },
+  {
+    "text": "النهاردة صحيت نشيط ومبسوط. نمت كويس وصحيت فايق. هبدأ يومي بكوباية نسكافيه وأشوف هعمل إيه.",
+    "g2p": "ennaharda Se7iit nashiiT wemabsooT. nemt kwayyes weSe7iit faayeq. habda2 yoomy bekobbaayet neskafeeh wa2ashoof ha3mel eeh."
+  },
+  {
+    "text": "أنا بحب أوي أسمع أغاني شادية. صوتها كله بهجة وفرحة. أغانيها بتفكرني بالزمن الجميل.",
+    "g2p": "ana ba7ebb 2awy asma3 aghaany shaadya. Sootha kollo bahga wefar7a. aghaaniiha betfakkarny bezzaman elgamiil."
+  }
+]
