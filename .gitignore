@@ -1,5 +1,7 @@
 docker_image/ASR_for_egyptian_dialect/Models/asr_model.ckpt
 docker_image/sample_data
 Dataset/data
+Dataset/sample
 Data_preprocessing/sample_data
 Data_preprocessing/all_data
+web_dataset
