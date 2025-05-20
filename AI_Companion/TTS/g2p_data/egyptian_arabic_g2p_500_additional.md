@@ -1,10 +1,3 @@
-# Egyptian Arabic Grapheme-to-Phoneme Dataset (Additional 500 entries)
-
-## Format
-word<TAB>pronunciation
-
-## Dataset
-
 رايح	raːjiħ
 جاي	gaːj
 فات	faːt

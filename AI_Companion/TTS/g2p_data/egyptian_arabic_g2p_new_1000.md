@@ -1,10 +1,3 @@
-# Egyptian Arabic Grapheme-to-Phoneme Dataset (New 1000 Examples)
-
-## Format
-word<TAB>pronunciation
-
-## Dataset
-
 بيكتب	bijiktib
 بيقرأ	bijʔra
 بيتعلم	bijetʕallim

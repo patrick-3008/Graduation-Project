@@ -1,10 +1,3 @@
-# Egyptian Arabic Grapheme-to-Phoneme Dataset (500 entries)
-
-## Format
-word<TAB>pronunciation
-
-## Dataset
-
 مصر	mɑsˤr
 قاهرة	ʔaːhira
 إزيك	izzaːjak

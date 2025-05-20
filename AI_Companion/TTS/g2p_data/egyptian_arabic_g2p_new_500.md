@@ -1,10 +1,3 @@
-# Egyptian Arabic Grapheme-to-Phoneme Dataset (New 500 Examples)
-
-## Format
-word<TAB>pronunciation
-
-## Dataset
-
 مدينة	madiːna
 شاطئ	ʃaːtˤiʔ
 حديقة	ħadiːʔa

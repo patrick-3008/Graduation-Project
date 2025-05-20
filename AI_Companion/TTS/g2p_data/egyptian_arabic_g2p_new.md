@@ -1,10 +1,3 @@
-# New Egyptian Arabic Grapheme-to-Phoneme Dataset (1000 Examples)
-
-## Format
-word<TAB>pronunciation
-
-## Dataset
-
 مكتبة	maktaba
 بيطلع	bijetˤlaʕ
 ماكانش	makanʃ
